@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenge"
-    excerpt: "Tasks include data-efficient **classification**, **detection**, **segmentation** and **action recognition**."
+    excerpt: "Including data-efficient **classification**, **detection**, **segmentation** and **action recognition**."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
