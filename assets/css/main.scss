@@ -7,8 +7,11 @@
 .page__hero--overlay .page__lead { max-width: 600px !important;}
 @media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2em !important; max-width: 600px !important; } }
 
-.archive__item-teaser img { max-height: 64px !important; max-width: 120px !important; width: auto !important; }
+.archive__item-teaser img { width: 60% !important; }
+div.feature__wrapper:nth-child(2) .archive__item-teaser img { max-height: 64px !important; max-width: 120px !important; width: auto !important; }
 .archive__item-teaser { text-align: center !important; }
+.archive__item-body { text-align: center !important; }
+div.feature__wrapper:nth-child(2) .archive__item-body { text-align: left !important; }
 
 .page__content table {
     display: table !important;
