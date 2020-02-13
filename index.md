@@ -4,15 +4,9 @@ layout: splash
 header:
   overlay_image: https://eccv2020.eu/wp-content/uploads/2019/10/ECCV-HEADER-Main.jpg
   caption: "Photo credit: [**ECCV 2020**](https://eccv2020.eu)"
-<<<<<<< HEAD
 excerpt: "ECCV 2020 <br/> 2x August 2020, Glasgow UK"
-intro: 
-  - excerpt: 'This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.'
-=======
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
->>>>>>> c3a442bbf17df8fa4896c4a6f2b30a441ff5731c
+  - excerpt: 'This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.'
 feature_row:
   - image_path: /assets/images/addtocal.png
     alt: "Add to calendar"
