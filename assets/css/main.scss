@@ -4,9 +4,6 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
 .page__hero--overlay .page__lead { max-width: 600px;}
 @media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2em; max-width: 600px; } }
 
@@ -29,3 +26,6 @@
 .page__content table th:nth-child(3), .page__content table td:nth-child(3) {
     width: 50%;
 }
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
