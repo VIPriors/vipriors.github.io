@@ -4,28 +4,28 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+.page__hero--overlay .page__lead { max-width: 600px !important;}
+@media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2em !important; max-width: 600px !important; } }
 
-.page__hero--overlay .page__lead { max-width: 600px;}
-@media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2em; max-width: 600px; } }
-
-.archive__item-teaser img { max-height: 64px; max-width: 120px; width: auto; }
-.archive__item-teaser { text-align: center; }
+.archive__item-teaser img { max-height: 64px !important; max-width: 120px !important; width: auto !important; }
+.archive__item-teaser { text-align: center !important; }
 
 .page__content table {
-    display: table;
-    text-align: center;
+    display: table !important;
+    text-align: center !important;
 }
 .page__content th {
-    text-align: center;
+    text-align: center !important;
 }
 .page__content table th:nth-child(1), .page__content table td:nth-child(1) {
-    width: 20%;
+    width: 20% !important;
 }
 .page__content table th:nth-child(2), .page__content table td:nth-child(2) {
-    width: 30%;
+    width: 30% !important;
 }
 .page__content table th:nth-child(3), .page__content table td:nth-child(3) {
-    width: 50%;
+    width: 50% !important;
 }
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
