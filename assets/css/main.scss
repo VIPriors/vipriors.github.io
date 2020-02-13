@@ -4,6 +4,23 @@
 
 @charset "utf-8";
 
+.page__content table {
+    display: table;
+    text-align: center;
+}
+.page__content th {
+    text-align: center;
+}
+.page__content table th:nth-child(1), .page__content table td:nth-child(1) {
+    width: 20%;
+}
+.page__content table th:nth-child(2), .page__content table td:nth-child(2) {
+    width: 30%;
+}
+.page__content table th:nth-child(3), .page__content table td:nth-child(3) {
+    width: 50%;
+}
+
 .page__hero--overlay .page__lead { max-width: 640px; }
 @media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2em; max-width: 640px; } }
 
