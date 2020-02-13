@@ -1,30 +1,30 @@
 ---
-title: "Visual Inductive Priors for Data-Efficient Deep Learning Workshop"
+title: "1st Visual Inductive Priors for Data-Efficient Deep Learning Workshop"
 layout: splash
 header:
   overlay_image: https://eccv2020.eu/wp-content/uploads/2019/10/ECCV-HEADER-Main.jpg
   caption: "Photo credit: [**ECCV 2020**](https://eccv2020.eu)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "ECCV 2020 <br/> 2x August 2020, Glasgow UK"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - image_path: /assets/images/addtocal.png
+    alt: "Add to calendar"
     title: "Workshop program"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Half-day program with invited speakers and challenge presentations."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/challenge.png
     title: "VIPriors challenge"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Tasks include data-efficient **classification**, **detection**, **segmentation** and **action recognition**."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -34,7 +34,7 @@ feature_row:
 
 {% include feature_row %}
 
-# Visual Inductive Priors for Data-Efficient Deep Learning
+# About the workshop
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
