@@ -28,6 +28,37 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+organizers_row:
+  - image_path: /assets/images/JanVanGemert.jpg
+    alt: "dr. Jan van Gemert"
+    title: "dr. Jan van Gemert"
+    excerpt: "Delft University of Technology"
+    url: "https://jvgemert.github.io/"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/challenge.png
+    alt: "dr. Anton van den Hengel"
+    title: "dr. Anton van den Hengel"
+    excerpt: "University of Adelaide"
+    url: "https://cs.adelaide.edu.au/~hengel/"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/challenge.png
+    alt: "Attila Lengyel"
+    title: "Attila Lengyel"
+    excerpt: "Delft University of Technology"
+  - image_path: /assets/images/challenge.png
+    alt: "Robert-Jan Bruintjes"
+    title: "Robert-Jan Bruintjes"
+    excerpt: "Delft University of Technology"
+  - image_path: /assets/images/challenge.png
+    alt: "Osman Kayhan"
+    title: "Osman Kayhan"
+    excerpt: "Delft University of Technology"
+  - image_path: /assets/images/challenge.png
+    alt: "Marcos Baptista Rios"
+    title: "Marcos Baptista Rios"
+    excerpt: "University of Alcala"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -58,3 +89,10 @@ We present the "Visual Inductive Priors for Data-Efficient Computer Vision'' cha
 
 Please see the [challenges page](/challenges) for details, including submission instructions.
 
+## Invited speakers
+
+*Speakers to be announced.*
+
+## Organizers
+
+{% include feature_row id="organizers_row" %}
