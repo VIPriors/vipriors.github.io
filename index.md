@@ -43,7 +43,7 @@ organizers_row:
     url: "https://cs.adelaide.edu.au/~hengel/"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/blank-photo.png
+  - image_path: /assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
     excerpt: "Delft University of Technology"
@@ -78,12 +78,12 @@ Excellent recent research investigates data efficiency in deep networks by explo
 
 | Time          | Event                           | Details                     |
 | ------------- | ------------------------------- | --------------------------- |
-| 9:00 - 9:05   | Introduction                    | Speaker: dr. Jan van Gemert |
-| 9:05 - 9:50   | Keynote 1                       | ...                         |
-| 9:50 - 10:35  | Keynote 2                       | ...                         |
-| 10:35 - 11:30 | Coffee break & posters          |                             |
-| 11:30 - 12:30 | Oral presentations              | ...                         |
-| 12:30 - 13:00 | Challenge winners presentations | ...                         |
+| 9:00 - 9:10   | Introduction                    | Speaker: dr. Jan van Gemert |
+| 9:10 - 9:55   | Keynote 1                       | Speaker: TBD                |
+| 9:55 - 10:40  | Keynote 2                       | Speaker: TBD                |
+| 10:40 - 11:30 | Coffee break & poster session   |                             |
+| 11:30 - 12:30 | Oral presentations              | Speakers: TBD               |
+| 12:30 - 13:00 | Challenge winners presentations | Speakers: TBD               |
 
 ## Call for papers
 
