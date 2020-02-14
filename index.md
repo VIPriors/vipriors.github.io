@@ -76,21 +76,26 @@ Excellent recent research investigates data efficiency in deep networks by explo
 
 ## Workshop program
 
-| Time | Event | Description |
-|------|-------|-------------|
-| TBD  | TBD   | TBD         |
+| Time          | Event                           | Details                     |
+| ------------- | ------------------------------- | --------------------------- |
+| 9:00 - 9:05   | Introduction                    | Speaker: dr. Jan van Gemert |
+| 9:05 - 9:50   | Keynote 1                       | ...                         |
+| 9:50 - 10:35  | Keynote 2                       | ...                         |
+| 10:35 - 11:30 | Coffee break & posters          |                             |
+| 11:30 - 12:30 | Oral presentations              | ...                         |
+| 12:30 - 13:00 | Challenge winners presentations | ...                         |
 
 ## Call for papers
 
-**TODO: write this**
+Data is fueling deep learning. Data is costly to gather and expensive to annotate. Training on massive datasets has a huge energy consumption adding to our carbon footprint. This workshop aims beyond the few very large companies that can accommodate ML on this scale to the long tail of smaller companies and universities with smaller datasets and smaller hardware clusters. We focus on data efficiency through visual inductive priors.
 
-Please see the [call for papers page](/call-for-papers) for details, including submission instructions.
+Please see the [call for papers page](/call-for-papers) for submission instructions and deadlines.
 
 ## VIPriors Challenges
 
 We present the "Visual Inductive Priors for Data-Efficient Computer Vision'' challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set.
 
-Please see the [challenges page](/challenges) for details, including submission instructions.
+Please see the [challenges page](/challenges) for submission instructions and deadlines.
 
 ## Invited speakers
 
