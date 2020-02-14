@@ -8,15 +8,18 @@ Data is fueling deep learning. Data is costly to gather and expensive to annotat
 
 Excellent recent research investigates data efficiency in deep networks by exploiting other data sources such as unsupervised learning, re-using existing datasets, or synthesizing artificial training data. Not much attention is given on how to overcome the data dependency by adding prior knowledge to deep nets. As a consequence, all knowledge has to be (re-)learned implicitly from data, making deep networks hard to understand black boxes. This workshop aims to remedy this gap by investigating how to flexibly pre-wire deep networks with generic visual innate knowledge structures, which allows to incorporate hard won existing knowledge from physics such as light reflection or geometry.
 
-We encourage submissions covering but not limited any data-efficient method in the following topics:
+We encourage submissions covering but not limited to the following topics:
 
-- Object classification
-- Object detection
-- Segmentation
-- Action recognition
-- ...
-
-*TODO*
+- Improving data efficiency of Deep Computer Vision methods using prior knowledge about the task domain
+- Analysis on the properties of Deep Learning representations as they relate to visual inductive priors
+- Transformation-equivariant image representations, e.g. scale-equivariance, rotation-equivariance, etc.
+- Color invariants/constants in Deep Learning
+- Object persistence between video frames
+- Shape-based representations for Deep Learning
+- Texture/shape bias in Convolutional Neural Networks
+- Alternative compact filter bases for Deep Learning
+- Capsule Networks
+- *TODO*
 
 **Important dates**
 
