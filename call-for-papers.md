@@ -31,7 +31,6 @@ We encourage submissions covering but not limited to the following topics:
 **Submission guidelines**
 
 - Submissions must be entered in *TBD*
-- Page limit & format: *TBD*
-- Review format: *TBD*
-- Paper selection criteria: *TBD*
-- Paper publication: *TBD*
+- Submissions must follow the [ECCV 2020 submission format](https://eccv2020.eu/author-instructions/).
+- Reviewing will be according to double-blind format
+- Accepted papers will be published in ECCV 2020 Workshop proceedings
