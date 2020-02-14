@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Call for papers
+classes: semiwide
 permalink: /call-for-papers/
 ---
 

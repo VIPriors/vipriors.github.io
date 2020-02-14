@@ -30,5 +30,12 @@ div.feature__wrapper:nth-child(2) .archive__item-body { text-align: left !import
     width: 50% !important;
 }
 
+@media (min-width: 80em) {
+    body.semiwide .page {
+        width: calc(100% - 200px) !important;
+        padding-right: 200px !important;
+    }
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
