@@ -6,7 +6,7 @@ header:
   caption: "Photo credit: [**ECCV 2020**](https://eccv2020.eu)"
 excerpt: "ECCV 2020 <br/> 23 August 2020 (morning), Glasgow UK"
 intro:
-  - excerpt: 'Adding priors to CNNs'
+  - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning'
 feature_row:
   - image_path: /assets/images/addtocal.png
     alt: "Add to calendar"
