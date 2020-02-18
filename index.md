@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_image: https://eccv2020.eu/wp-content/uploads/2019/10/ECCV-HEADER-Main.jpg
   caption: "Photo credit: [**ECCV 2020**](https://eccv2020.eu)"
-excerpt: "ECCV 2020 <br/> 2x August 2020, Glasgow UK"
+excerpt: "ECCV 2020 <br/> 23 August 2020 (morning), Glasgow UK"
 intro:
   - excerpt: 'This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.'
 feature_row:
