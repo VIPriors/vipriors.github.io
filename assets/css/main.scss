@@ -37,5 +37,17 @@ div.feature__wrapper:nth-child(2) .archive__item-body { text-align: left !import
     }
 }
 
+footer img.nwo {
+    height: 100px;
+    display: block;
+    float: left;
+}
+footer div.footer-disclaimer {
+    display: block;
+    float: left;
+    padding-left: 1em;
+    font-size: 1.1em;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
