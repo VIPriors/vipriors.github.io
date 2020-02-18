@@ -6,7 +6,7 @@ header:
   caption: "Photo credit: [**ECCV 2020**](https://eccv2020.eu)"
 excerpt: "ECCV 2020 <br/> 23 August 2020 (morning), Glasgow UK"
 intro:
-  - excerpt: 'This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.'
+  - excerpt: 'Adding priors to CNNs'
 feature_row:
   - image_path: /assets/images/addtocal.png
     alt: "Add to calendar"
@@ -70,9 +70,14 @@ organizers_row:
 
 # About the workshop
 
-Data is fueling deep learning. Data is costly to gather and expensive to annotate. Training on massive datasets has a huge energy consumption adding to our carbon footprint. This workshop aims beyond the few very large companies that can accommodate ML on this scale to the long tail of smaller companies and universities with smaller datasets and smaller hardware clusters. We focus on data efficiency through visual inductive priors.
+This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.
 
-Excellent recent research investigates data efficiency in deep networks by exploiting other data sources such as unsupervised learning, re-using existing datasets, or synthesizing artificial training data. Not much attention is given on how to overcome the data dependency by adding prior knowledge to deep nets. As a consequence, all knowledge has to be (re-)learned implicitly from data, making deep networks hard to understand black boxes. This workshop aims to remedy this gap by investigating how to flexibly pre-wire deep networks with generic visual innate knowledge structures, which allows to incorporate hard won existing knowledge from physics such as light reflection or geometry.
+
+Data is fueling deep learning. Data is costly to gather and expensive to annotate. Training on massive datasets has a huge energy consumption adding to our carbon footprint. In addition, there are only a select few deep learning behemoths which have billions of data points and thousands of expensive deep learning hardware GPUs at their disposal. This workshop aims beyond the few very large companies to the long tail of smaller companies and universities with smaller datasets and smaller hardware clusters. We focus on data efficiency through visual inductive priors.
+
+Excellent recent research investigates data efficiency in deep networks by exploiting other data sources such as unsupervised learning, re-using existing datasets, or synthesizing artificial training data. Not enough attention is given on how to overcome the data dependency by adding prior knowledge to deep nets.  As a consequence, all knowledge has to be (re-)learned implicitly from data, making deep networks hard to understand black boxes which are susceptible to dataset bias requiring huge data and compute resources.  This workshop aims to remedy this gap by investigating how to flexibly pre-wire deep networks with generic visual innate knowledge structures, which allows to incorporate hard won existing  knowledge from physics such as light reflection or geometry.
+
+The great power of deep neural networks is their incredible flexibility to learn. The direct consequence of such power, is that small datasets can simply be memorized and the network will likely not generalize to unseen data. Regularization aims to prevent such over-fitting by adding constraints to the learning process. Much work is done on regularization of internal network properties and architectures. In this workshop we focus on regularization methods based on innate priors. There is strong evidence that an innate prior benefits deep nets: Adding convolution  to deep networks yields a convolutional deep neural network (CNN) which is hugely successful and has permeated the entire field. While convolution was initially applied on images, it is now generalized to graph networks, speech, language,  3D data, video, etc. Convolution models translation invariance in images: an object may occur anywhere in the image, and thus instead of learning parameters at each location in the image, convolution allows to only consider local relations, yet, share parameters over all image locations, and thus saving a huge number of parameters to learn, allowing a strong reduction in the number of examples to learn from. This workshop aims to further the great success of convolution, exploiting innate regularizing structures yielding a significant reduction of training data. 
 
 ## Workshop program
 
@@ -87,9 +92,32 @@ Excellent recent research investigates data efficiency in deep networks by explo
 
 ## Call for papers
 
-Data is fueling deep learning. Data is costly to gather and expensive to annotate. Training on massive datasets has a huge energy consumption adding to our carbon footprint. This workshop aims beyond the few very large companies that can accommodate ML on this scale to the long tail of smaller companies and universities with smaller datasets and smaller hardware clusters. We focus on data efficiency through visual inductive priors.
+We solicit submission that in the broad sense focus on data efficiency through visual inductive priors covering but not limited to the following topics:
 
-Please see the [call for papers page](/call-for-papers) for submission instructions and deadlines.
+- Improving data efficiency of Deep Computer Vision methods using prior knowledge about the task domain
+- Analysis on the properties of Deep Learning representations as they relate to visual inductive priors
+- Transformation-equivariant image representations, e.g. scale-equivariance, rotation-equivariance, etc.
+- Color invariants/constants in Deep Learning
+- Object persistence between video frames
+- Shape-based representations for Deep Learning
+- Texture/shape bias in Convolutional Neural Networks
+- Alternative compact filter bases for Deep Learning
+- Capsule Networks
+
+
+**Important dates**
+
+- Submission deadline: *TBD*
+- Notification of acceptance: *TBD*
+- Camera-ready deadline: *TBD*
+- Workshop: August 23/28 2020 (*TBD*)
+
+**Submission guidelines**
+
+- Submissions must be entered in *TBD*
+- Submissions must follow the [ECCV 2020 submission format](https://eccv2020.eu/author-instructions/).
+- Reviewing will be according to double-blind format
+- Accepted papers will be published in ECCV 2020 Workshop proceedings
 
 ## VIPriors Challenges
 
