@@ -7,23 +7,23 @@ excerpt: "ECCV 2020 <br/> 23 August 2020 (morning), Glasgow UK"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning'
 feature_row:
-  - image_path: /assets/images/addtocal.png
-    alt: "Add to calendar"
-    title: "Workshop program"
-    excerpt: "Half-day program with invited speakers and challenge presentations."
-    url: "#workshop-program"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision."
-    url: "call-for-papers"
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Deadline**: July 6th"
+    url: "#call-for-papers"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/poster.png
+    alt: "placeholder image 2"
+    title: "Present a poster"
+    excerpt: "We invite researchers to present their ECCV 2020 papers on data-efficient computer vision.<br /><br />**Deadline**: August 16th"
+    url: "#posters"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**."
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />**Deadline**: end of June"
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -122,6 +122,10 @@ We solicit submission that in the broad sense focus on data efficiency through v
 ### Posters
 
 Authors that are publishing work at the main **ECCV 2020 conference paper track** are invited to present a **poster** of their work at our workshop. Please contact the organizers if you would like to present your ECCV 2020 paper at our workshop.
+
+**Important dates**
+
+- Deadline: August 16, 2020
 
 ## VIPriors Challenges
 
