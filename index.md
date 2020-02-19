@@ -35,7 +35,7 @@ organizers_row:
     url: "https://jvgemert.github.io/"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/blank-photo.png
+  - image_path: /assets/images/AntonVanDenHengel.jpg
     alt: "dr. Anton van den Hengel"
     title: "dr. Anton van den Hengel"
     excerpt: "University of Adelaide"
