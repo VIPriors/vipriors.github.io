@@ -103,20 +103,20 @@ We solicit submission that in the broad sense focus on data efficiency through v
 - Alternative compact filter bases for Deep Learning
 - Capsule Networks
 
-
 **Important dates**
 
-- Submission deadline: *TBD*
-- Notification of acceptance: *TBD*
-- Camera-ready deadline: *TBD*
-- Workshop: August 23/28 2020 (*TBD*)
+- Submissions open: March 1, 2020
+- Submission deadline: July 6, 2020
+- Notification of acceptance: July 14, 2020
+- Camera-ready deadline: July 17, 2020
+- Workshop: August 23, 2020
 
 **Submission guidelines**
 
-- Submissions must be entered in *TBD*
+- Submissions must be entered in OpenReview. *Link to OpenReview will be published on March 1, 2020.*
 - Submissions must follow the [ECCV 2020 submission format](https://eccv2020.eu/author-instructions/).
-- Reviewing will be according to double-blind format
-- Accepted papers will be published in ECCV 2020 Workshop proceedings
+- Reviewing will be according to double-blind format.
+- Accepted papers will be published in ECCV 2020 Workshop proceedings.
 
 ## VIPriors Challenges
 
