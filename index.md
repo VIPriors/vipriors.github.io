@@ -117,6 +117,11 @@ We solicit submission that in the broad sense focus on data efficiency through v
 - Submissions must follow the [ECCV 2020 submission format](https://eccv2020.eu/author-instructions/).
 - Reviewing will be according to double-blind format.
 - Accepted papers will be published in ECCV 2020 Workshop proceedings.
+- Authors of accepted papers will be invited to present their work as a poster presentation at the workshop. Authors of a selection of papers will be invited to present their work orally at the workshop.
+
+### Posters
+
+Authors that are publishing work at the main **ECCV 2020 conference paper track** are invited to present a **poster** of their work at our workshop. Please contact the organizers if you would like to present your ECCV 2020 paper at our workshop.
 
 ## VIPriors Challenges
 
