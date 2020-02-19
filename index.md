@@ -54,8 +54,8 @@ organizers_row:
     btn_label: "Website"
     btn_class: "btn--default"
   - image_path: /assets/images/OsmanKayhan.png
-    alt: "Osman Kayhan"
-    title: "Osman Kayhan"
+    alt: "Osman Semih Kayhan"
+    title: "Osman Semih Kayhan"
     excerpt: "Delft University of Technology"
   - image_path: /assets/images/MarcosBaptistaRios.jpg
     alt: "Marcos Baptista Rios"
