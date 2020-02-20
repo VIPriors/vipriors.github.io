@@ -49,5 +49,20 @@ footer div.footer-disclaimer {
     font-size: 1.1em;
 }
 
+body, .greedy-nav {
+    background-color: #f8f8f8 !important;
+}
+
+span.header-marking {
+    background: #00a8d6;
+    line-height: 1.45em;
+    padding: 3px 10px;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+p span.header-marking {
+    padding: 2px 8px;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

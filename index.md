@@ -1,9 +1,9 @@
 ---
-title: "1st Visual Inductive Priors for Data-Efficient Deep Learning Workshop"
+title: "<span class='header-marking'>1st Visual Inductive Priors for Data-Efficient Deep Learning Workshop</span>"
 layout: splash
 header:
-  overlay_image: assets/images/header_background.png
-excerpt: "ECCV 2020 <br/> 23 August 2020 (morning), Glasgow UK"
+  overlay_image: assets/images/header_background_centered.png
+excerpt: "<span class='header-marking'>ECCV 2020</span><br/><span class='header-marking'>23 August 2020 (morning), Glasgow UK</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning'
 feature_row:
