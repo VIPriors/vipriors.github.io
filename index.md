@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />**Deadline**: end of June"
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />**Deadline**: July 3rd"
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"

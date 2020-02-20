@@ -16,9 +16,9 @@ These tasks were chosen to encourage researchers of arbitrary background to part
 
 **Important dates**
 
-- Challenges open: *TBD*
-- Challenges close: *TBD*
-- Winners announced: *TBD*
+- Challenges open: March 11, 2020
+- Challenges close: July 3, 2020
+- Winners announced: July 17, 2020
 
 **Data**
 
@@ -28,13 +28,14 @@ As training data for these challenges we use subsets of publicly available datas
 
 - We prohibit the use of other data than the provided training data, i.e., **no pre-training**, no transfer learning.
 - Top contenders in the challenge may be required to submit their submissions to peer review to ensure reproducability and that the rules of the challenge were followed. The organizers will contact contenders for this when necessary after the challenges close.
+- Organizers retain the right to disqualify any submissions that violate these rules.
 - The winners of each of the four challenges will get an **opportunity to present** their method at the VIPriors workshop at ECCV 2020. The organizers will contact contenders that are eligible for this opportunity after the challenges close.
 
 **Submission**
 
-Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading CSV files of predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
+Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
 
-*The challenges will be launched soon. Details are to be announced.*
+*The challenges will be launched on March 11th. Details are to be announced.*
 
 <!-- Please find the challenges here:
 
@@ -51,4 +52,6 @@ To accommodate submissions to the challenges we provide a toolkit that contains
 - documentation of the required submission format for the challenges;
 - implementations of the baseline models for each challenge.
 
-See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit).
+*The toolkit will be released along with the challenge start on March 11th.*
+
+<!-- See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit). -->
