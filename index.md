@@ -67,6 +67,8 @@ organizers_row:
 
 {% include feature_row %}
 
+{% include twitter_sidebar text="test" %}
+
 # About the workshop
 
 This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.

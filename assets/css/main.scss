@@ -64,5 +64,16 @@ p span.header-marking {
     padding: 2px 8px;
 }
 
+#twitter_embed {
+    display: block;
+    float: right;
+    width: 35%;
+    max-width: 400px;
+    background: #f2f3f3;
+    padding: 1em;
+    padding-bottom: 0em;
+    margin: 1em;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
