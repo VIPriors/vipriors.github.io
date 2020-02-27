@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Deadline**: July 6th"
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Deadline**: July 10th"
     url: "#call-for-papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -108,9 +108,9 @@ We solicit submission that in the broad sense focus on data efficiency through v
 **Important dates**
 
 - Submissions open: March 1, 2020
-- Submission deadline: July 6, 2020
-- Notification of acceptance: July 14, 2020
-- Camera-ready deadline: July 17, 2020
+- Submission deadline: July 10, 2020
+- Notification of acceptance: July 24, 2020
+- Camera-ready deadline: September 15, 2020
 - Workshop: August 23, 2020
 
 **Submission guidelines**
