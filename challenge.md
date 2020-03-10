@@ -6,12 +6,14 @@ permalink: /challenges/
 toc: true
 ---
 
+<img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
+
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set. The winners of each challenge are invited to present their winning method at the VIPriors workshop presentation at ECCV 2020. The four data-deficient challenges are:
 
-1. [ImageNet](http://www.image-net.org/) classification
-2. [Cityscapes](https://www.cityscapes-dataset.com/) segmentation
-3. [MS COCO](http://cocodataset.org/#home) object detection
-4. [UFC-101](https://www.crcv.ucf.edu/data/UCF101.php) action recognition.
+1. Image classification (*link TBD*) on [ImageNet](http://www.image-net.org/)
+2. [Image segmentation](https://competitions.codalab.org/competitions/23707) on [Cityscapes](https://www.cityscapes-dataset.com/)
+3. [Object detection](https://competitions.codalab.org/competitions/23661) on [MS COCO](http://cocodataset.org/#home)
+4. [Action recognition](https://competitions.codalab.org/competitions/23706) on [UFC-101](https://www.crcv.ucf.edu/data/UCF101.php)
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
@@ -51,10 +53,22 @@ To accommodate submissions to the challenges we provide a toolkit that contains
 - documentation of the required submission format for the challenges;
 - implementations of the baseline models for each challenge.
 
-*The toolkit will be released along with the challenge start on March 11th.*
-
-<!-- See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit). -->
+See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit).
 
 ## Leaderboards
 
-*Leaderboards will be posted as the challenges are launched.*
+### Image Classification
+
+...
+
+### Object Detection
+
+<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23661/" class='leaderboard' style="height: 500px; border: none;"></iframe>
+
+### Segmentation
+
+<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23707/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>
+
+### Action Recognition
+
+<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23706/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>

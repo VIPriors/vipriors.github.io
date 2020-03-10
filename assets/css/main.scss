@@ -75,5 +75,10 @@ p span.header-marking {
     margin: 1em;
 }
 
+iframe.leaderboard {
+    width: calc(100% + 40px);
+    margin-left: -20px;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
