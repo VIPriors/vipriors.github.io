@@ -36,14 +36,12 @@ As training data for these challenges we use subsets of publicly available datas
 
 Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
 
-*The challenges will be launched on March 11th. Details are to be announced.*
-
-<!-- Please find the challenges here:
+Please find the challenges here:
 
 - Image classification: *TBD*
-- Image segmentation: *TBD*
-- Object detection: *TBD*
-- Action recognition: *TBD* -->
+- [Image segmentation](https://competitions.codalab.org/competitions/23707)
+- [Object detection](https://competitions.codalab.org/competitions/23661)
+- [Action recognition](https://competitions.codalab.org/competitions/23706)
 
 ## Resources
 
