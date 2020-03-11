@@ -10,8 +10,8 @@ toc: true
 
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set. The winners of each challenge are invited to present their winning method at the VIPriors workshop presentation at ECCV 2020. The four data-deficient challenges are:
 
-1. Image classification (*link TBD*) on [ImageNet](http://www.image-net.org/)
-2. [Image segmentation](https://competitions.codalab.org/competitions/23707) on [Cityscapes](https://www.cityscapes-dataset.com/)
+1. [Image classification](https://competitions.codalab.org/competitions/23713) on [ImageNet](http://www.image-net.org/)
+2. [Semantic segmentation](https://competitions.codalab.org/competitions/23712) on [Cityscapes](https://www.cityscapes-dataset.com/)
 3. [Object detection](https://competitions.codalab.org/competitions/23661) on [MS COCO](http://cocodataset.org/#home)
 4. [Action recognition](https://competitions.codalab.org/competitions/23706) on [UFC-101](https://www.crcv.ucf.edu/data/UCF101.php)
 
@@ -40,8 +40,8 @@ Each of the four challenges are hosted on CodaLab, a public platform for AI chal
 
 Please find the challenges here:
 
-- Image classification: *TBD*
-- [Image segmentation](https://competitions.codalab.org/competitions/23707)
+- [Image classification](https://competitions.codalab.org/competitions/23713)
+- [Semantic segmentation](https://competitions.codalab.org/competitions/23712)
 - [Object detection](https://competitions.codalab.org/competitions/23661)
 - [Action recognition](https://competitions.codalab.org/competitions/23706)
 
@@ -59,15 +59,15 @@ See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipr
 
 ### Image Classification
 
-...
+<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23713/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>
+
+### Semantic Segmentation
+
+<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23712/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>
 
 ### Object Detection
 
 <iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23661/" class='leaderboard' style="height: 500px; border: none;"></iframe>
-
-### Segmentation
-
-<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23707/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>
 
 ### Action Recognition
 
