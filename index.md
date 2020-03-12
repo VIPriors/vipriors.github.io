@@ -61,6 +61,14 @@ organizers_row:
     alt: "Marcos Baptista Rios"
     title: "Marcos Baptista Rios"
     excerpt: "University of Alcala"
+speakers_row:
+  - image_path: /assets/images/MatthiasBethge.jpg
+    alt: "dr. Matthias Bethge"
+    title: "dr. Matthias Bethge"
+    excerpt: "Bethge Lab"
+    url: "http://bethgelab.org/people/matthias/"
+    btn_label: "Website"
+    btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -85,7 +93,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 | Time          | Event                           | Details                     |
 | ------------- | ------------------------------- | --------------------------- |
 | 9:00 - 9:10   | Introduction                    | Speaker: dr. Jan van Gemert |
-| 9:10 - 9:55   | Keynote 1                       | Speaker: TBD                |
+| 9:10 - 9:55   | Keynote (title TBD)             | Speaker: dr. Matthias Bethge             |
 | 9:55 - 10:40  | Keynote 2                       | Speaker: TBD                |
 | 10:40 - 11:30 | Coffee break & poster session   |                             |
 | 11:30 - 12:30 | Oral presentations              | Speakers: TBD               |
@@ -137,7 +145,9 @@ Please see the [challenges page](/challenges) for submission instructions and de
 
 ## Invited speakers
 
-*Speakers to be announced.*
+{% include feature_row id="speakers_row" %}
+
+*More speakers are to be announced.*
 
 ## Organizers
 
