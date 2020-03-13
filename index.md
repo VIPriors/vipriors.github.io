@@ -123,7 +123,7 @@ We solicit submission that in the broad sense focus on data efficiency through v
 
 **Submission guidelines**
 
-- Submissions must be entered in OpenReview. *Link to OpenReview will be published on March 1, 2020.*
+- Submissions must be entered in OpenReview: [link](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors).
 - Submissions must follow the [ECCV 2020 submission format](https://eccv2020.eu/author-instructions/).
 - Reviewing will be according to double-blind format.
 - Accepted papers will be published in ECCV 2020 Workshop proceedings.
@@ -131,7 +131,7 @@ We solicit submission that in the broad sense focus on data efficiency through v
 
 ### Posters
 
-Authors that are publishing work at the main **ECCV 2020 conference paper track** are invited to present a **poster** of their work at our workshop. Please contact the organizers if you would like to present your ECCV 2020 paper at our workshop.
+Authors that are publishing work at the main **ECCV 2020 conference paper track** are invited to present a **poster** of their work at our workshop. Please [contact the organizers](#organizers) if you would like to present your ECCV 2020 paper at our workshop.
 
 **Important dates**
 
