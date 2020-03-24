@@ -90,14 +90,14 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Workshop program
 
-| Time          | Event                           | Details                     |
-| ------------- | ------------------------------- | --------------------------- |
-| 9:00 - 9:10   | Introduction                    | Speaker: dr. Jan van Gemert |
-| 9:10 - 9:55   | Keynote (title TBD)             | Speaker: dr. Matthias Bethge             |
-| 9:55 - 10:40  | Keynote 2                       | Speaker: TBD                |
-| 10:40 - 11:30 | Coffee break & poster session   |                             |
-| 11:30 - 12:30 | Oral presentations              | Speakers: TBD               |
-| 12:30 - 13:00 | Challenge winners presentations | Speakers: TBD               |
+| Time          | Event                           | Details                      |
+| ------------- | ------------------------------- | ---------------------------- |
+| 9:00 - 9:10   | Introduction                    | Speaker: dr. Jan van Gemert  |
+| 9:10 - 9:55   | Keynote (title TBD)             | Speaker: dr. Matthias Bethge |
+| 9:55 - 11:15  | Oral presentations              |                              |
+| 11:15 - 12:00 | Coffee break & poster session   |                              |
+| 12:00 - 12:45 | Keynote 2                       | Speaker: TBD                 |
+| 12:45 - 13:00 | Awards ceremony & closing       |                              |
 
 ## Call for papers
 
