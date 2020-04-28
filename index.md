@@ -152,3 +152,7 @@ Please see the [challenges page](/challenges) for submission instructions and de
 ## Organizers
 
 {% include feature_row id="organizers_row" %}
+
+### Contact
+
+Email us at vipriors-ewi AT tudelft DOT nl

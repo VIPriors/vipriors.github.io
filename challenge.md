@@ -55,6 +55,10 @@ To accommodate submissions to the challenges we provide a toolkit that contains
 
 See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit).
 
+## Questions
+
+If you have any questions, please first check the Frequently Asked Questions in [the toolkit repository](https://github.com/VIPriors/vipriors-challenges-toolkit). If your question persists, you can ask it on the forums of the specific challenge on the CodaLab website. If you need to ask us a question in private, you can email us at vipriors-ewi AT tudelft DOT nl.
+
 ## Leaderboards
 
 ### Image Classification
