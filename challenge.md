@@ -21,6 +21,7 @@ These tasks were chosen to encourage researchers of arbitrary background to part
 
 - Challenges open: March 11, 2020
 - Challenges close: July 3, 2020
+- Technical reports due: July 10, 2020
 - Winners announced: July 17, 2020
 
 ## Data
@@ -30,9 +31,18 @@ As training data for these challenges we use subsets of publicly available datas
 ## Rules
 
 - We prohibit the use of other data than the provided training data, i.e., **no pre-training**, no transfer learning.
+- For submissions on CodaLab to qualify to the challenge we require the authors submit either a **technical report** or a full paper about their final submission. See details below under "Report". Submissions without a report or paper associated do not qualify to the competition.
 - Top contenders in the challenge may be required to submit their submissions to peer review to ensure reproducability and that the rules of the challenge were followed. The organizers will contact contenders for this when necessary after the challenges close.
 - Organizers retain the right to disqualify any submissions that violate these rules.
 - The winners of each of the four challenges will get an **opportunity to present** their method at the VIPriors workshop at ECCV 2020. The organizers will contact contenders that are eligible for this opportunity after the challenges close.
+
+## Report
+
+For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is July 10th, the same date as the workshop paper deadline. Authors are to submit their report to ArXiv and submit the link to us using the form linked below. After the conference we will publish the links to the technical reports on the workshop website.
+
+Authors that are already submitting a paper about the submission to the workshop paper track are not required to submit a technical report. Instead, they are to use the same submission form to refer the challenge organizers to their submitted paper.
+
+Link to submission form: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdzTQXw60TL70hxDW1WsEp52AUI2CVe3QX7T0Qi420Gey9H9Q/viewform?usp=sf_link).
 
 ## Submission
 
