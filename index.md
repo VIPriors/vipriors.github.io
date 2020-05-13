@@ -131,7 +131,7 @@ We solicit submission that in the broad sense focus on data efficiency through v
 
 ### Posters
 
-Authors that are publishing work at the main **ECCV 2020 conference paper track** are invited to present a **poster** of their work at our workshop. Please [contact the organizers](#organizers) if you would like to present your ECCV 2020 paper at our workshop.
+Authors of recent and relevant works (including works published at the main ECCV 2020 conference paper track) are invited to present a **poster** of their work at our workshop. Please [contact the organizers](#organizers) if you would like to present your work at our workshop.
 
 **Important dates**
 
