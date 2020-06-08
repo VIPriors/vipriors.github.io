@@ -20,9 +20,9 @@ These tasks were chosen to encourage researchers of arbitrary background to part
 ## Important dates
 
 - Challenges open: March 11, 2020
-- Challenges close: July 3, 2020
-- Technical reports due: July 10, 2020
-- Winners announced: July 17, 2020
+- Challenges close: July 10, 2020
+- Technical reports due: July 17, 2020
+- Winners announced: July 24, 2020
 
 ## Data
 
