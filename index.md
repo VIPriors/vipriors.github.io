@@ -3,7 +3,7 @@ title: "<span class='header-marking'>1st Visual Inductive Priors for Data-Effici
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
-excerpt: "<span class='header-marking'>ECCV 2020</span><br/><span class='header-marking'>23 August 2020 (morning), Glasgow UK</span>"
+excerpt: "<span class='header-marking'>ECCV 2020</span><br/><span class='header-marking'>23 August 2020 (morning), ONLINE</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning'
 feature_row:
@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
-    excerpt: "We invite researchers to present their ECCV 2020 papers on data-efficient computer vision.<br /><br />**Deadline**: August 16th"
+    excerpt: "We invite researchers to present their ECCV 2020 papers on data-efficient computer vision.<br /><br />**Deadline**: August 2nd"
     url: "#posters"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -77,6 +77,12 @@ speakers_row:
 
 {% include twitter_sidebar %}
 
+# Workshop now fully online
+
+Following the main conferences decision to move fully online our workshop will also be **fully online**. We will announced a revised program soon. Keynotes, orals and posters will go through as planned, though in an online form. Deadlines will not change, except for the deadline for submitting a poster which has been pulled forward by two weeks to August 2nd to accomodate uploading the required materials to the conference website in time.
+
+**Please stay tuned for a full update on the new form of our workshop.**
+
 # About the workshop
 
 This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.
@@ -90,14 +96,9 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Workshop program
 
-| Time          | Event                           | Details                      |
-| ------------- | ------------------------------- | ---------------------------- |
-| 9:00 - 9:10   | Introduction                    | Speaker: dr. Jan van Gemert  |
-| 9:10 - 9:55   | Keynote (title TBD)             | Speaker: dr. Matthias Bethge |
-| 9:55 - 11:15  | Oral presentations              |                              |
-| 11:15 - 12:00 | Coffee break & poster session   |                              |
-| 12:00 - 12:45 | Keynote 2                       | Speaker: TBD                 |
-| 12:45 - 13:00 | Awards ceremony & closing       |                              |
+Our program will include keynotes by [dr. Matthias Bethge](#invited-speakers) and others (TBA), oral presentations by challenge winners and selected papers accepted to the workshop, as well as poster presentations for accepted submissions and other recent relevant works.
+
+*The revised online workshop program will be made available as soon as possible.*
 
 ## Call for papers
 
@@ -135,7 +136,9 @@ Authors of recent and relevant works (including works published at the main ECCV
 
 **Important dates**
 
-- Deadline: August 16, 2020
+- Deadline: August 2, 2020
+
+*Note that this deadline has been pulled forward by two weeks to August 2nd to accomodate uploading the required materials to the conference website in time. Organizers will contact accepted posters about hosting their posters.*
 
 ## VIPriors Challenges
 
