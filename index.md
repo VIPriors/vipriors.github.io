@@ -69,6 +69,13 @@ speakers_row:
     url: "http://bethgelab.org/people/matthias/"
     btn_label: "Website"
     btn_class: "btn--default"
+  - image_path: /assets/images/CharlesLeek.jpg
+    alt: "prof. Charles Leek"
+    title: "prof. Charles Leek"
+    excerpt: "University of Liverpool"
+    url: "https://www.liverpool.ac.uk/psychology/staff/charles-leek/"
+    btn_label: "Website"
+    btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -96,7 +103,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Workshop program
 
-Our program will include keynotes by [dr. Matthias Bethge](#invited-speakers) and others (TBA), oral presentations by challenge winners and selected papers accepted to the workshop, as well as poster presentations for accepted submissions and other recent relevant works.
+Our program will include keynotes by [dr. Matthias Bethge](#invited-speakers), [prof. Charles Leek](#invited-speakers) and others (TBA), oral presentations by challenge winners and selected papers accepted to the workshop, as well as poster presentations for accepted submissions and other recent relevant works.
 
 *The revised online workshop program will be made available as soon as possible.*
 
