@@ -157,8 +157,6 @@ Please see the [challenges page](/challenges) for submission instructions and de
 
 {% include feature_row id="speakers_row" %}
 
-*More speakers are to be announced.*
-
 ## Organizers
 
 {% include feature_row id="organizers_row" %}
