@@ -13,7 +13,7 @@ We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** 
 1. [Image classification](https://competitions.codalab.org/competitions/23713) on [ImageNet](http://www.image-net.org/)
 2. [Semantic segmentation](https://competitions.codalab.org/competitions/23712) on [Cityscapes](https://www.cityscapes-dataset.com/)
 3. [Object detection](https://competitions.codalab.org/competitions/23661) on [MS COCO](http://cocodataset.org/#home)
-4. [Action recognition](https://competitions.codalab.org/competitions/23706) on [UFC-101](https://www.crcv.ucf.edu/data/UCF101.php)
+4. [Action recognition](https://competitions.codalab.org/competitions/23706) on [UFC-101](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
