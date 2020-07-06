@@ -58,8 +58,8 @@ organizers_row:
     title: "Osman Semih Kayhan"
     excerpt: "Delft University of Technology"
   - image_path: /assets/images/MarcosBaptistaRios.jpg
-    alt: "Marcos Baptista Rios"
-    title: "Marcos Baptista Rios"
+    alt: "Marcos Baptista Ríos"
+    title: "Marcos Baptista Ríos"
     excerpt: "University of Alcala"
 speakers_row:
   - image_path: /assets/images/MatthiasBethge.jpg
