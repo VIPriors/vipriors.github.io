@@ -133,6 +133,7 @@ We solicit submission that in the broad sense focus on data efficiency through v
 
 - Submissions must be entered in OpenReview: [link](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors).
 - Submissions must follow the [ECCV 2020 submission format](https://eccv2020.eu/author-instructions/).
+- Optional supplementary material can be submitted through OpenReview (single .zip file, maximum of 50MB). The deadline for supplementary material is the same as the paper submission deadline, i.e. July 17, 2020. Reviewers are strongly encouraged but not required to review the supplementary material.
 - Reviewing will be according to double-blind format.
 - Accepted papers will be published in ECCV 2020 Workshop proceedings.
 - Authors of accepted papers will be invited to present their work as a poster presentation at the workshop. Authors of a selection of papers will be invited to present their work orally at the workshop.
