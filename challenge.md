@@ -38,7 +38,7 @@ As training data for these challenges we use subsets of publicly available datas
 
 ## Report
 
-For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is July 17th, the same date as the workshop paper deadline. Authors are to submit their report to ArXiv and submit the link to us using the form linked below. Please use the same format as for the paper track. After the conference we will publish the links to the technical reports on the workshop website.
+For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is July 17th, the same date as the workshop paper deadline. Authors are to submit their report to ArXiv and submit the link to us using the form linked below. Those unable to submit to Arxiv can email their report to [the emailaddress listed under "Organizers"](/#organizers). Please use the same format as for the paper track. After the conference we will publish the links to the technical reports on the workshop website.
 
 Authors that are already submitting a paper about the submission to the workshop paper track are not required to submit a technical report. Instead, they are to use the same submission form to refer the challenge organizers to their submitted paper.
 
