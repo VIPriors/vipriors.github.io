@@ -19,10 +19,12 @@ These tasks were chosen to encourage researchers of arbitrary background to part
 
 ## Important dates
 
-- Challenges open: March 11, 2020
-- Challenges close: July 10, 2020
-- Technical reports due: July 17, 2020
-- Winners announced: July 24, 2020
+- ~~Challenges open: March 11, 2020~~
+- ~~Challenges close: July 10, 2020~~
+- ~~Technical reports due: July 17, 2020~~
+- ~~Winners announced: July 24, 2020~~
+
+*The challenge has been completed! Please see the [final rankings](#final-rankings) below.*
 
 ## Data
 
@@ -68,6 +70,38 @@ See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipr
 ## Questions
 
 If you have any questions, please first check the Frequently Asked Questions in [the toolkit repository](https://github.com/VIPriors/vipriors-challenges-toolkit). If your question persists, you can ask it on the forums of the specific challenge on the CodaLab website. If you need to ask us a question in private, you can email us at vipriors-ewi AT tudelft DOT nl.
+
+## Final rankings
+
+Listed below are the final rankings for each challenge, after reviewing all submissions for which a technical report or paper was received. We congratulate the winners! More details, including presentations of the winning methods and full results of the challenges, are forthcoming in the workshop.
+
+### Image Classification
+
+1. sunpengfei
+1. Tennant
+1. ByeongjoKim
+1. Samsung-SLSI-MSL-SS aka Ben1365
+
+### Semantic Segmentation
+
+1. xmj
+2. Samsung-SLSI-MSL-SS
+3. jesse1029
+4. MrGranddy
+5. rpytel
+
+### Object Detection
+
+1. feishen
+1. Guyz
+1. DeepBlueAI
+
+### Action Recognition
+
+1. ishan.dave
+1. Samjang_masiso
+1. Singularity213
+1. taeohkim
 
 <!--
 

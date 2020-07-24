@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Deadline**: July 17th"
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Notifications**: July 31st"
     url: "#call-for-papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -23,7 +23,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />**Deadline**: July 10th"
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />**Final rankings** now available!"
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -123,9 +123,10 @@ We solicit submission that in the broad sense focus on data efficiency through v
 
 **Important dates**
 
-- Submissions open: March 1, 2020
-- Submission deadline: July 17, 2020
+- ~~Submissions open: March 1, 2020~~
+- ~~Submission deadline: July 17, 2020~~
 - Notification of acceptance: July 31, 2020
+<!-- - *Final paper & presentation deadline*: August 11, 2020 -->
 - Camera-ready deadline: September 15, 2020
 - Workshop: August 23, 2020
 
