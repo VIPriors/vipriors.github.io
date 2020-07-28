@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
-    excerpt: "We invite researchers to present their ECCV 2020 papers on data-efficient computer vision.<br /><br />**Deadline**: August 2nd"
+    excerpt: "We invite researchers to present their ECCV 2020 papers on data-efficient computer vision.<br /><br />**Deadline**: July 28th"
     url: "#posters"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -145,9 +145,9 @@ Authors of recent and relevant works (including works published at the main ECCV
 
 **Important dates**
 
-- Deadline: August 2, 2020
+- Deadline: July 28th, 2020
 
-*Note that this deadline has been pulled forward by two weeks to August 2nd to accomodate uploading the required materials to the conference website in time. Organizers will contact accepted posters about hosting their posters.*
+*Note that this deadline has been pulled forward ~~by two weeks to August 2nd~~ to July 28th to accomodate uploading the required materials to the conference website in time. Organizers will contact accepted posters about hosting their posters.*
 
 ## VIPriors Challenges
 
