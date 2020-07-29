@@ -10,20 +10,20 @@ feature_row:
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Notifications**: July 31st"
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />[Notifications](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) are out."
     url: "#call-for-papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
-    excerpt: "We invite researchers to present their ECCV 2020 papers on data-efficient computer vision.<br /><br />**Deadline**: July 28th"
+    excerpt: "We invite researchers to present their recent papers on data-efficient computer vision."
     url: "#posters"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />**Final rankings** now available!"
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**."
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -86,14 +86,18 @@ speakers_row:
 
 # Workshop now fully online
 
-Following the main conferences decision to move fully online our workshop will also be **fully online**. We will announced a revised program soon. Keynotes, orals and posters will go through as planned, though in an online form. Deadlines will not change, except for the deadline for submitting a poster which has been pulled forward by two weeks to August 2nd to accomodate uploading the required materials to the conference website in time.
+*Update July 29th*:
 
-**Please stay tuned for a full update on the new form of our workshop.**
+- [**Notifications** for the paper track](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) have gone out to authors. The final papers and their pre-recorded talks will be published through the ECCV conference platform on August 11th.
+- The deadline for submitting **posters** has passed. We are in the process of reviewing these submissions. The accepted posters will be made available through this website.
+- The **[revised program](#workshop-program)** has been published. The workshop live sessions will be hosted at 8:00 and 18:00 UTC+1, with identical programming. Papers (oral & poster) will be presented by playing the pre-recorded talk available on the conference platform, followed by live Q&A.
+- The **keynote talks** will be made available either through the conference platform or through this website (TBD). Attendees of the workshop are invited to prepare their attendance after August 11th by watching the keynote talks and/or checking out the accepted papers.
+
+*Update June 26th*: Following the main conferences decision to move fully online our workshop will also be **fully online**. Keynotes, orals and posters will go through as planned, though in an online form. Deadlines will not change, except for the deadline for submitting a poster which has been pulled forward by two weeks to ~~August 2nd~~ July 29th to accomodate uploading the required materials to the conference website in time.
 
 # About the workshop
 
 This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.
-
 
 Data is fueling deep learning. Data is costly to gather and expensive to annotate. Training on massive datasets has a huge energy consumption adding to our carbon footprint. In addition, there are only a select few deep learning behemoths which have billions of data points and thousands of expensive deep learning hardware GPUs at their disposal. This workshop aims beyond the few very large companies to the long tail of smaller companies and universities with smaller datasets and smaller hardware clusters. We focus on data efficiency through visual inductive priors.
 
@@ -103,9 +107,20 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Workshop program
 
-Our program will include keynotes by [dr. Matthias Bethge](#invited-speakers), [prof. Charles Leek](#invited-speakers) and others (TBA), oral presentations by challenge winners and selected papers accepted to the workshop, as well as poster presentations for accepted submissions and other recent relevant works.
+Our program will include a panel discussion with keynote speakers [dr. Matthias Bethge](#invited-speakers) and [prof. Charles Leek](#invited-speakers), oral presentations by challenge winners and selected papers accepted to the workshop, as well as poster presentations for accepted submissions and other recent relevant works. The keynote talks will be made available before the workshop (TBA).
 
-*The revised online workshop program will be made available as soon as possible.*
+| Time (UTC+1) | | |
+| -- | -- | -- |
+| 8:00 / 18:00  | Keynotes     | Panel discussion + Q&A                         |
+| 8:40 / 18:40   | *Break*        |                                                |
+| 8:45 / 18:45  | Oral session | Oral presentations                             |
+| 9:10 / 19:10 |              | Q&A                                            |
+| 9:25 / 19:25 | Challenges           | Introduction & awards               |
+| 9:30 / 19:30 |                      | Challenge winners presentations |
+| 9:35 / 19:35 | Posters      | Poster presentations             |
+| 9:45 / 19:45 |              | Q&A                                            |
+| 9:50 / 19:50 |              | External poster presentations                  |
+| 9:55 / 19:55 | Closing      |                          |
 
 ## Call for papers
 
@@ -125,8 +140,8 @@ We solicit submission that in the broad sense focus on data efficiency through v
 
 - ~~Submissions open: March 1, 2020~~
 - ~~Submission deadline: July 17, 2020~~
-- Notification of acceptance: July 31, 2020
-<!-- - *Final paper & presentation deadline*: August 11, 2020 -->
+- ~~Notification of acceptance: July 31, 2020~~
+- *Presentation materials deadline*: August 11, 2020
 - Camera-ready deadline: September 15, 2020
 - Workshop: August 23, 2020
 
@@ -145,13 +160,13 @@ Authors of recent and relevant works (including works published at the main ECCV
 
 **Important dates**
 
-- Deadline: July 28th, 2020
+- ~~Deadline: July 28th, 2020~~
 
 *Note that this deadline has been pulled forward ~~by two weeks to August 2nd~~ to July 28th to accomodate uploading the required materials to the conference website in time. Organizers will contact accepted posters about hosting their posters.*
 
 ## VIPriors Challenges
 
-We present the "Visual Inductive Priors for Data-Efficient Computer Vision'' challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set.
+We present the "Visual Inductive Priors for Data-Efficient Computer Vision" challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set.
 
 Please see the [challenges page](/challenges) for submission instructions and deadlines.
 
