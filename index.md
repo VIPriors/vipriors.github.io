@@ -10,20 +10,20 @@ feature_row:
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />[Notifications](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) are out."
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />[**Notifications**](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) are out now."
     url: "#call-for-papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
-    excerpt: "We invite researchers to present their recent papers on data-efficient computer vision."
+    excerpt: "We invite researchers to present their recent papers on data-efficient computer vision.<br /><br />**Deadline** has passed."
     url: "#posters"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**."
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />[**Final rankings**](https://vipriors.github.io/challenges/#final-rankings) are out now."
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
