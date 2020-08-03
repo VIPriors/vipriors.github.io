@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />[**Notifications**](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) are out now."
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Camera-ready revisions**: September 10th."
     url: "#call-for-papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -86,6 +86,8 @@ speakers_row:
 
 # Workshop now fully online
 
+*Update August 3rd*: we have moved forward the deadline for the camera-ready versions of accepted papers to **September 10th**. Submission instructions have been sent to the authors through OpenReview.
+
 *Update July 29th*:
 
 - [**Notifications** for the paper track](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) have gone out to authors. The final papers and their pre-recorded talks will be published through the ECCV conference platform on August 11th.
@@ -142,7 +144,7 @@ We solicit submission that in the broad sense focus on data efficiency through v
 - ~~Submission deadline: July 17, 2020~~
 - ~~Notification of acceptance: July 31, 2020~~
 - *Presentation materials deadline*: August 11, 2020
-- Camera-ready deadline: September 15, 2020
+- Camera-ready deadline: ~~September 15, 2020~~ *September 10, 2020*
 - Workshop: August 23, 2020
 
 **Submission guidelines**
