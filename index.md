@@ -143,8 +143,8 @@ We solicit submission that in the broad sense focus on data efficiency through v
 - ~~Submissions open: March 1, 2020~~
 - ~~Submission deadline: July 17, 2020~~
 - ~~Notification of acceptance: July 31, 2020~~
-- *Presentation materials deadline*: August 11, 2020
-- Camera-ready deadline: ~~September 15, 2020~~ *September 10, 2020*
+- Presentation materials deadline: ~~August 11, 2020~~ August 14, 2020
+- Camera-ready deadline: ~~September 15, 2020~~ September 10, 2020
 - Workshop: August 23, 2020
 
 **Submission guidelines**
