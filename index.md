@@ -90,10 +90,10 @@ speakers_row:
 
 *Update July 29th*:
 
-- [**Notifications** for the paper track](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) have gone out to authors. The final papers and their pre-recorded talks will be published through the ECCV conference platform on August 11th.
+- [**Notifications** for the paper track](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) have gone out to authors. The final papers and their pre-recorded talks will be published through the ECCV conference platform on ~~August 11th~~ August 16th.
 - The deadline for submitting **posters** has passed. We are in the process of reviewing these submissions. The accepted posters will be made available through this website.
 - The **[revised program](#workshop-program)** has been published. The workshop live sessions will be hosted at 8:00 and 18:00 UTC+1, with identical programming. Papers (oral & poster) will be presented by playing the pre-recorded talk available on the conference platform, followed by live Q&A.
-- The **keynote talks** will be made available either through the conference platform or through this website (TBD). Attendees of the workshop are invited to prepare their attendance after August 11th by watching the keynote talks and/or checking out the accepted papers.
+- The **keynote talks** will be made available either through the conference platform or through this website (TBD). Attendees of the workshop are invited to prepare their attendance after ~~August 11th~~ August 16th by watching the keynote talks and/or checking out the accepted papers.
 
 *Update June 26th*: Following the main conferences decision to move fully online our workshop will also be **fully online**. Keynotes, orals and posters will go through as planned, though in an online form. Deadlines will not change, except for the deadline for submitting a poster which has been pulled forward by two weeks to ~~August 2nd~~ July 29th to accomodate uploading the required materials to the conference website in time.
 
