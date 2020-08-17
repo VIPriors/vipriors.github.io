@@ -79,7 +79,7 @@ Listed below are the final rankings for each challenge, after reviewing all subm
 
 1. sunpengfei
 1. Tennant
-1. ByeongjoKim
+1. ZumInternet
 1. Samsung-SLSI-MSL-SS aka Ben1365
 
 ### Semantic Segmentation
