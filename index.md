@@ -76,6 +76,13 @@ speakers_row:
     url: "https://www.liverpool.ac.uk/psychology/staff/charles-leek/"
     btn_label: "Website"
     btn_class: "btn--default"
+  - image_path: /assets/images/DanielCremers.jpg
+    alt: "prof. Daniel Cremers"
+    title: "prof. Daniel Cremers"
+    excerpt: "TU München"
+    url: "https://vision.in.tum.de/members/cremers"
+    btn_label: "Website"
+    btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -84,18 +91,11 @@ speakers_row:
 
 {% include twitter_sidebar %}
 
-# Workshop now fully online
+# Updates
+
+*Update August 20th*: Please see the updated [full program](#workshop-program) below as well as the [technical reports of the qualified submissions](#challenges).
 
 *Update August 3rd*: we have moved forward the deadline for the camera-ready versions of accepted papers to **September 10th**. Submission instructions have been sent to the authors through OpenReview.
-
-*Update July 29th*:
-
-- [**Notifications** for the paper track](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors) have gone out to authors. The final papers and their pre-recorded talks will be published through the ECCV conference platform on ~~August 11th~~ August 16th.
-- The deadline for submitting **posters** has passed. We are in the process of reviewing these submissions. The accepted posters will be made available through this website.
-- The **[revised program](#workshop-program)** has been published. The workshop live sessions will be hosted at 8:00 and 18:00 UTC+1, with identical programming. Papers (oral & poster) will be presented by playing the pre-recorded talk available on the conference platform, followed by live Q&A.
-- The **keynote talks** will be made available either through the conference platform or through this website (TBD). Attendees of the workshop are invited to prepare their attendance after ~~August 11th~~ August 16th by watching the keynote talks and/or checking out the accepted papers.
-
-*Update June 26th*: Following the main conferences decision to move fully online our workshop will also be **fully online**. Keynotes, orals and posters will go through as planned, though in an online form. Deadlines will not change, except for the deadline for submitting a poster which has been pulled forward by two weeks to ~~August 2nd~~ July 29th to accomodate uploading the required materials to the conference website in time.
 
 # About the workshop
 
@@ -109,68 +109,49 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Workshop program
 
-Our program will include a panel discussion with keynote speakers [dr. Matthias Bethge](#invited-speakers) and [prof. Charles Leek](#invited-speakers), oral presentations by challenge winners and selected papers accepted to the workshop, as well as poster presentations for accepted submissions and other recent relevant works. The keynote talks will be made available before the workshop (TBA).
+Our live program will feature a panel discussion with our [invited speakers](#invited-speakers), as well as playback of recorded talks for all presentations and live Q&A. All keynotes, papers and presentations are made available through the [ECCV Workshops and Tutorials website](https://workshopsandtutorials.eccv2020.eu/papers/subject/visual-inductive-priors-for-data-efficient-deep-learning/). We recommend attendees to watch the keynote talks before the session.
 
 | Time (UTC+1) | | |
 | -- | -- | -- |
-| 8:00 / 18:00  | Keynotes     | Panel discussion + Q&A                         |
+| 8:00 / 18:00  | Keynote session     | Panel discussion with [invited speakers](#invited-speakers) + Q&A                         |
 | 8:40 / 18:40   | *Break*        |                                                |
-| 8:45 / 18:45  | Oral session | Oral presentations                             |
+| 8:45 / 18:45  | Oral session | [Oral presentations](#oral-session)                             |
 | 9:10 / 19:10 |              | Q&A                                            |
-| 9:25 / 19:25 | Challenges           | Introduction & awards               |
-| 9:30 / 19:30 |                      | Challenge winners presentations |
-| 9:35 / 19:35 | Posters      | Poster presentations             |
-| 9:45 / 19:45 |              | Q&A                                            |
-| 9:50 / 19:50 |              | External poster presentations                  |
-| 9:55 / 19:55 | Closing      |                          |
+| 9:25 / 19:25 | Challenges           | [Awards & winners presentations](challenges)               |
+| 9:35 / 19:35 | Poster session      | [Poster presentations](#poster-session)             |
+| 9:45 / 19:45 |              | Q&A (for posters & challenges)              |
+| 9:50 / 19:50 |              | [External poster presentations](#external-poster-session)                  |
+| 9:55 / 19:55 | *Closing*      |                          |
 
-## Call for papers
+### Oral session
 
-We solicit submission that in the broad sense focus on data efficiency through visual inductive priors covering but not limited to the following topics:
+1. Lightweight Action Recognition in Compressed Videos. <br />*Yuqi Huo, Xiaoli Xu, Yao Lu, Yulei Niu, Mingyu Ding, Zhiwu Lu, Tao Xiang, Ji-Rong Wen*
+2. On sparse connectivity, adversarial robustness, and a novel model of the artificial neuron. <br />*Sergey Bochkanov*
+3. Injecting Prior Knowledge into Image Caption Generation. <br />*Arushi Goel, Basura Fernando, Thanh-Son Nguyen, Hakan Bilen*
+4. Learning Temporally Invariant and Localizable Features via Data Augmentation for Video Recognition. <br />*Taeoh Kim, Hyeongmin Lee, MyeongAh Cho, Hoseong Lee, Dong heon Cho, Sangyoun Lee*
+5. Unsupervised Learning of Video Representations via Dense Trajectory Clustering. <br />*Pavel Tokmakov, Martial Hebert, Cordelia Schmid*
 
-- Improving data efficiency of Deep Computer Vision methods using prior knowledge about the task domain
-- Analysis on the properties of Deep Learning representations as they relate to visual inductive priors
-- Transformation-equivariant image representations, e.g. scale-equivariance, rotation-equivariance, etc.
-- Color invariants/constants in Deep Learning
-- Object persistence between video frames
-- Shape-based representations for Deep Learning
-- Texture/shape bias in Convolutional Neural Networks
-- Alternative compact filter bases for Deep Learning
-- Capsule Networks
+### Poster session
 
-**Important dates**
+1. Distilling Visual Priors from Self-Supervised Learning. <br />*Bingchen Zhao, Xin Wen*
+2. Unsupervised Image Classification for Deep Representation Learning. <br />*Weijie Chen, Shiliang Pu, Di Xie, Shicai Yang, Yilu Guo, Luojun Lin*
+3. TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion. <br />*Mingqing Xiao, Adam Kortylewski, Ruihai Wu, Siyuan Qiao, Wei Shen, Alan Yuille*
+4. What leads to generalization of object proposals?. <br />*Rui Wang, Dhruv Mahajan, Vignesh Ramanathan*
+5. A Self-Supervised Framework for Human Instance Segmentation. <br />*Yalong Jiang, Wenrui Ding, Hongguang Li, Hua Yang, Xu Wang*
+6. Multiple interaction learning with question-type prior knowledge for constraining answer search space in visual question answering. <br />*Tuong Do, Binh Nguyen, Huy Tran, Erman Tjiputra, Quang Tran, Thanh Toan Do*
+7. A visual inductive priors framework for data-efficient image classification. <br />*Pengfei Sun, Xuan Jin, Wei Su, Yuan He, Hui Xue', Quan Lu*
 
-- ~~Submissions open: March 1, 2020~~
-- ~~Submission deadline: July 17, 2020~~
-- ~~Notification of acceptance: July 31, 2020~~
-- Presentation materials deadline: ~~August 11, 2020~~ August 14, 2020
-- Camera-ready deadline: ~~September 15, 2020~~ September 10, 2020
-- Workshop: August 23, 2020
+### External poster session
 
-**Submission guidelines**
-
-- Submissions must be entered in OpenReview: [link](https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/VIPriors).
-- Submissions must follow the [ECCV 2020 submission format](https://eccv2020.eu/author-instructions/).
-- Optional supplementary material can be submitted through OpenReview (single .zip file, maximum of 50MB). The deadline for supplementary material is the same as the paper submission deadline, i.e. July 17, 2020. Reviewers are strongly encouraged but not required to review the supplementary material.
-- Reviewing will be according to double-blind format.
-- Accepted papers will be published in ECCV 2020 Workshop proceedings.
-- Authors of accepted papers will be invited to present their work as a poster presentation at the workshop. Authors of a selection of papers will be invited to present their work orally at the workshop.
-
-### Posters
-
-Authors of recent and relevant works (including works published at the main ECCV 2020 conference paper track) are invited to present a **poster** of their work at our workshop. Please [contact the organizers](#organizers) if you would like to present your work at our workshop.
-
-**Important dates**
-
-- ~~Deadline: July 28th, 2020~~
-
-*Note that this deadline has been pulled forward ~~by two weeks to August 2nd~~ to July 28th to accomodate uploading the required materials to the conference website in time. Organizers will contact accepted posters about hosting their posters.*
+1. Select to Better Learn: Fast and Accurate Deep Learning using Data Selection from Nonlinear Manifolds. <br />*Mohsen Joneidi, Saeed Vahidian, Ashkan Esmaeili, Weijia Wang, Nazanin Rahnavard, Bill Lin, and Mubarak Shah*
+2. Compositional Convolutional Neural Networks: A Deep Architecture with Innate Robustness to Partial Occlusion. <br />*Adam Kortylewski, Ju He, Qing Liu, Alan Yuille*
+3. On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location. <br />*Osman Semih Kayhan, Jan C. van Gemert*
 
 ## VIPriors Challenges
 
 We present the "Visual Inductive Priors for Data-Efficient Computer Vision" challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set.
 
-Please see the [challenges page](/challenges) for submission instructions and deadlines.
+Please see the [challenges page](/challenges) for the results of the challenges.
 
 ## Invited speakers
 

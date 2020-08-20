@@ -17,6 +17,62 @@ We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** 
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
+## Final rankings
+
+Listed below are the final rankings for each challenge, after reviewing all submissions for which a technical report or paper was received. We congratulate the winners! For more details on the final rankings, please visit the correspondig CodaLab competition for each challenge.
+
+### Image Classification
+
+1. <span class='list-marking'>Pengfei Sun, Xuan Jin, Wei Su, Yuan He, Hui Xue, Quan Lu. *Alibaba Group*</span>
+   - Paper: [A visual inductive priors framework for data-efficient image classification.](https://openreview.net/forum?id=Vh-OGLzvNeo)
+2. Zhao Bingchen, Wen Xin. *Megvii Research Nanjing, Tongji University*
+   - Paper: [Distilling Visual Priors from Self-Supervised Learning](https://openreview.net/forum?id=8V9lE-zP0ZL)
+3. Byeongjo Kim, Chanran Kim, Jaehoon Lee, Jein Song, Gyoungsoo Park. *Zuminternet*
+   - Report: [Data-Efficient Deep Learning Method for Image Classification Using Data Augmentation, Focal Cosine Loss, and Ensemble](https://arxiv.org/abs/2007.07805)
+4. *Samsung-SLSI-MSL-SS* (aka CodaLab user Ben1365)
+   - Report: [Diversification is All You Need: Towards Data Efficient Image Understanding](https://openreview.net/forum?id=UPbbSsBzfEW)
+
+[Full results on CodaLab](https://competitions.codalab.org/competitions/23713)
+
+### Semantic Segmentation
+
+1. <span class='list-marking'>Chen Weitao, Wang Zhibing. *Alibaba Group*</span>
+   - Report: [Multi-level tail pixel cutmix and scale attention for long-tailed scene parsing](https://openreview.net/forum?id=GHaQlkoNM-p)
+2. Qingfeng Liu, Behnam Babagholami Mohamadabadi, Mostafa El-Khamy, Jungwon Lee. *Samsung-SLSI-MSL-SS*
+   - Report: [Diversification is All You Need: Towards Data Efficient Image Understanding](https://openreview.net/forum?id=UPbbSsBzfEW)
+3. Chih-Chung Hsu, Hsin-Ti Ma. *National Pingtung University of Science and Technology*
+   - Report: [Edge-Preserving Guided Semantic Segmentation for VIPriors Challenge](/assets/downloads/Edge_Preserving_Guided_Semantic_Segmentation.pdf)
+4. V. Buğra Yeşilkaynak, Yusuf H. Sahin; G. Unal. *Istanbul Technical University, Computer Engineering*
+   - Report: [EfficientSeg: An Efficient Semantic Segmentation Network](https://openreview.net/forum?id=s-OSwnzXvEi)
+5. Rafal Pytel, Tomasz Motyka. *Delft University of Technology*
+   - Report: [Data-efficient semantic segmentation via extremely perturbed data augmentation](/assets/downloads/Data-efficient_semantic_segmentation_via_extremely_perturbed_data_augmentation.pdf)
+
+[Full results on CodaLab](https://competitions.codalab.org/competitions/23712)
+
+### Object Detection
+
+1. <span class='list-marking'>Fei Shen, Xin He, Mengwan Wei, Yi Xie. *Huaqiao University, Wuhan University Of Technology*</span>
+   - Report: [A Competitive Method to VIPriors Object Detection Challenge](/assets/downloads/a_competitive_method_to_vipriors_object_detection_challenge.pdf)
+2. Yinzheng Gu, Yihan Pan, Shizhe Chen. *Jilian Technology Group*
+   - Report: [2nd Place Solution to ECCV 2020 VIPriors Object Detection Challenge](https://arxiv.org/abs/2007.08849)
+3. Zhipeng Luo, Lixuan Che. *DeepBlue Technology (Shanghai) Co., Ltd*
+   - Report: [VIPriors Object Detection Challenge](https://arxiv.org/abs/2007.08170)
+
+[Full results on CodaLab](https://competitions.codalab.org/competitions/23661)
+
+### Action Recognition
+
+1. <span class='list-marking'>Ishan Dave, Kali Carter, Mubarak Shah. *Center for Research in Computer Vision (CRCV), University of Central Florida, LeTourneau University*</span>
+   - Report: ["Kallis" CRCV VIPriors challenge submission](/assets/downloads/report_kallis.pdf)
+2. Haoyu Chen, Zitong Yu, Xin Liu, Wei Peng, Yoon Lee, Guoying Zhao. *University of Oulu, Delft University of Technology*
+   - Report: [2nd Place Scheme on Action Recognition Track of ECCV 2020 VIPriors Challenges: An Efficient Optical Flow Stream Guided Framework](https://openreview.net/forum?id=R6YWiPVOQBo)
+3. Zhipeng Luo, Dawei Xu, Zhiguang Zhang. *DeepBlue Technology (Shanghai) Co., Ltd*
+   - Report: [Challenge report: VIPriors Action Recognition Challenge](https://arxiv.org/abs/2007.08180)
+4. Taeoh Kim, Hyeongmin Lee, MyeongAh Cho, Ho Seong Lee, Dong Heon Cho, Sangyoun Lee. *Yonsei University, Cognex Deep Learning Lab*
+   - Paper: [Learning Temporally Invariant and Localizable Features via Data Augmentation for Video Recognition](https://openreview.net/forum?id=tqz0rQvz_58)
+
+[Full results on CodaLab](https://competitions.codalab.org/competitions/23706)
+
 ## Important dates
 
 - ~~Challenges open: March 11, 2020~~
@@ -24,7 +80,7 @@ These tasks were chosen to encourage researchers of arbitrary background to part
 - ~~Technical reports due: July 17, 2020~~
 - ~~Winners announced: July 24, 2020~~
 
-*The challenge has been completed! Please see the [final rankings](#final-rankings) below.*
+*The challenge has been completed! Please see the [final rankings](#final-rankings) above.*
 
 ## Data
 
@@ -70,38 +126,6 @@ See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipr
 ## Questions
 
 If you have any questions, please first check the Frequently Asked Questions in [the toolkit repository](https://github.com/VIPriors/vipriors-challenges-toolkit). If your question persists, you can ask it on the forums of the specific challenge on the CodaLab website. If you need to ask us a question in private, you can email us at vipriors-ewi AT tudelft DOT nl.
-
-## Final rankings
-
-Listed below are the final rankings for each challenge, after reviewing all submissions for which a technical report or paper was received. We congratulate the winners! More details, including presentations of the winning methods and full results of the challenges, are forthcoming in the workshop.
-
-### Image Classification
-
-1. sunpengfei
-1. Tennant
-1. ZumInternet
-1. Samsung-SLSI-MSL-SS aka Ben1365
-
-### Semantic Segmentation
-
-1. xmj
-2. Samsung-SLSI-MSL-SS
-3. jesse1029
-4. MrGranddy
-5. rpytel
-
-### Object Detection
-
-1. feishen
-1. Guyz
-1. DeepBlueAI
-
-### Action Recognition
-
-1. ishan.dave
-1. Samjang_masiso
-1. Singularity213
-1. taeohkim
 
 <!--
 
