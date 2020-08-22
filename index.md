@@ -91,6 +91,10 @@ speakers_row:
 
 {% include twitter_sidebar %}
 
+# Attending
+
+Please find the Zoom link for the workshop through the ECCV conference platform.
+
 # Updates
 
 *Update August 20th*: Please see the updated [full program](#workshop-program) below as well as the [technical reports of the qualified submissions](#challenges).
