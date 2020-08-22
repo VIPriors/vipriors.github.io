@@ -64,7 +64,7 @@ organizers_row:
 speakers_row:
   - image_path: /assets/images/MatthiasBethge.jpg
     alt: "prof. Matthias Bethge"
-    title: "dr. Matthias Bethge"
+    title: "prof. Matthias Bethge"
     excerpt: "Bethge Lab"
     url: "http://bethgelab.org/people/matthias/"
     btn_label: "Website"
