@@ -63,7 +63,7 @@ organizers_row:
     excerpt: "University of Alcala"
 speakers_row:
   - image_path: /assets/images/MatthiasBethge.jpg
-    alt: "dr. Matthias Bethge"
+    alt: "prof. Matthias Bethge"
     title: "dr. Matthias Bethge"
     excerpt: "Bethge Lab"
     url: "http://bethgelab.org/people/matthias/"
