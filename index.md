@@ -93,9 +93,7 @@ speakers_row:
 
 # Attending
 
-~~Please find the Zoom link for the workshop through the ECCV conference platform.~~
-
-**18:00 (UTC+1) session link**: https://us02web.zoom.us/j/89019131864?pwd=eHpTQUdjV3Joa2txK1UxWVdpNGxzQT09
+Please find the Zoom link for the workshop through the ECCV conference platform.
 
 # Updates
 
