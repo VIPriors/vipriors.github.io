@@ -24,12 +24,19 @@ Listed below are the final rankings for each challenge, after reviewing all subm
 ### Image Classification
 
 1. <span class='list-marking'>Pengfei Sun, Xuan Jin, Wei Su, Yuan He, Hui Xue, Quan Lu. *Alibaba Group*</span>
+  
    - Paper: [A visual inductive priors framework for data-efficient image classification.](https://openreview.net/forum?id=Vh-OGLzvNeo)
-2. Zhao Bingchen, Wen Xin. *Megvii Research Nanjing, Tongji University*
+2. (Shared) Zhipeng Luo, Ge Li, Zhiguang Zhang. *DeepBlue Technology (Shanghai) Co., Ltd*
+   - Paper: [A Technical Report for VIPriors Image Classification Challenge](https://arxiv.org/abs/2007.08722)
+   
+   (Shared) Zhao Bingchen, Wen Xin. *Megvii Research Nanjing, Tongji University*
+   
    - Paper: [Distilling Visual Priors from Self-Supervised Learning](https://openreview.net/forum?id=8V9lE-zP0ZL)
 3. Byeongjo Kim, Chanran Kim, Jaehoon Lee, Jein Song, Gyoungsoo Park. *Zuminternet*
+  
    - Report: [Data-Efficient Deep Learning Method for Image Classification Using Data Augmentation, Focal Cosine Loss, and Ensemble](https://arxiv.org/abs/2007.07805)
 4. *Samsung-SLSI-MSL-SS* (aka CodaLab user Ben1365)
+  
    - Report: [Diversification is All You Need: Towards Data Efficient Image Understanding](https://openreview.net/forum?id=UPbbSsBzfEW)
 
 [Full results on CodaLab](https://competitions.codalab.org/competitions/23713)
