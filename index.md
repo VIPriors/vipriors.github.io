@@ -3,6 +3,9 @@ title: "<span class='header-marking'>1st Visual Inductive Priors for Data-Effici
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
+  # video:
+  #   id: JuZliqT2yxg
+  #   provider: youtube
 excerpt: "<span class='header-marking'>ECCV 2020</span><br/><span class='header-marking'>23 August 2020, ONLINE</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning'
@@ -89,15 +92,17 @@ speakers_row:
 
 {% include feature_row %}
 
+# Watch the recording
+
+{% include video id="JuZliqT2yxg" provider="youtube" %}
+
 {% include twitter_sidebar %}
 
-# Attending
+# Thanks to all for attending
 
-Please find the Zoom link for the workshop through the ECCV conference platform.
+We enjoyed two interesting workshop sessions at ECCV 2020. We thank all presenters for their efforts and all participants for their attention. This website will keep a record of all presented materials. We hope to see you all next year (venue TBD) for the next workshop!
 
 # Updates
-
-*Update August 20th*: Please see the updated [full program](#workshop-program) below as well as the [technical reports of the qualified submissions](#challenges).
 
 *Update August 3rd*: we have moved forward the deadline for the camera-ready versions of accepted papers to **September 10th**. Submission instructions have been sent to the authors through OpenReview.
 

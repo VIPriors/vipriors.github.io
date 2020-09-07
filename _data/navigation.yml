@@ -1,13 +1,15 @@
 main:
+  - title: "Watch"
+    url: /#watch-the-recording
   - title: "About"
     url: /#about-the-workshop
-  - title: "Program"
+  - title: "Papers"
     url: /#workshop-program
-  - title: "Call for papers"
+  - title: "Author instructions"
     url: /call-for-papers
   - title: "Challenges"
     url: /challenges
-  - title: "Invited speakers"
+  - title: "Speakers"
     url: /#invited-speakers
   - title: "Organizers"
     url: /#organizers
