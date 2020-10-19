@@ -3,13 +3,9 @@ main:
     url: /#watch-the-recording
   - title: "About"
     url: /#about-the-workshop
-  - title: "Papers"
+  - title: "Accepted works"
     url: /#workshop-program
-  - title: "Author instructions"
+  - title: "Call for papers"
     url: /call-for-papers
   - title: "Challenges"
     url: /challenges
-  - title: "Speakers"
-    url: /#invited-speakers
-  - title: "Organizers"
-    url: /#organizers

@@ -8,6 +8,8 @@ toc: true
 
 <img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
 
+_The challenges have concluded. We thank all participants and welcome all to participate in next year's challenges!_
+
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set. The winners of each challenge are invited to present their winning method at the VIPriors workshop presentation at ECCV 2020. The four data-deficient challenges are:
 
 1. [Image classification](https://competitions.codalab.org/competitions/23713) on [ImageNet](http://www.image-net.org/)
@@ -24,11 +26,11 @@ Listed below are the final rankings for each challenge, after reviewing all subm
 ### Image Classification
 
 1. <span class='list-marking'>Pengfei Sun, Xuan Jin, Wei Su, Yuan He, Hui Xue, Quan Lu. *Alibaba Group*</span>
-  
+
    - Paper: [A visual inductive priors framework for data-efficient image classification.](https://openreview.net/forum?id=Vh-OGLzvNeo)
 2. (Shared) Zhipeng Luo, Ge Li, Zhiguang Zhang. *DeepBlue Technology (Shanghai) Co., Ltd*
    - Paper: [A Technical Report for VIPriors Image Classification Challenge](https://arxiv.org/abs/2007.08722)
-   
+
    (Shared) Zhao Bingchen, Wen Xin. *Megvii Research Nanjing, Tongji University*
    - Paper: [Distilling Visual Priors from Self-Supervised Learning](https://openreview.net/forum?id=8V9lE-zP0ZL)
 3. Byeongjo Kim, Chanran Kim, Jaehoon Lee, Jein Song, Gyoungsoo Park. *Zuminternet*
@@ -98,6 +100,7 @@ As training data for these challenges we use subsets of publicly available datas
 - Organizers retain the right to disqualify any submissions that violate these rules.
 - The winners of each of the four challenges will get an **opportunity to present** their method at the VIPriors workshop at ECCV 2020. The organizers will contact contenders that are eligible for this opportunity after the challenges close.
 
+<!--
 ## Report
 
 For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is July 17th, the same date as the workshop paper deadline. Authors are to submit their report to ArXiv and submit the link to us using the form linked below. Those unable to submit to Arxiv can email their report to [the emailaddress listed under "Organizers"](/#organizers). Please use the same format as for the paper track. After the conference we will publish the links to the technical reports on the workshop website.
@@ -105,6 +108,7 @@ For the submission on CodaLab to qualify for the competition, we require the aut
 Authors that are already submitting a paper about the submission to the workshop paper track are not required to submit a technical report. Instead, they are to use the same submission form to refer the challenge organizers to their submitted paper.
 
 Link to submission form: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdzTQXw60TL70hxDW1WsEp52AUI2CVe3QX7T0Qi420Gey9H9Q/viewform?usp=sf_link).
+
 
 ## Submission
 
@@ -116,6 +120,7 @@ Please find the challenges here:
 - [Semantic segmentation](https://competitions.codalab.org/competitions/23712)
 - [Object detection](https://competitions.codalab.org/competitions/23661)
 - [Action recognition](https://competitions.codalab.org/competitions/23706)
+- -->
 
 ## Resources
 
@@ -130,24 +135,3 @@ See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipr
 ## Questions
 
 If you have any questions, please first check the Frequently Asked Questions in [the toolkit repository](https://github.com/VIPriors/vipriors-challenges-toolkit). If your question persists, you can ask it on the forums of the specific challenge on the CodaLab website. If you need to ask us a question in private, you can email us at vipriors-ewi AT tudelft DOT nl.
-
-<!--
-
-## Leaderboards
-
-### Image Classification
-
-<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23713/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>
-
-### Semantic Segmentation
-
-<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23712/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>
-
-### Object Detection
-
-<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23661/" class='leaderboard' style="height: 500px; border: none;"></iframe>
-
-### Action Recognition
-
-<iframe src="https://competitions.codalab.org/competitions/leaderboard_widget/23706/" class='leaderboard' style="height: 500px; width: 100%; border: none;"></iframe>
--->

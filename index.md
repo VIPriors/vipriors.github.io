@@ -13,14 +13,14 @@ feature_row:
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Camera-ready revisions**: September 10th."
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Accepted works** are included in [the program](#workshop-program)."
     url: "#call-for-papers"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
-    excerpt: "We invite researchers to present their recent papers on data-efficient computer vision.<br /><br />**Deadline** has passed."
+    excerpt: "We invite researchers to present their recent papers on data-efficient computer vision.<br /><br />**Accepted posters** are included in [the program](#workshop-program)."
     url: "#posters"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -102,10 +102,6 @@ speakers_row:
 
 We enjoyed two interesting workshop sessions at ECCV 2020. We thank all presenters for their efforts and all participants for their attention. This website will keep a record of all presented materials. We hope to see you all next year (venue TBD) for the next workshop!
 
-# Updates
-
-*Update August 3rd*: we have moved forward the deadline for the camera-ready versions of accepted papers to **September 10th**. Submission instructions have been sent to the authors through OpenReview.
-
 # About the workshop
 
 This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge from physics such as light reflection or geometry. Visual inductive priors are data efficient: What is built-in no longer has to be learned, saving valuable training data.
@@ -118,7 +114,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Workshop program
 
-Our live program will feature a panel discussion with our [invited speakers](#invited-speakers), as well as playback of recorded talks for all presentations and live Q&A. All keynotes, papers and presentations are made available through the [ECCV Workshops and Tutorials website](https://workshopsandtutorials.eccv2020.eu/papers/subject/visual-inductive-priors-for-data-efficient-deep-learning/). We recommend attendees to watch the keynote talks before the session.
+Our live program featured a panel discussion with our [invited speakers](#invited-speakers), as well as playback of recorded talks for all presentations and live Q&A. All keynotes, papers and presentations were made available through the [ECCV Workshops and Tutorials website](https://workshopsandtutorials.eccv2020.eu/papers/subject/visual-inductive-priors-for-data-efficient-deep-learning/).
 
 | Time (UTC+1) | | |
 | -- | -- | -- |
@@ -158,7 +154,7 @@ Our live program will feature a panel discussion with our [invited speakers](#in
 
 ## VIPriors Challenges
 
-We present the "Visual Inductive Priors for Data-Efficient Computer Vision" challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set.
+We presented the "Visual Inductive Priors for Data-Efficient Computer Vision" challenges. We offered four challenges, where models are to be trained from scratch, and we reduced the number of training samples to a fraction of the full set.
 
 Please see the [challenges page](/challenges) for the results of the challenges.
 

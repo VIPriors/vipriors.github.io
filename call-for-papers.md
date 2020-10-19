@@ -5,6 +5,8 @@ classes: semiwide
 permalink: /call-for-papers/
 ---
 
+_The paper track for the workshop has now concluded. We thank all authors and welcome all to submit to next year's paper track!_
+
 We solicit submission that in the broad sense focus on data efficiency through visual inductive priors covering but not limited to the following topics:
 
 - Improving data efficiency of Deep Computer Vision methods using prior knowledge about the task domain
@@ -22,9 +24,9 @@ We solicit submission that in the broad sense focus on data efficiency through v
 - ~~Submissions open: March 1, 2020~~
 - ~~Submission deadline: July 17, 2020~~
 - ~~Notification of acceptance: July 31, 2020~~
-- Presentation materials deadline: ~~August 11, 2020~~ August 14, 2020
-- Camera-ready deadline: ~~September 15, 2020~~ September 10, 2020
-- Workshop: August 23, 2020
+- ~~Presentation materials deadline: August 14, 2020~~
+- ~~Camera-ready deadline: September 10, 2020~~
+- ~~Workshop: August 23, 2020~~
 
 **Submission guidelines**
 
@@ -37,10 +39,8 @@ We solicit submission that in the broad sense focus on data efficiency through v
 
 ### Posters
 
-Authors of recent and relevant works (including works published at the main ECCV 2020 conference paper track) are invited to present a **poster** of their work at our workshop. Please [contact the organizers](#organizers) if you would like to present your work at our workshop.
+Authors of recent and relevant works (including works published at the main ECCV 2020 conference paper track) are invited to present a **poster** of their work at our workshop.
 
 **Important dates**
 
 - ~~Deadline: July 28th, 2020~~
-
-*Note that this deadline has been pulled forward ~~by two weeks to August 2nd~~ to July 28th to accomodate uploading the required materials to the conference website in time. Organizers will contact accepted posters about hosting their posters.*
