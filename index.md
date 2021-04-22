@@ -38,6 +38,13 @@ organizers_row:
     url: "https://jvgemert.github.io/"
     btn_label: "Website"
     btn_class: "btn--default"
+  - image_path: /assets/images/MatthiesBethge.jpg
+    alt: "dr. Matthias Bethge"
+    title: "dr. Matthias Bethge"
+    excerpt: "Bethge Lab"
+    url: "http://bethgelab.org/people/matthias/"
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: /assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
