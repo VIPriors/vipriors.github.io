@@ -1,32 +1,32 @@
 ---
-title: "<span class='header-marking'>1st Visual Inductive Priors for Data-Efficient Deep Learning Workshop</span>"
+title: "<span class='header-marking'>2nd Visual Inductive Priors for Data-Efficient Deep Learning Workshop</span>"
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
   # video:
   #   id: JuZliqT2yxg
   #   provider: youtube
-excerpt: "<span class='header-marking'>ECCV 2020</span><br/><span class='header-marking'>23 August 2020, ONLINE</span>"
+excerpt: "<span class='header-marking'>ICCV 2021</span><br/><span class='header-marking'>ONLINE</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning'
 feature_row:
   - image_path: /assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
-    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision.<br /><br />**Accepted works** are included in [the program](#workshop-program)."
+    excerpt: "We invite researchers to submit their recent work on data-efficient computer vision."
     url: "#call-for-papers"
-    btn_label: "Read More"
+    btn_label: "Call for Papers"
     btn_class: "btn--primary"
   - image_path: /assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
-    excerpt: "We invite researchers to present their recent papers on data-efficient computer vision.<br /><br />**Accepted posters** are included in [the program](#workshop-program)."
+    excerpt: "We invite researchers to present their recent published works on data-efficient computer vision."
     url: "#posters"
-    btn_label: "Read More"
+    btn_label: "Call for Posters"
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
     title: "VIPriors challenges"
-    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**.<br /><br />[**Final rankings**](https://vipriors.github.io/challenges/#final-rankings) are out now."
+    excerpt: "Including data-efficient **action recognition**, **classification**, **detection** and **segmentation**."
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -36,13 +36,6 @@ organizers_row:
     title: "dr. Jan van Gemert"
     excerpt: "Delft University of Technology"
     url: "https://jvgemert.github.io/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/AntonVanDenHengel.jpg
-    alt: "dr. Anton van den Hengel"
-    title: "dr. Anton van den Hengel"
-    excerpt: "University of Adelaide"
-    url: "https://cs.adelaide.edu.au/~hengel/"
     btn_label: "Website"
     btn_class: "btn--default"
   - image_path: /assets/images/AttilaLengyel.jpg
@@ -59,48 +52,44 @@ organizers_row:
   - image_path: /assets/images/OsmanKayhan.png
     alt: "Osman Semih Kayhan"
     title: "Osman Semih Kayhan"
-    excerpt: "Delft University of Technology"
+    excerpt: "Bosch Security Systems B.V."
   - image_path: /assets/images/MarcosBaptistaRios.jpg
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
     excerpt: "University of Alcala"
+  - image_path: /assets/images/blank-photo.png
+    alt: "Nergis Tömen"
+    title: "Nergis Tömen"
+    excerpt: "Delft University of Technology"
 speakers_row:
-  - image_path: /assets/images/MatthiasBethge.jpg
-    alt: "prof. Matthias Bethge"
-    title: "prof. Matthias Bethge"
-    excerpt: "Bethge Lab"
-    url: "http://bethgelab.org/people/matthias/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/CharlesLeek.jpg
-    alt: "prof. Charles Leek"
-    title: "prof. Charles Leek"
-    excerpt: "University of Liverpool"
-    url: "https://www.liverpool.ac.uk/psychology/staff/charles-leek/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/DanielCremers.jpg
-    alt: "prof. Daniel Cremers"
-    title: "prof. Daniel Cremers"
-    excerpt: "TU München"
-    url: "https://vision.in.tum.de/members/cremers"
-    btn_label: "Website"
-    btn_class: "btn--default"
+  - image_path: /assets/images/blank-photo.png
+    alt: "TBA"
+    title: "TBA"
+    excerpt: ""
+    url: ""
+    # btn_label: "Website"
+    # btn_class: "btn--default"
+  - image_path: /assets/images/blank-photo.png
+    alt: "TBA"
+    title: "TBA"
+    excerpt: ""
+    url: ""
+    # btn_label: "Website"
+    # btn_class: "btn--default"
+  - image_path: /assets/images/blank-photo.png
+    alt: "TBA"
+    title: "TBA"
+    excerpt: ""
+    url: ""
+    # btn_label: "Website"
+    # btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-# Watch the recording
-
-{% include video id="JuZliqT2yxg" provider="youtube" %}
-
 {% include twitter_sidebar %}
-
-# Thanks to all for attending
-
-We enjoyed two interesting workshop sessions at ECCV 2020. We thank all presenters for their efforts and all participants for their attention. This website will keep a record of all presented materials. We hope to see you all next year (venue TBD) for the next workshop!
 
 # About the workshop
 
@@ -114,43 +103,32 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Workshop program
 
-Our live program featured a panel discussion with our [invited speakers](#invited-speakers), as well as playback of recorded talks for all presentations and live Q&A. All keynotes, papers and presentations were made available through the [ECCV Workshops and Tutorials website](https://workshopsandtutorials.eccv2020.eu/papers/subject/visual-inductive-priors-for-data-efficient-deep-learning/).
+Our program will include several keynotes (TBA) as well as oral presentations of the top works submitted to the paper track.
 
-| Time (UTC+1) | | |
-| -- | -- | -- |
-| 8:00 / 18:00  | Keynote session     | Panel discussion with [invited speakers](#invited-speakers) + Q&A                         |
-| 8:40 / 18:40   | *Break*        |                                                |
-| 8:45 / 18:45  | Oral session | [Oral presentations](#oral-session)                             |
-| 9:10 / 19:10 |              | Q&A                                            |
-| 9:25 / 19:25 | Challenges           | [Awards & winners presentations](challenges)               |
-| 9:35 / 19:35 | Poster session      | [Poster presentations](#poster-session)             |
-| 9:45 / 19:45 |              | Q&A (for posters & challenges)              |
-| 9:50 / 19:50 |              | [External poster presentations](#external-poster-session)                  |
-| 9:55 / 19:55 | *Closing*      |                          |
+*Date and times for the live session are TBA (pending ICCV instructions).*
 
-### Oral session
+## Call for papers
 
-1. Lightweight Action Recognition in Compressed Videos. <br />*Yuqi Huo, Xiaoli Xu, Yao Lu, Yulei Niu, Mingyu Ding, Zhiwu Lu, Tao Xiang, Ji-Rong Wen*
-2. On sparse connectivity, adversarial robustness, and a novel model of the artificial neuron. <br />*Sergey Bochkanov*
-3. Injecting Prior Knowledge into Image Caption Generation. <br />*Arushi Goel, Basura Fernando, Thanh-Son Nguyen, Hakan Bilen*
-4. Learning Temporally Invariant and Localizable Features via Data Augmentation for Video Recognition. <br />*Taeoh Kim, Hyeongmin Lee, MyeongAh Cho, Hoseong Lee, Dong heon Cho, Sangyoun Lee*
-5. Unsupervised Learning of Video Representations via Dense Trajectory Clustering. <br />*Pavel Tokmakov, Martial Hebert, Cordelia Schmid*
+We solicit submissions that in the broad sense focus on achieving data efficiency through incorporating prior knowledge of the visual domain into network design. This includes the following topics:
 
-### Poster session
+- Pre-wired invariance/equivariance to symmetries, such as translation, rotation, scaling, etc.
+- Parameter sharing for data efficiency
+- (Meta-)learning symmetries from data
+- Unsupervised learning through visual priors, e.g. contrastive learning
+- Color invariants/constants in Deep Learning
+- Data augmentation
+- Human vision as an inspiration for data-efficient vision algorithms, e.g. reducing texture bias in Convolutional Neural Networks, modeling network operations after human vision, etc.
+- Alternative data-efficient operators for Deep Learning inspired by visual inductive priors, e.g. alternative compact filter bases, Capsule Networks, etc.
 
-1. Distilling Visual Priors from Self-Supervised Learning. <br />*Bingchen Zhao, Xin Wen*
-2. Unsupervised Image Classification for Deep Representation Learning. <br />*Weijie Chen, Shiliang Pu, Di Xie, Shicai Yang, Yilu Guo, Luojun Lin*
-3. TDMPNet: Prototype Network with Recurrent Top-Down Modulation for Robust Object Classification under Partial Occlusion. <br />*Mingqing Xiao, Adam Kortylewski, Ruihai Wu, Siyuan Qiao, Wei Shen, Alan Yuille*
-4. What leads to generalization of object proposals?. <br />*Rui Wang, Dhruv Mahajan, Vignesh Ramanathan*
-5. A Self-Supervised Framework for Human Instance Segmentation. <br />*Yalong Jiang, Wenrui Ding, Hongguang Li, Hua Yang, Xu Wang*
-6. Multiple interaction learning with question-type prior knowledge for constraining answer search space in visual question answering. <br />*Tuong Do, Binh Nguyen, Huy Tran, Erman Tjiputra, Quang Tran, Thanh Toan Do*
-7. A visual inductive priors framework for data-efficient image classification. <br />*Pengfei Sun, Xuan Jin, Wei Su, Yuan He, Hui Xue', Quan Lu*
+Please note that this list is not exhaustive! We strongly encourage novel approaches to data efficient methods using visual prior knowledge.
 
-### External poster session
+*Submission instructions & deadlines are TBA.*
 
-1. Select to Better Learn: Fast and Accurate Deep Learning using Data Selection from Nonlinear Manifolds. <br />*Mohsen Joneidi, Saeed Vahidian, Ashkan Esmaeili, Weijia Wang, Nazanin Rahnavard, Bill Lin, and Mubarak Shah*
-2. Compositional Convolutional Neural Networks: A Deep Architecture with Innate Robustness to Partial Occlusion. <br />*Adam Kortylewski, Ju He, Qing Liu, Alan Yuille*
-3. On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location. <br />*Osman Semih Kayhan, Jan C. van Gemert*
+### Call for posters
+
+Authors of recent and relevant works (including works published at the main ICCV 2021 conference paper track) are invited to present a **poster** of their work at our workshop.
+
+*Submission instructions & deadlines are TBA.*
 
 ## VIPriors Challenges
 
