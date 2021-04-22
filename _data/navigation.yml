@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /#about-the-workshop
-  - title: "Program"
-    url: /#workshop-program
+  # - title: "Program"
+  #   url: /#workshop-program
   - title: "Call for papers"
     url: /#call-for-papers
   - title: "Challenges"
