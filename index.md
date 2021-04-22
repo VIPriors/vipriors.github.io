@@ -61,28 +61,28 @@ organizers_row:
     alt: "Nergis Tömen"
     title: "Nergis Tömen"
     excerpt: "Delft University of Technology"
-speakers_row:
-  - image_path: /assets/images/blank-photo.png
-    alt: "TBA"
-    title: "TBA"
-    excerpt: ""
-    url: ""
-    # btn_label: "Website"
-    # btn_class: "btn--default"
-  - image_path: /assets/images/blank-photo.png
-    alt: "TBA"
-    title: "TBA"
-    excerpt: ""
-    url: ""
-    # btn_label: "Website"
-    # btn_class: "btn--default"
-  - image_path: /assets/images/blank-photo.png
-    alt: "TBA"
-    title: "TBA"
-    excerpt: ""
-    url: ""
-    # btn_label: "Website"
-    # btn_class: "btn--default"
+# speakers_row:
+#   - image_path: /assets/images/blank-photo.png
+#     alt: "TBA"
+#     title: "TBA"
+#     excerpt: ""
+#     url: ""
+#     # btn_label: "Website"
+#     # btn_class: "btn--default"
+#   - image_path: /assets/images/blank-photo.png
+#     alt: "TBA"
+#     title: "TBA"
+#     excerpt: ""
+#     url: ""
+#     # btn_label: "Website"
+#     # btn_class: "btn--default"
+#   - image_path: /assets/images/blank-photo.png
+#     alt: "TBA"
+#     title: "TBA"
+#     excerpt: ""
+#     url: ""
+#     # btn_label: "Website"
+#     # btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
