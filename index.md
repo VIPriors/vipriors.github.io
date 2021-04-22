@@ -38,13 +38,17 @@ organizers_row:
     url: "https://jvgemert.github.io/"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/MatthiesBethge.jpg
+  - image_path: /assets/images/MatthiasBethge.jpg
     alt: "dr. Matthias Bethge"
     title: "dr. Matthias Bethge"
     excerpt: "Bethge Lab"
     url: "http://bethgelab.org/people/matthias/"
     btn_label: "Website"
     btn_class: "btn--default"
+  - image_path: /assets/images/NergisTomen.jpg
+    alt: "dr. Nergis Tömen"
+    title: "dr. Nergis Tömen"
+    excerpt: "Delft University of Technology"
   - image_path: /assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
@@ -64,10 +68,6 @@ organizers_row:
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
     excerpt: "University of Alcala"
-  - image_path: /assets/images/blank-photo.png
-    alt: "Nergis Tömen"
-    title: "Nergis Tömen"
-    excerpt: "Delft University of Technology"
 # speakers_row:
 #   - image_path: /assets/images/blank-photo.png
 #     alt: "TBA"
