@@ -52,8 +52,10 @@ organizers_row:
   - image_path: /assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
-    url: "https://www.lengyel.nl"
     excerpt: "Delft University of Technology"
+    url: "https://attila94.github.io"
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: /assets/images/Robert-JanBruintjes.jpg
     alt: "Robert-Jan Bruintjes"
     title: "Robert-Jan Bruintjes"
