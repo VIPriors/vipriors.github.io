@@ -52,6 +52,7 @@ organizers_row:
   - image_path: /assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
+    url: "https://www.lengyel.nl"
     excerpt: "Delft University of Technology"
   - image_path: /assets/images/Robert-JanBruintjes.jpg
     alt: "Robert-Jan Bruintjes"
