@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 .page__hero--overlay .page__lead { max-width: 600px !important;}
-@media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2em !important; max-width: 600px !important; } }
+@media (min-width: 37.5em) { .page__hero--overlay .page__title { font-size: 2.2em !important; max-width: 500px !important; } }
 
 .archive__item-teaser img { width: 60% !important; }
 div.feature__wrapper:nth-child(2) .archive__item-teaser img { max-height: 64px !important; max-width: 120px !important; width: auto !important; }
@@ -51,6 +51,7 @@ footer div.footer-disclaimer {
 
 body, .greedy-nav {
     background-color: #f8f8f8 !important;
+    font-family: Lato, Roboto, "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 
 span.header-marking {
@@ -94,3 +95,101 @@ table {
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__content p, .page__content li, .page__content dl {
+    font-size: 0.8em;
+}
+
+h1, h2, h3 {
+    font-weight: normal;
+}
+
+.feature__item h2 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.feature__item, .archive__item-excerpt {
+    font-size: 1em;
+}
+
+/* --- Organizers --- */
+
+h2#organizers + .feature__wrapper .feature__item {
+    position: relative;
+    margin-bottom: 2em;
+    font-size: 1em;
+
+    @media (min-width: 37.5em) {
+        &:nth-child(1) {
+            float: none;
+        }
+
+        &:nth-child(n) {
+            float: left;
+            width: 14%;
+            clear: none;
+        }
+
+        &:nth-child(n+2) {
+            margin-left: 0.3% !important;
+        }
+
+    }
+
+}
+
+h2#organizers + .feature__wrapper .archive__item-teaser img {
+    width: 80% !important;
+}
+
+h2#organizers + .feature__wrapper .archive__item-excerpt {
+    min-height: 38px;
+    font-size: 0.8em;
+}
+
+h2#organizers + .feature__wrapper h2 {
+    font-size: 0.75em;
+    font-weight: normal;
+}
+
+/* --- Navbar --- */
+
+.masthead a.site-title {
+    color: #000;
+    font-weight: normal;
+}
+
+.masthead {
+    @include clearfix();
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0em;
+    float: right;
+    padding: 0em;
+    background: #f8f8f8;
+}
+
+.masthead__inner-wrap {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+@media (min-width: 80em) {
+    html { font-size: 18px; }
+}
+@media (min-width: 64em) {
+    html { font-size: 18px; }
+}
+@media (min-width: 48em) {
+    html { font-size: 18px; }
+}
+
+.greedy-nav .visible-links a:hover {
+    color: #000;
+}
+
+
+.greedy-nav .visible-links a:before {
+    background: none;
+}

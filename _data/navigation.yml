@@ -4,7 +4,7 @@ main:
   # - title: "Program"
   #   url: /#workshop-program
   - title: "Call for papers"
-    url: /#call-for-papers
+    url: /call-for-papers
   - title: "Challenges"
     url: /challenges
   # - title: "Invited speakers"

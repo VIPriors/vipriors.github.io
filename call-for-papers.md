@@ -5,7 +5,28 @@ classes: semiwide
 permalink: /call-for-papers/
 ---
 
-_The paper track for the workshop has now concluded. We thank all authors and welcome all to submit to next year's paper track!_
+We solicit submissions that in the broad sense focus on achieving data efficiency through incorporating prior knowledge of the visual domain into network design. This includes the following topics:
+
+- Pre-wired invariance/equivariance to symmetries, such as translation, rotation, scaling, etc.
+- Parameter sharing for data efficiency
+- (Meta-)learning symmetries from data
+- Unsupervised learning through visual priors, e.g. contrastive learning
+- Color invariants/constants in Deep Learning
+- Data augmentation
+- Human vision as an inspiration for data-efficient vision algorithms, e.g. reducing texture bias in Convolutional Neural Networks, modeling network operations after human vision, etc.
+- Alternative data-efficient operators for Deep Learning inspired by visual inductive priors, e.g. alternative compact filter bases, Capsule Networks, etc.
+
+Please note that this list is not exhaustive! We strongly encourage novel approaches to data efficient methods using visual prior knowledge.
+
+*Submission instructions & deadlines are TBA.*
+
+### Call for posters
+
+Authors of recent and relevant works (including works published at the main ICCV 2021 conference paper track) are invited to present a **poster** of their work at our workshop.
+
+*Submission instructions & deadlines are TBA.*
+
+<!-- The paper track for the workshop has now concluded. We thank all authors and welcome all to submit to next year's paper track!_
 
 We solicit submission that in the broad sense focus on data efficiency through visual inductive priors covering but not limited to the following topics:
 
@@ -43,4 +64,4 @@ Authors of recent and relevant works (including works published at the main ECCV
 
 **Important dates**
 
-- ~~Deadline: July 28th, 2020~~
+- ~~Deadline: July 28th, 2020~~ -->

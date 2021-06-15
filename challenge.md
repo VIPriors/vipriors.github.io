@@ -3,10 +3,12 @@ layout: single
 title: Challenges
 classes: semiwide
 permalink: /challenges/
-toc: true
+toc: false
 ---
 
-<img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
+More info will follow shortly.
+
+<!-- <img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
 
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set. The winners of each challenge are invited to present their winning method at the VIPriors workshop presentation at ICCV 2021. The four data-deficient challenges are:
 
@@ -51,15 +53,14 @@ Authors that are already submitting a paper about the submission to the workshop
 
 Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
 
-*The challenge pages are TBA.*
 
-<!-- Please find the challenges here: -->
 
-<!-- - [Image classification](https://competitions.codalab.org/competitions/23713)
+Please find the challenges here:
+
+- [Image classification](https://competitions.codalab.org/competitions/23713)
 - [Semantic segmentation](https://competitions.codalab.org/competitions/23712)
 - [Object detection](https://competitions.codalab.org/competitions/23661)
-- [Action recognition](https://competitions.codalab.org/competitions/23706) -->
-- -->
+- [Action recognition](https://competitions.codalab.org/competitions/23706)
 
 ## Resources
 
@@ -69,10 +70,10 @@ To accommodate submissions to the challenges we provide a toolkit that contains
 - documentation of the required submission format for the challenges;
 - implementations of the baseline models for each challenge.
 
-<!-- See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit). -->
+See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit).
 
 *The toolkit will be made available shortly.*
 
-<!-- ## Questions
+## Questions
 
 If you have any questions, please first check the Frequently Asked Questions in [the toolkit repository](https://github.com/VIPriors/vipriors-challenges-toolkit). If your question persists, you can ask it on the forums of the specific challenge on the CodaLab website. If you need to ask us a question in private, you can email us at vipriors-ewi AT tudelft DOT nl. -->
