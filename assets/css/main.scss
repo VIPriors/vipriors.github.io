@@ -104,6 +104,10 @@ h1, h2, h3 {
     font-weight: normal;
 }
 
+h1#page-title {
+    font-weight: 700;
+}
+
 .feature__item h2 {
     font-size: 1em;
     font-weight: bold;
@@ -144,7 +148,6 @@ h2#organizers + .feature__wrapper .archive__item-teaser img {
 }
 
 h2#organizers + .feature__wrapper .archive__item-excerpt {
-    min-height: 38px;
     font-size: 0.8em;
 }
 
