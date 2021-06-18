@@ -22,7 +22,7 @@ feature_row:
       </ul>
       All deadlines are 23:59 CEST.
 
-    url: "#call-for-papers"
+    url: "call-for-papers"
     btn_label: "Call for Papers"
     btn_class: "btn--primary"
   - image_path: /assets/images/poster.png
@@ -31,10 +31,10 @@ feature_row:
     excerpt: |
       We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop. This may include works published at the main ICCV 2021 conference paper track.
       <ul>
-      <li>Oct 1, 2021 - Submission deadline</li>
+      <li>Aug 14, 2021 - Submission deadline</li>
       </ul>
       All deadlines are 23:59 CEST.
-    url: "#posters"
+    url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge.png
@@ -52,22 +52,22 @@ feature_row:
     btn_class: "btn--primary"
 organizers_row:
   - image_path: /assets/images/JanVanGemert.jpg
-    alt: "dr. Jan van Gemert"
-    title: "dr. Jan van Gemert"
+    alt: "Jan van Gemert"
+    title: "Jan van Gemert"
     excerpt: "Delft University of Technology"
     url: "https://jvgemert.github.io/"
     btn_label: "Website"
     btn_class: "btn--default"
   - image_path: /assets/images/MatthiasBethge.jpg
-    alt: "dr. Matthias Bethge"
-    title: "dr. Matthias Bethge"
+    alt: "Matthias Bethge"
+    title: "Matthias Bethge"
     excerpt: "Bethge Lab"
     url: "http://bethgelab.org/people/matthias/"
     btn_label: "Website"
     btn_class: "btn--default"
   - image_path: /assets/images/NergisTomen.jpg
-    alt: "dr. Nergis Tömen"
-    title: "dr. Nergis Tömen"
+    alt: "Nergis Tömen"
+    title: "Nergis Tömen"
     excerpt: "Delft University of Technology"
   - image_path: /assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
@@ -91,28 +91,35 @@ organizers_row:
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
     excerpt: "University of Alcala"
-# speakers_row:
-#   - image_path: /assets/images/blank-photo.png
-#     alt: "TBA"
-#     title: "TBA"
-#     excerpt: ""
-#     url: ""
-#     # btn_label: "Website"
-#     # btn_class: "btn--default"
-#   - image_path: /assets/images/blank-photo.png
-#     alt: "TBA"
-#     title: "TBA"
-#     excerpt: ""
-#     url: ""
-#     # btn_label: "Website"
-#     # btn_class: "btn--default"
-#   - image_path: /assets/images/blank-photo.png
-#     alt: "TBA"
-#     title: "TBA"
-#     excerpt: ""
-#     url: ""
-#     # btn_label: "Website"
-#     # btn_class: "btn--default"
+speakers_row:
+  # - image_path: /assets/images/AnimaAnandkumar.png
+  #   alt: "Anima Anandkumar"
+  #   title: "Anima Anandkumar"
+  #   excerpt: "Caltech, NVIDIA"
+  #   url: "http://tensorlab.cms.caltech.edu/users/anima/"
+  #   btn_label: "Website"
+  #   btn_class: "btn--default"
+  - image_path: /assets/images/EkinCubuk.jpg
+    alt: "Ekin Dogus Cubuk"
+    title: "Ekin Dogus Cubuk"
+    excerpt: "Google Research"
+    url: "https://research.google/people/EkinDogusCubuk/"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/ChelseaFinn.jpg
+    alt: "Chelsea Finn"
+    title: "Chelsea Finn"
+    excerpt: "Stanford University"
+    url: "https://ai.stanford.edu/~cbfinn/"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/MaxWelling.jpg
+    alt: "Max Welling"
+    title: "Max Welling"
+    excerpt: "University of Amsterdam, Qualcomm"
+    url: "https://staff.fnwi.uva.nl/m.welling/"
+    btn_label: "Website"
+    btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -148,7 +155,7 @@ Our program will include several keynotes (TBA) as well as oral presentations of
 *Date and times for the live session are TBA (pending ICCV instructions).*
 
 ## Invited speakers
-*To be announced.*
+
 {% include feature_row id="speakers_row" %}
 
 ## Organizers

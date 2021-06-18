@@ -143,15 +143,39 @@ h2#organizers + .feature__wrapper .feature__item {
 
 }
 
-h2#organizers + .feature__wrapper .archive__item-teaser img {
+h2#invited-speakers + .feature__wrapper .feature__item {
+    position: relative;
+    margin-bottom: 2em;
+    font-size: 1.2em;
+
+    @media (min-width: 37.5em) {
+        &:nth-child(1) {
+            float: none;
+        }
+
+        &:nth-child(n) {
+            float: left;
+            width: 24.7%;
+            clear: none;
+        }
+
+        &:nth-child(n+2) {
+            margin-left: 0.3% !important;
+        }
+
+    }
+
+}
+
+h2#organizers + .feature__wrapper .archive__item-teaser img, h2#invited-speakers + .feature__wrapper .archive__item-teaser img {
     width: 80% !important;
 }
 
-h2#organizers + .feature__wrapper .archive__item-excerpt {
+h2#organizers + .feature__wrapper .archive__item-excerpt, h2#invited-speakers + .feature__wrapper .archive__item-excerpt {
     font-size: 0.8em;
 }
 
-h2#organizers + .feature__wrapper h2 {
+h2#organizers + .feature__wrapper h2, h2#invited-speakers + .feature__wrapper h2 {
     font-size: 0.75em;
     font-weight: normal;
 }
