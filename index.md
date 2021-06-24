@@ -92,13 +92,13 @@ organizers_row:
     title: "Marcos Baptista Ríos"
     excerpt: "University of Alcala"
 speakers_row:
-  # - image_path: /assets/images/AnimaAnandkumar.png
-  #   alt: "Anima Anandkumar"
-  #   title: "Anima Anandkumar"
-  #   excerpt: "Caltech, NVIDIA"
-  #   url: "http://tensorlab.cms.caltech.edu/users/anima/"
-  #   btn_label: "Website"
-  #   btn_class: "btn--default"
+  - image_path: /assets/images/AnimaAnandkumar.png
+    alt: "Anima Anandkumar"
+    title: "Anima Anandkumar"
+    excerpt: "Caltech, NVIDIA"
+    url: "http://tensorlab.cms.caltech.edu/users/anima/"
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: /assets/images/EkinCubuk.jpg
     alt: "Ekin Dogus Cubuk"
     title: "Ekin Dogus Cubuk"
