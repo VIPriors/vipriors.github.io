@@ -6,8 +6,6 @@ permalink: /challenges/
 toc: false
 ---
 
-<img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
-
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer five challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
 
 1. Image classification;
@@ -50,15 +48,13 @@ Authors that are already submitting a paper about the submission to the workshop
 
 Each of the five challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
 
-Codalab URLs will be released soon.
+Please find the challenges here:
 
-<!-- Please find the challenges here:
-
-- [Image classification]()
-- [Object detection]()
-- [Instance segmentation]()
-- [Action recognition]()
-- [Re-identification]() -->
+- [Image classification](https://competitions.codalab.org/competitions/33214)
+- [Object detection](https://competitions.codalab.org/competitions/33222)
+- [Instance segmentation](https://competitions.codalab.org/competitions/33340)
+- [Action recognition](https://competitions.codalab.org/competitions/33343)
+- [Re-identification](https://competitions.codalab.org/competitions/33216)
 
 ## Resources
 
