@@ -6,16 +6,15 @@ permalink: /challenges/
 toc: false
 ---
 
-More info will follow shortly.
+<img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
 
-<!-- <img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' />
-
-We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch, and we reduce the number of training samples to a fraction of the full set. The winners of each challenge are invited to present their winning method at the VIPriors workshop presentation at ICCV 2021. The four data-deficient challenges are:
+We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer five challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
 
 1. Image classification;
-2. Semantic segmentation;
-3. Object detection;
+2. Object detection;
+3. Instance segmentation;
 4. Action recognition;
+5. Re-identification.
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
@@ -25,10 +24,10 @@ In addition to an award for the top submission by performance, this year will se
 
 ## Important dates
 
-- Challenges open: estimated end of June 2021;
-- Challenges close: September 17th, 2021;
-- Technical reports due: September 24th, 2021;
-- Winners announced: October 1st, 2021.
+- Challenges open: July 5, 2021;
+- Challenges close: September 24, 2021;
+- Technical reports due: October 1, 2021;
+- Winners announced: October 8, 2021.
 
 ## Data
 
@@ -43,24 +42,23 @@ In addition to an award for the top submission by performance, this year will se
 
 ## Report
 
-For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is September 24th, the same date as the workshop paper deadline. Authors are to submit their report to ArXiv and submit the link to us using the form linked below. Those unable to submit to Arxiv can email their report to [the emailaddress listed under "Organizers"](/#organizers). Please use the same format as for the paper track. After the conference we will publish the links to the technical reports on the workshop website.
+For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is September 24th, the same date as the workshop paper deadline. Authors are to submit their report to ArXiv and submit the link to vipriors-ewi AT tudelft DOT nl. Those unable to submit to Arxiv can email their report directly to vipriors-ewi AT tudelft DOT nl. Please use the same format as for the paper track. After the conference we will publish the links to the technical reports on the workshop website.
 
 Authors that are already submitting a paper about the submission to the workshop paper track are not required to submit a technical report. Instead, they are to use the same submission form to refer the challenge organizers to their submitted paper.
 
-*Report submission instructions are TBA.*
-
 ## Submission
 
-Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
+Each of the five challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
 
+Codalab URLs will be released soon.
 
+<!-- Please find the challenges here:
 
-Please find the challenges here:
-
-- [Image classification](https://competitions.codalab.org/competitions/23713)
-- [Semantic segmentation](https://competitions.codalab.org/competitions/23712)
-- [Object detection](https://competitions.codalab.org/competitions/23661)
-- [Action recognition](https://competitions.codalab.org/competitions/23706)
+- [Image classification]()
+- [Object detection]()
+- [Instance segmentation]()
+- [Action recognition]()
+- [Re-identification]() -->
 
 ## Resources
 
