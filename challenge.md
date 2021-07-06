@@ -30,7 +30,7 @@ In addition to an award for the top submission by performance, this year will se
 
 This challenge is co-organized by **Synergy Sports**. The instance segmentation and re-identification tasks are powered by their data, and they are lending their support in organizing the challenges.
 
-Synergy Sports are changing how sport is organised, played, coached, commercialized and experienced around the world. They help federations, leagues, clubs, coaches, referees and players increase their performance on and off the field. Visit [their website](https://synergysports.com/) for more information.
+Synergy Sports is changing how sport is organised, played, coached, commercialized, and experienced around the world. We help federations, leagues, clubs, coaches, referees, and players increase their performance on and off the field. Synergy Sports operates in 41 countries. In the US, Synergy serves every single NBA, G League, WNBA, and NCAA Division I basketball team, as well as every MLB team and over 270 NCAA Division I baseball teams. Visit [their website](https://synergysports.com/) for more information.
 
 ## Important dates
 
