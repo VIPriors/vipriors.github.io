@@ -1,18 +1,24 @@
 ---
 layout: single
-title: Challenges
+title: "<span class='header-marking'>Challenges</span>"
+header:
+  overlay_image: assets/images/logo_challenge_header.png
 classes: semiwide
 permalink: /challenges/
 toc: false
 ---
 
+<!-- <img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' /> -->
+
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer five challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
+
+[<img src='/assets/images/SynergySportsLogo.png' style='display: block; float: right; width: 30%; min-width: 150px;' />](https://synergysports.com/)
 
 1. Image classification;
 2. Object detection;
-3. Instance segmentation;
+3. Instance segmentation, in collaboration with [**SynergySports**](https://synergysports.com/);
 4. Action recognition;
-5. Re-identification.
+5. Re-identification, in collaboration with [**SynergySports**](https://synergysports.com/).
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
