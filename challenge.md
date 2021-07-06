@@ -14,9 +14,9 @@ We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** 
 
 1. Image classification;
 2. Object detection;
-3. Instance segmentation, in collaboration with [**SynergySports**](#synergysports);
+3. Instance segmentation, in collaboration with [**Synergy Sports**](#synergy-sports);
 4. Action recognition;
-5. Re-identification, in collaboration with [**SynergySports**](#synergysports).
+5. Re-identification, in collaboration with [**Synergy Sports**](#synergy-sports).
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
@@ -24,7 +24,7 @@ In addition to an award for the top submission by performance, this year will se
 
 *Further details, such as the datasets for each task, will be announced soon.*
 
-## SynergySports
+## Synergy Sports
 
 [<img src='/assets/images/SynergySportsLogo.png' style='display: block; float: right; width: 30%; min-width: 150px;' />](https://synergysports.com/)
 
