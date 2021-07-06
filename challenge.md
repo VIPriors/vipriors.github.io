@@ -27,10 +27,6 @@ In addition to an award for the top submission by performance, this year will se
 - Technical reports due: October 1, 2021;
 - Winners announced: October 8, 2021.
 
-## Data
-
-*TBA*
-
 ## Rules
 
 - We prohibit the use of other data than the provided training data, i.e., **no pre-training**, no transfer learning.
