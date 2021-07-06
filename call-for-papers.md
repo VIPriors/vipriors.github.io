@@ -1,7 +1,9 @@
 ---
 layout: single
-title: Call for Papers
+title: "<span class='header-marking'>Call for Papers</span>"
 classes: semiwide
+header:
+  overlay_image: assets/images/header_background_centered.png
 permalink: /call-for-papers/
 ---
 

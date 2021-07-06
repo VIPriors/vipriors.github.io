@@ -1,24 +1,36 @@
 ---
 layout: single
-title: Challenges
+title: "<span class='header-marking'>Challenges</span>"
+header:
+  overlay_image: assets/images/logo_challenge_header.png
 classes: semiwide
 permalink: /challenges/
 toc: false
 ---
 
+<!-- <img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' /> -->
+
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer five challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
 
 1. Image classification;
 2. Object detection;
-3. Instance segmentation;
+3. Instance segmentation, in collaboration with [**Synergy Sports**](#synergy-sports);
 4. Action recognition;
-5. Re-identification.
+5. Re-identification, in collaboration with [**Synergy Sports**](#synergy-sports).
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
 In addition to an award for the top submission by performance, this year will see the introduction of an additional jury-based prize for the most interesting submission.
 
 *Further details, such as the datasets for each task, will be announced soon.*
+
+## Synergy Sports
+
+[<img src='/assets/images/SynergySportsLogo.png' style='display: block; float: right; width: 30%; min-width: 150px;' />](https://synergysports.com/)
+
+This challenge is co-organized by **Synergy Sports**. The instance segmentation and re-identification tasks are powered by their data, and they are lending their support in organizing the challenges.
+
+Synergy Sports is changing how sport is organised, played, coached, commercialized, and experienced around the world. We help federations, leagues, clubs, coaches, referees, and players increase their performance on and off the field. Synergy Sports operates in 41 countries. In the US, Synergy serves every single NBA, G League, WNBA, and NCAA Division I basketball team, as well as every MLB team and over 270 NCAA Division I baseball teams. Visit [their website](https://synergysports.com/) for more information.
 
 ## Important dates
 
