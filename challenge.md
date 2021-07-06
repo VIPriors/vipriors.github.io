@@ -12,19 +12,25 @@ toc: false
 
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer five challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
 
-[<img src='/assets/images/SynergySportsLogo.png' style='display: block; float: right; width: 30%; min-width: 150px;' />](https://synergysports.com/)
-
 1. Image classification;
 2. Object detection;
-3. Instance segmentation, in collaboration with [**SynergySports**](https://synergysports.com/);
+3. Instance segmentation, in collaboration with [**SynergySports**](#synergysports);
 4. Action recognition;
-5. Re-identification, in collaboration with [**SynergySports**](https://synergysports.com/).
+5. Re-identification, in collaboration with [**SynergySports**](#synergysports).
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
 In addition to an award for the top submission by performance, this year will see the introduction of an additional jury-based prize for the most interesting submission.
 
 *Further details, such as the datasets for each task, will be announced soon.*
+
+## SynergySports
+
+[<img src='/assets/images/SynergySportsLogo.png' style='display: block; float: right; width: 30%; min-width: 150px;' />](https://synergysports.com/)
+
+This challenge is co-organized by **Synergy Sports**. The instance segmentation and re-identification tasks are powered by their data, and they are lending their support in organizing the challenges.
+
+Synergy Sports are changing how sport is organised, played, coached, commercialized and experienced around the world. They help federations, leagues, clubs, coaches, referees and players increase their performance on and off the field. Visit [their website](https://synergysports.com/) for more information.
 
 ## Important dates
 
