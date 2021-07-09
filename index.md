@@ -42,7 +42,6 @@ feature_row:
     excerpt: |
       Participate in our data efficieny challenges on action recognition, classification, detection, segmentation and object tracking.
       <ul>
-      <li>July 5, 2021 - Challenges open</li>
       <li>Sep 24, 2021 - Challenges dealine</li>
       <li>Oct 1, 2021 - Technical reports due</li>
       </ul>

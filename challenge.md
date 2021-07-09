@@ -15,7 +15,7 @@ We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** 
 1. [Image classification](https://competitions.codalab.org/competitions/33214);
 2. [Object detection](https://competitions.codalab.org/competitions/33222);
 3. [Instance segmentation](https://competitions.codalab.org/competitions/33340), in collaboration with [**Synergy Sports**](#synergy-sports);
-4. [Action recognition](https://competitions.codalab.org/competitions/33420);
+4. Action recognition _will be opened ASAP, due to technical difficulties_; <!-- https://competitions.codalab.org/competitions/33420 -->
 5. [Re-identification](https://competitions.codalab.org/competitions/33216), in collaboration with [**Synergy Sports**](#synergy-sports).
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
@@ -34,7 +34,8 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 ## Important dates
 
-- Challenges open: July 5, 2021;
+- ~~Challenges open: July 5, 2021~~;
+  - The action recognition challenge will open ASAP, as we ran into technical difficulties in preparing the challenge.
 - Challenges close: September 24, 2021;
 - Technical reports due: October 1, 2021;
 - Winners announced: October 8, 2021.
