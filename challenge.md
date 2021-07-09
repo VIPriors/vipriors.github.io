@@ -39,10 +39,6 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 - Technical reports due: October 1, 2021;
 - Winners announced: October 8, 2021.
 
-## Data
-
-*TBA*
-
 ## Rules
 
 - We prohibit the use of other data than the provided training data, i.e., **no pre-training**, no transfer learning.
