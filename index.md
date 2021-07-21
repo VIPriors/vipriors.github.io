@@ -16,7 +16,7 @@ feature_row:
     excerpt: |
       We invite researchers to submit their recent work on data-efficient computer vision.
       <ul>
-      <li>July 23, 2021 - Submission deadline</li>
+      <li>July 25, 2021 - Submission deadline</li>
       <li>Aug 7, 2021 - Author notifications</li>
       <li>Aug 14, 2021 - Camera ready deadline</li>
       </ul>
