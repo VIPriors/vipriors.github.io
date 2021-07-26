@@ -30,8 +30,8 @@ Accepted papers will be published in ICCV 2021 Workshop proceedings. Submissions
 
 **Timeline**
 
-- (ICCV paper notifications: July 22nd, 2021)
-- Submission deadline: ~~July 23rd~~ *July 25th*, 2021, 23:59 GMT
+- ~~(ICCV paper notifications: July 22nd, 2021)~~
+- ~~Submission deadline: July 25th, 2021, 23:59 GMT~~
 - Author notifications: August 7th, 2021
 - Camera-ready deadline: August 14th, 2021, 23:59 GMT
 

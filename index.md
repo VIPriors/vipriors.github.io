@@ -16,11 +16,10 @@ feature_row:
     excerpt: |
       We invite researchers to submit their recent work on data-efficient computer vision.
       <ul>
-      <li>July 25, 2021 - Submission deadline</li>
       <li>Aug 7, 2021 - Author notifications</li>
       <li>Aug 14, 2021 - Camera ready deadline</li>
       </ul>
-      All deadlines are 23:59 CEST.
+      All deadlines are 23:59 GMT.
 
     url: "call-for-papers"
     btn_label: "Call for Papers"
@@ -33,7 +32,7 @@ feature_row:
       <ul>
       <li>Aug 14, 2021 - Submission deadline</li>
       </ul>
-      All deadlines are 23:59 CEST.
+      All deadlines are 23:59 GMT.
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
@@ -45,7 +44,7 @@ feature_row:
       <li>Sep 24, 2021 - Challenges dealine</li>
       <li>Oct 1, 2021 - Technical reports due</li>
       </ul>
-      All deadlines are 23:59 CEST.
+      All deadlines are 23:59 GMT.
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
