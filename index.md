@@ -88,7 +88,7 @@ organizers_row:
   - image_path: /assets/images/MarcosBaptistaRios.jpg
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
-    excerpt: "University of Alcala"
+    excerpt: "Gradient"
 speakers_row:
   - image_path: /assets/images/AnimaAnandkumar.png
     alt: "Anima Anandkumar"
