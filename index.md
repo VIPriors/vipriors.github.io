@@ -6,7 +6,7 @@ header:
   # video:
   #   id: JuZliqT2yxg
   #   provider: youtube
-excerpt: "<span class='header-marking'>ICCV 2021</span><br/><span class='header-marking'>11 October 2021</span>"
+excerpt: "<span class='header-marking'>ICCV 2021</span><br/><span class='header-marking'>11 October 2021, afternoon</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning.'
 feature_row:
