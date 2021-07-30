@@ -17,7 +17,7 @@ feature_row:
       We invite researchers to submit their recent work on data-efficient computer vision.
       <ul>
       <li>Aug 7, 2021 - Author notifications</li>
-      <li>Aug 14, 2021 - Camera ready deadline</li>
+      <li>Aug 17, 2021 - Camera ready deadline</li>
       </ul>
       All deadlines are 23:59 GMT.
 

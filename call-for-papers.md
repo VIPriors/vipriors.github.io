@@ -33,7 +33,9 @@ Accepted papers will be published in ICCV 2021 Workshop proceedings. Submissions
 - ~~(ICCV paper notifications: July 22nd, 2021)~~
 - ~~Submission deadline: July 25th, 2021, 23:59 GMT~~
 - Author notifications: August 7th, 2021
-- Camera-ready deadline: August 14th, 2021, 23:59 GMT
+- Camera-ready deadline: ~~August 14th~~ August 17th, 2021, 23:59 GMT
+
+**Please note**: we will require authors of accepted papers to submit their paper on CMT as well. This is because we found out too late that ICCV requires us to use CMT instead of OpenReview because of proceedings copyright requirements. Please be prepared to submit your accepted paper (not the camera-ready version) to CMT ASAP after notification. You will then receive instructions on preparing the camera-ready version through CMT.
 
 ## Call for posters
 

@@ -49,9 +49,7 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 ## Report
 
-For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is September 24th, the same date as the workshop paper deadline. Authors are to submit their report to ArXiv and submit the link to vipriors-ewi AT tudelft DOT nl. Those unable to submit to Arxiv can email their report directly to vipriors-ewi AT tudelft DOT nl. Please use the same format as for the paper track. After the conference we will publish the links to the technical reports on the workshop website.
-
-Authors that are already submitting a paper about the submission to the workshop paper track are not required to submit a technical report. Instead, they are to use the same submission form to refer the challenge organizers to their submitted paper.
+For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is October 1st. Authors are to submit their report to ArXiv and submit the link to vipriors-ewi AT tudelft DOT nl. Those unable to submit to Arxiv can email their report directly to vipriors-ewi AT tudelft DOT nl. After the conference we will publish the links to the technical reports on the workshop website.
 
 ## Submission
 
