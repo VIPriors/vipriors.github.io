@@ -15,14 +15,12 @@ We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** 
 1. [Image classification](https://competitions.codalab.org/competitions/33214);
 2. [Object detection](https://competitions.codalab.org/competitions/33222);
 3. [Instance segmentation](https://competitions.codalab.org/competitions/33340), in collaboration with [**Synergy Sports**](#synergy-sports);
-4. Action recognition _will be opened ASAP, due to technical difficulties_; <!-- https://competitions.codalab.org/competitions/33420 -->
+4. [Action recognition](https://competitions.codalab.org/competitions/33420);
 5. [Re-identification](https://competitions.codalab.org/competitions/33216), in collaboration with [**Synergy Sports**](#synergy-sports).
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
 In addition to an award for the top submission by performance, this year will see the introduction of an additional jury-based prize for the most interesting submission.
-
-*Further details, such as the datasets for each task, will be announced soon.*
 
 ## Synergy Sports
 
@@ -35,7 +33,6 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 ## Important dates
 
 - ~~Challenges open: July 5, 2021~~;
-  - The action recognition challenge will open ASAP, as we ran into technical difficulties in preparing the challenge.
 - Challenges close: September 24, 2021;
 - Technical reports due: October 1, 2021;
 - Winners announced: October 8, 2021.
@@ -60,7 +57,7 @@ Please find the challenges here:
 - [Image classification](https://competitions.codalab.org/competitions/33214)
 - [Object detection](https://competitions.codalab.org/competitions/33222)
 - [Instance segmentation](https://competitions.codalab.org/competitions/33340)
-- [Action recognition](https://competitions.codalab.org/competitions/33343)
+- [Action recognition](https://competitions.codalab.org/competitions/33420)
 - [Re-identification](https://competitions.codalab.org/competitions/33216)
 
 ## Resources
@@ -72,8 +69,6 @@ To accommodate submissions to the challenges we provide a toolkit that contains
 - implementations of the baseline models for each challenge.
 
 See [the GitHub repository of the toolkit here](https://github.com/VIPriors/vipriors-challenges-toolkit).
-
-*The toolkit will be made available shortly.*
 
 ## Questions
 
