@@ -78,7 +78,7 @@ organizers_row:
     alt: "Robert-Jan Bruintjes"
     title: "Robert-Jan Bruintjes"
     excerpt: "Delft University of Technology"
-    url: "https://rjbruin.nl"
+    url: "https://rjbruin.github.io"
     btn_label: "Website"
     btn_class: "btn--default"
   - image_path: /assets/images/OsmanKayhan.png
