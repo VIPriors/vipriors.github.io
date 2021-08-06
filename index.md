@@ -14,9 +14,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Call for papers"
     excerpt: |
-      We invite researchers to submit their recent work on data-efficient computer vision.
+      We showcase recent work on data-efficient computer vision: [OpenReview site](https://openreview.net/group?id=thecvf.com/ICCV/2021/Workshop/VIPriors).
       <ul>
-      <li>Aug 7, 2021 - Author notifications</li>
+      <li>Aug 10, 2021 - CMT submission deadline</li>
       <li>Aug 17, 2021 - Camera ready deadline</li>
       </ul>
       All deadlines are 23:59 GMT.
