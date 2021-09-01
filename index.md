@@ -15,11 +15,6 @@ feature_row:
     title: "Call for papers"
     excerpt: |
       We showcase recent work on data-efficient computer vision: [OpenReview site](https://openreview.net/group?id=thecvf.com/ICCV/2021/Workshop/VIPriors).
-      <ul>
-      <li>Aug 10, 2021 - CMT submission deadline</li>
-      <li>Aug 17, 2021 - Camera ready deadline</li>
-      </ul>
-      All deadlines are 23:59 GMT.
 
     url: "call-for-papers"
     btn_label: "Call for Papers"
@@ -29,10 +24,6 @@ feature_row:
     title: "Present a poster"
     excerpt: |
       We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop. This may include works published at the main ICCV 2021 conference paper track.
-      <ul>
-      <li>Aug 14, 2021 - Submission deadline</li>
-      </ul>
-      All deadlines are 23:59 GMT.
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
@@ -88,7 +79,7 @@ organizers_row:
   - image_path: /assets/images/MarcosBaptistaRios.jpg
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
-    excerpt: "Gradient"
+    excerpt: "Gradiant"
 speakers_row:
   - image_path: /assets/images/AnimaAnandkumar.png
     alt: "Anima Anandkumar"
@@ -138,21 +129,15 @@ _This workshop is organized in collaboration with [**SynergySports**](https://sy
 
 ## Workshop program
 
-Our program will include several keynotes (TBA) as well as oral presentations of the top works submitted to the paper track.
-
-<!-- | Time (UTC+1) | | |
+| Time (CEST / UTC+2) | | |
 | -- | -- | -- |
-| 8:00 / 18:00  | Keynote session     | Panel discussion with [invited speakers](#invited-speakers) + Q&A                         |
-| 8:40 / 18:40   | *Break*        |                                                |
-| 8:45 / 18:45  | Oral session | [Oral presentations](#oral-session)                             |
-| 9:10 / 19:10 |              | Q&A                                            |
-| 9:25 / 19:25 | Challenges           | [Awards & winners presentations](challenges)               |
-| 9:35 / 19:35 | Poster session      | [Poster presentations](#poster-session)             |
-| 9:45 / 19:45 |              | Q&A (for posters & challenges)              |
-| 9:50 / 19:50 |              | [External poster presentations](#external-poster-session)                  |
-| 9:55 / 19:55 | *Closing*      |                          | -->
-
-*Date and times for the live session are TBA (pending ICCV instructions).*
+| 19:00 | **Opening** | Challenge winners will be announced. |
+| 19:15 | **Two invited talks + Q&A** | Order of speakers TBA. |
+| 20:30 | **Break** | |
+| 20:40 | **Oral presentations** | Three 10-minute presentations. |
+| 21:10 | **Poster session** | All accepted works will be presented on a Gather.Town-like platform (platform TBD). |
+| 22:00 | **Two invited talks + Q&A** | Order of speakers TBA. |
+| 23:15 (est.) | **Conclusion** | |
 
 ## Invited speakers
 

@@ -15,13 +15,14 @@ div.feature__wrapper:nth-child(2) .archive__item-body { text-align: left !import
 
 .page__content table {
     display: table !important;
-    text-align: center !important;
+    // text-align: center !important;
 }
 .page__content th {
     text-align: center !important;
 }
 .page__content table th:nth-child(1), .page__content table td:nth-child(1) {
     width: 20% !important;
+    text-align: center !important;
 }
 .page__content table th:nth-child(2), .page__content table td:nth-child(2) {
     width: 30% !important;
