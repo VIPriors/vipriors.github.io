@@ -20,11 +20,49 @@ We solicit submissions that in the broad sense focus on achieving data efficienc
 
 Please note that this list is not exhaustive! We strongly encourage novel approaches to data efficient methods using visual prior knowledge.
 
-### Accepted works
+## Accepted works
 
-**Decisions are out!** Please find the list of accepted works on [our OpenReview page](https://openreview.net/group?id=thecvf.com/ICCV/2021/Workshop/VIPriors).
+<!-- **Decisions are out!** Please find the list of accepted works on [our OpenReview page](https://openreview.net/group?id=thecvf.com/ICCV/2021/Workshop/VIPriors). -->
 
-### Submissions
+### Oral presentations
+
+**Tune It or Don’t Use It: Benchmarking Data-Efficient Image Classification**
+<br/>Lorenzo Brigato, Björn Barz, Luca Iocchi, Joachim Denzler
+
+**Relational Prior for Multi-Object Tracking**
+<br/>Artem Moskalev, Ivan Sosnovik, Arnold W.M. Smeulders
+
+**Predictive Coding with Topographic Variational Autoencoders**
+<br/>T. Anderson Keller, Max Welling
+
+### Poster presentations
+
+**Self-supervised Visual Attribute Learning for Fashion Compatibility**
+<br/>Donghyun Kim, Kuniaki Saito, Samarth Mishra, Stan Sclaroff, Kate Saenko, Bryan A. Plummer
+
+**Multimodal Continuous Visual Attention Mechanisms**
+<br/>António Farinhas, Andre Martins, Pedro M. Q. Aguiar
+
+**ScatSimCLR: self-supervised contrastive learning with pretext task regularization for small-scale datasets**
+<br/>Vitaliy Kinakh, Slava Voloshynovskiy, Olga Taran
+
+**LSD-C: Linearly Separable Deep Clusters**
+<br/>Sylvestre-Alvise Rebuffi, Sebastien Ehrhardt, Kai Han, Andrea Vedaldi, Andrew Zisserman
+
+**Deep Manifold Prior**
+<br/>Matheus Gadelha, Rui Wang, Subhransu Maji
+
+**How to Transform Kernels for Scale-Convolutions**
+<br/>Ivan Sosnovik, Artem Moskalev, Arnold W.M. Smeulders
+
+**Few-shot Learning with Online Self-Distillation**
+<br/>Yue Wang, Sihan Liu
+
+_Posters for works submitted to poster track are TBA._
+
+_All works presented orally will also be presented as a poster._
+
+## Submissions
 
 Submissions are sollicited through OpenReview. Reviewing will be double-blind. We do not have a discussion/rebuttal period. The top accepted papers will be invited to orally present their work during the workshop.
 
