@@ -20,16 +20,19 @@ div.feature__wrapper:nth-child(2) .archive__item-body { text-align: left !import
 .page__content th {
     text-align: center !important;
 }
-.page__content table th:nth-child(1), .page__content table td:nth-child(1) {
-    width: 20% !important;
+.page__content table th:nth-child(1), .page__content table td:nth-child(1),
+.page__content table th:nth-child(2), .page__content table td:nth-child(2),
+.page__content table th:nth-child(3), .page__content table td:nth-child(3),
+.page__content table th:nth-child(4), .page__content table td:nth-child(4) {
+    width: 70px !important;
     text-align: center !important;
 }
-.page__content table th:nth-child(2), .page__content table td:nth-child(2) {
-    width: 30% !important;
+.page__content table th:nth-child(5), .page__content table td:nth-child(5) {
+    width: 30%;
 }
-.page__content table th:nth-child(3), .page__content table td:nth-child(3) {
-    width: 50% !important;
-}
+// .page__content table th:nth-child(6), .page__content table td:nth-child(6) {
+//     width: 40%;
+// }
 
 @media (min-width: 80em) {
     body.semiwide .page {

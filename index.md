@@ -129,19 +129,19 @@ _This workshop is organized in collaboration with [**SynergySports**](https://sy
 
 ## Workshop program
 
-| Time (CEST / UTC+2) | | |
-| -- | -- | -- |
-| 19:00 | **Opening** | Challenge winners will be announced. |
-| 19:15 | **Invited talk: Chelsea Finn** |  |
-| 19:45 | **Invited talk: Max Welling** |  |
-| 20:15 | **Invited talks Q&A** |  |
-| 20:30 | **Break** | |
-| 20:40 | **Oral presentations** | Three 10-minute presentations. |
-| 21:10 | **Poster session** | All accepted works will be presented on a Gather.Town-like platform (platform TBD). |
-| 22:00 | **Invited talk: Anima Anandkumar** |  |
-| 22:30 | **Invited talk: Ekin Dogus Cubuk** |  |
-| 23:00 | **Invited talks Q&A** |  |
-| 23:15 (est.) | **Conclusion** | |
+| EDT (UTC-4) | UTC | CEST (UTC+2) | CST (UTC+8) | | |
+| --    | --    | --    | --   | -- |
+| 13:00 | 17:00 | 19:00 | 01:00 | **Opening** | Challenge winners will be announced. |
+| 13:15 | 17:15 | 19:15 | 01:15 | **Invited talk: Chelsea Finn** |  |
+| 13:45 | 17:45 | 19:45 | 01:45 | **Invited talk: Max Welling** |  |
+| 14:15 | 18:15 | 20:15 | 02:15 | **Invited talks Q&A** |  |
+| 14:30 | 18:30 | 20:30 | 02:30 | **Break** | |
+| 14:40 | 18:40 | 20:40 | 02:40 | **Oral presentations** | Three 10-minute presentations. |
+| 15:10 | 19:10 | 21:10 | 03:10 | **Poster session** | All accepted works will be presented on a Gather.Town-like platform (platform TBD). |
+| 16:00 | 20:00 | 22:00 | 04:00 | **Invited talk: Anima Anandkumar** |  |
+| 16:30 | 20:30 | 22:30 | 04:30 | **Invited talk: Ekin Dogus Cubuk** |  |
+| 17:00 | 21:00 | 23:00 | 05:00 | **Invited talks Q&A** |  |
+| 17:15 | 21:15 | 23:15 | 05:15 (est.) | **Conclusion** | |
 
 ## Invited speakers
 
