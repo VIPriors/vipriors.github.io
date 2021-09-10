@@ -132,11 +132,15 @@ _This workshop is organized in collaboration with [**SynergySports**](https://sy
 | Time (CEST / UTC+2) | | |
 | -- | -- | -- |
 | 19:00 | **Opening** | Challenge winners will be announced. |
-| 19:15 | **Two invited talks + Q&A** | Order of speakers TBA. |
+| 19:15 | **Invited talk: Chelsea Finn** |  |
+| 19:45 | **Invited talk: Max Welling** |  |
+| 20:15 | **Invited talks Q&A** |  |
 | 20:30 | **Break** | |
 | 20:40 | **Oral presentations** | Three 10-minute presentations. |
 | 21:10 | **Poster session** | All accepted works will be presented on a Gather.Town-like platform (platform TBD). |
-| 22:00 | **Two invited talks + Q&A** | Order of speakers TBA. |
+| 22:00 | **Invited talk: Anima Anandkumar** |  |
+| 22:30 | **Invited talk: Ekin Dogus Cubuk** |  |
+| 23:00 | **Invited talks Q&A** |  |
 | 23:15 (est.) | **Conclusion** | |
 
 ## Invited speakers
