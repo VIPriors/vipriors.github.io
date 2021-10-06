@@ -66,7 +66,7 @@ _All works presented orally will also be presented as a poster._
 <br/>Maliha Arif, Calvin Yong, Abhijit Mahalanobis
 
 **Data augmentation in Bayesian neural networks and the cold posterior effect**
-<br/>Seth Nabarro, Stoil Ganev, Adrià Garriga-Alonso, Vincent Fortuin, Mark van der Wilk, Laurence Aitchison†
+<br/>Seth Nabarro, Stoil Ganev, Adrià Garriga-Alonso, Vincent Fortuin, Mark van der Wilk, Laurence Aitchison
 
 ## Submissions
 
