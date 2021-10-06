@@ -35,6 +35,8 @@ Please note that this list is not exhaustive! We strongly encourage novel approa
 **Predictive Coding with Topographic Variational Autoencoders**
 <br/>T. Anderson Keller, Max Welling
 
+_All works presented orally will also be presented as a poster._
+
 ### Poster presentations
 
 **Self-supervised Visual Attribute Learning for Fashion Compatibility**
@@ -58,9 +60,13 @@ Please note that this list is not exhaustive! We strongly encourage novel approa
 **Few-shot Learning with Online Self-Distillation**
 <br/>Yue Wang, Sihan Liu
 
-_Posters for works submitted to poster track are TBA._
+### External poster track
 
-_All works presented orally will also be presented as a poster._
+**Background Invariant Classification by Reducing Texture Bias in CNNs**
+<br/>Maliha Arif, Calvin Yong, Abhijit Mahalanobis
+
+**Data augmentation in Bayesian neural networks and the cold posterior effect**
+<br/>Seth Nabarro, Stoil Ganev, Adrià Garriga-Alonso, Vincent Fortuin, Mark van der Wilk, Laurence Aitchison†
 
 ## Submissions
 
