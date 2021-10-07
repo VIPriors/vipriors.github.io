@@ -22,6 +22,8 @@ These tasks were chosen to encourage researchers of arbitrary background to part
 
 In addition to an award for the top submission by performance, this year will see the introduction of an additional jury-based prize for the most interesting submission.
 
+_Please note that the deadline for competing has passed. We will announce the winners of the challenges as well as the jury prizes on October 8th._
+
 ## Synergy Sports
 
 [<img src='/assets/images/SynergySportsLogo.png' style='display: block; float: right; width: 30%; min-width: 150px;' />](https://synergysports.com/)
@@ -33,8 +35,8 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 ## Important dates
 
 - ~~Challenges open: July 5, 2021~~;
-- Challenges close: September 24, 2021;
-- Technical reports due: October 1, 2021;
+- ~~Challenges close: September 24, 2021;~~
+- ~~Technical reports due: October 1, 2021;~~
 - Winners announced: October 8, 2021.
 
 ## Rules
