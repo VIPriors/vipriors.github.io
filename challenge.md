@@ -34,7 +34,7 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 ## Final results
 
-The final results of the challenge are listed below. Only challenge entries accompanied by a technical report qualified for the final rankings. In response to concerns raised about the extension of the submission deadline, we have decided to merge the leaderboards at the time of the original deadline and at the time of the extended deadline. All first through third placed competitors, as well as the winners of the jury prize, will receive a digital signed certificate.
+The final results of the challenge are listed below. Only challenge entries accompanied by a technical report qualified for the final rankings. In response to concerns raised about the extension of the submission deadline, we have decided to merge the leaderboards at the time of the original deadline and at the time of the extended deadline. This means that all competitors will place at the rank that is highest between the two deadlines, and there are shared ranks. All first through third placed competitors, as well as the winners of the jury prize, will receive a digital signed certificate.
 
 ### Image classification
 

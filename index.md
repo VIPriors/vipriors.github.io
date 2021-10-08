@@ -31,9 +31,8 @@ feature_row:
     title: "VIPriors challenges"
     excerpt: |
       Participate in our data efficieny challenges on action recognition, classification, detection, segmentation and object tracking.
-      <ul>
-      <li>Oct 8, 2021 - Final leaderboards announced</li>
-      </ul>
+
+      Final rankings are now available.
     url: "challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
