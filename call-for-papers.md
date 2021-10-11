@@ -26,46 +26,46 @@ Please note that this list is not exhaustive! We strongly encourage novel approa
 
 ### Oral presentations
 
-**Tune It or Don’t Use It: Benchmarking Data-Efficient Image Classification**
+**5. Tune It or Don’t Use It: Benchmarking Data-Efficient Image Classification** [[Poster]](assets/downloads/posters/5_TuneItorDontUseItPoster.pdf)
 <br/>Lorenzo Brigato, Björn Barz, Luca Iocchi, Joachim Denzler
 
-**Relational Prior for Multi-Object Tracking**
+**6. Relational Prior for Multi-Object Tracking** [[Poster]](assets/downloads/posters/6_relational_prior_poster.pdf)
 <br/>Artem Moskalev, Ivan Sosnovik, Arnold W.M. Smeulders
 
-**Predictive Coding with Topographic Variational Autoencoders**
+**7. Predictive Coding with Topographic Variational Autoencoders** [[Poster]](assets/downloads/posters/7_PCTVAE_Poster.pdf)
 <br/>T. Anderson Keller, Max Welling
 
 _All works presented orally will also be presented as a poster._
 
 ### Poster presentations
 
-**Self-supervised Visual Attribute Learning for Fashion Compatibility**
-<br/>Donghyun Kim, Kuniaki Saito, Samarth Mishra, Stan Sclaroff, Kate Saenko, Bryan A. Plummer
-
-**Multimodal Continuous Visual Attention Mechanisms**
-<br/>António Farinhas, Andre Martins, Pedro M. Q. Aguiar
-
-**ScatSimCLR: self-supervised contrastive learning with pretext task regularization for small-scale datasets**
-<br/>Vitaliy Kinakh, Slava Voloshynovskiy, Olga Taran
-
-**LSD-C: Linearly Separable Deep Clusters**
+**1. LSD-C: Linearly Separable Deep Clusters** [[Poster]](assets/downloads/posters/1_Poster_LSDC.pdf)
 <br/>Sylvestre-Alvise Rebuffi, Sebastien Ehrhardt, Kai Han, Andrea Vedaldi, Andrew Zisserman
 
-**Deep Manifold Prior**
-<br/>Matheus Gadelha, Rui Wang, Subhransu Maji
+**2. Multimodal Continuous Visual Attention Mechanisms** [[Poster]](assets/downloads/posters/2_VIPriors2021_Poster.pdf)
+<br/>António Farinhas, Andre Martins, Pedro M. Q. Aguiar
 
-**How to Transform Kernels for Scale-Convolutions**
+**3. Self-supervised Visual Attribute Learning for Fashion Compatibility** [[Poster]](assets/downloads/posters/3_self_sup_fashion_iccv21.pdf)
+<br/>Donghyun Kim, Kuniaki Saito, Samarth Mishra, Stan Sclaroff, Kate Saenko, Bryan A. Plummer
+
+**4. Few-shot Learning with Online Self-Distillation** [[Poster]](assets/downloads/posters/4_online-distill.pdf)
+<br/>Yue Wang, Sihan Liu
+
+**8. How to Transform Kernels for Scale-Convolutions** [[Poster]](assets/downloads/posters/8_hot_to_transform_kernels_poster.pdf)
 <br/>Ivan Sosnovik, Artem Moskalev, Arnold W.M. Smeulders
 
-**Few-shot Learning with Online Self-Distillation**
-<br/>Yue Wang, Sihan Liu
+**9. ScatSimCLR: self-supervised contrastive learning with pretext task regularization for small-scale datasets** [[Poster]](assets/downloads/posters/9_ScatSimCLR_poster.pdf)
+<br/>Vitaliy Kinakh, Slava Voloshynovskiy, Olga Taran
+
+**10. Deep Manifold Prior** [[Poster]](assets/downloads/posters/10_DMP_Poster.pdf)
+<br/>Matheus Gadelha, Rui Wang, Subhransu Maji
 
 ### External poster track
 
-**Background Invariant Classification by Reducing Texture Bias in CNNs**
+**11. Background Invariant Classification by Reducing Texture Bias in CNNs** [[Poster]](assets/downloads/posters/E1_ICCV_final-version_Poster_MA.pdf)
 <br/>Maliha Arif, Calvin Yong, Abhijit Mahalanobis
 
-**Data augmentation in Bayesian neural networks and the cold posterior effect**
+**12. Data augmentation in Bayesian neural networks and the cold posterior effect** [[Poster]](assets/downloads/posters/E2_bayes_aug_poster_20211004.pdf)
 <br/>Seth Nabarro, Stoil Ganev, Adrià Garriga-Alonso, Vincent Fortuin, Mark van der Wilk, Laurence Aitchison
 
 ## Submissions
