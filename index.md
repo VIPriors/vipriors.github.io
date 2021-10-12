@@ -10,7 +10,7 @@ excerpt: "<span class='header-marking'>ICCV 2021</span><br/><span class='header-
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning.'
 feature_row:
-  - image_path: /assets/images/callforpapers.png
+  - image_path: assets/images/callforpapers.png
     alt: "placeholder image 2"
     title: "Call for papers"
     excerpt: |
@@ -19,7 +19,7 @@ feature_row:
     url: "call-for-papers"
     btn_label: "Call for Papers"
     btn_class: "btn--primary"
-  - image_path: /assets/images/poster.png
+  - image_path: assets/images/poster.png
     alt: "placeholder image 2"
     title: "Present a poster"
     excerpt: |
@@ -27,7 +27,7 @@ feature_row:
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
-  - image_path: /assets/images/challenge.png
+  - image_path: assets/images/challenge.png
     title: "VIPriors challenges"
     excerpt: |
       We host five data efficieny challenges on action recognition, classification, detection, segmentation and object tracking.
@@ -35,43 +35,43 @@ feature_row:
     btn_label: "Final rankings"
     btn_class: "btn--primary"
 organizers_row:
-  - image_path: /assets/images/JanVanGemert.jpg
+  - image_path: assets/images/JanVanGemert.jpg
     alt: "Jan van Gemert"
     title: "Jan van Gemert"
     excerpt: "Delft University of Technology"
     url: "https://jvgemert.github.io/"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/MatthiasBethge.jpg
+  - image_path: assets/images/MatthiasBethge.jpg
     alt: "Matthias Bethge"
     title: "Matthias Bethge"
     excerpt: "Bethge Lab"
     url: "http://bethgelab.org/people/matthias/"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/NergisTomen.jpg
+  - image_path: assets/images/NergisTomen.jpg
     alt: "Nergis Tömen"
     title: "Nergis Tömen"
     excerpt: "Delft University of Technology"
-  - image_path: /assets/images/AttilaLengyel.jpg
+  - image_path: assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
     excerpt: "Delft University of Technology"
     url: "https://attila94.github.io"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/Robert-JanBruintjes.jpg
+  - image_path: assets/images/Robert-JanBruintjes.jpg
     alt: "Robert-Jan Bruintjes"
     title: "Robert-Jan Bruintjes"
     excerpt: "Delft University of Technology"
     url: "https://rjbruin.github.io"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/OsmanKayhan.png
+  - image_path: assets/images/OsmanKayhan.png
     alt: "Osman Semih Kayhan"
     title: "Osman Semih Kayhan"
     excerpt: "Bosch Security Systems B.V."
-  - image_path: /assets/images/MarcosBaptistaRios.jpg
+  - image_path: assets/images/MarcosBaptistaRios.jpg
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
     excerpt: "Gradiant"
@@ -128,7 +128,7 @@ Excellent recent research investigates data efficiency in deep networks by explo
 
 The great power of deep neural networks is their incredible flexibility to learn. The direct consequence of such power, is that small datasets can simply be memorized and the network will likely not generalize to unseen data. Regularization aims to prevent such over-fitting by adding constraints to the learning process. Much work is done on regularization of internal network properties and architectures. In this workshop we focus on regularization methods based on innate priors. There is strong evidence that an innate prior benefits deep nets: adding convolution to deep networks yields a convolutional deep neural network (CNN) which is hugely successful and has permeated the entire field. While convolution was initially applied on images, it is now generalized to graph networks, speech, language,  3D data, video, etc. Convolution models translation invariance in images: an object may occur anywhere in the image, and thus instead of learning parameters at each location in the image, convolution allows to only consider local relations, yet, share parameters over all image locations. This allows a strong reduction in both number of parameters and examples to learn from. This workshop aims to further the great success of convolution, exploiting innate regularizing structures yielding a significant reduction of training data.
 
-_This workshop is organized in collaboration with [**SynergySports**](https://synergysports.com/). SynergySports is co-organizing [the VIPriors 2021 challenges](/challenges). Head over to the challenges page to find out more!_
+_This workshop is organized in collaboration with [**SynergySports**](https://synergysports.com/). SynergySports is co-organizing [the VIPriors 2021 challenges](challenges). Head over to the challenges page to find out more!_
 
 ## Workshop program
 
@@ -140,7 +140,7 @@ _This workshop is organized in collaboration with [**SynergySports**](https://sy
 | 14:15 | 18:15 | 20:15 | 02:15 | **Invited talks Q&A** |  |
 | 14:30 | 18:30 | 20:30 | 02:30 | **Break** | |
 | 14:40 | 18:40 | 20:40 | 02:40 | **Oral presentations** | Three 10-minute presentations. |
-| 15:10 | 19:10 | 21:10 | 03:10 | **Poster session** | [Posters](/call-for-papers/#accepted-works), live discussion on Gatherly. |
+| 15:10 | 19:10 | 21:10 | 03:10 | **Poster session** | [Posters](call-for-papers/#accepted-works), live discussion on Gatherly. |
 | 16:00 | 20:00 | 22:00 | 04:00 | **Invited talk: Anima Anandkumar** |  |
 | 16:30 | 20:30 | 22:30 | 04:30 | **Invited talk: Ekin Dogus Cubuk** |  |
 | 17:00 | 21:00 | 23:00 | 05:00 | **Invited talks Q&A** |  |
