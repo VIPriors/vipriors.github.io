@@ -141,7 +141,7 @@ _This workshop is organized in collaboration with [**SynergySports**](https://sy
 | 14:30 | 18:30 | 20:30 | 02:30 | **Break** | |
 | 14:40 | 18:40 | 20:40 | 02:40 | **Oral presentations** | Three 10-minute presentations. |
 | 15:10 | 19:10 | 21:10 | 03:10 | **Poster session** | [Posters](call-for-papers/#accepted-works), live discussion on Gatherly. |
-| 16:00 | 20:00 | 22:00 | 04:00 | **Invited talk: Anima Anandkumar** |  |
+| 16:00 | 20:00 | 22:00 | 04:00 | **Invited talk: Anima Anandkumar** | [Slides are available here.](https://drive.google.com/file/d/1AXt08s4FjkgElpon6RP0s41BuqCZi91k/view?usp=sharing)  |
 | 16:30 | 20:30 | 22:30 | 04:30 | **Invited talk: Ekin Dogus Cubuk** |  |
 | 17:00 | 21:00 | 23:00 | 05:00 | **Invited talks Q&A** |  |
 | 17:15 | 21:15 | 23:15 | 05:15 (est.) | **Conclusion** | |
