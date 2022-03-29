@@ -1,17 +1,17 @@
 main:
-  - title: "Watch"
-    url: /#watch-the-recording
   - title: "About"
     url: /#about-the-workshop
-  - title: "Accepted Works"
+  - title: "Speakers"
+    url: /#speakers
+  - title: "Organizers"
+    url: /#organizers
+  - title: "Call for Papers"
     url: /call-for-papers
   # - title: "Program"
   #   url: /#workshop-program
-  # - title: "Call for papers"
-  #   url: /call-for-papers
   - title: "Challenges"
     url: /challenges
   # - title: "Invited speakers"
   #   url: /#invited-speakers
-  - title: "2020 Edition"
-    url: /2020
+  - title: "Previous editions"
+    url: /editions

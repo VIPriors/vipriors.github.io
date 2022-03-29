@@ -1,12 +1,9 @@
 ---
-title: "<span class='header-marking'>2nd Visual Inductive Priors for Data-Efficient Deep Learning Workshop</span>"
+title: "<span class='header-marking'>3rd Visual Inductive Priors for Data-Efficient Deep Learning Workshop</span>"
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
-  # video:
-  #   id: JuZliqT2yxg
-  #   provider: youtube
-excerpt: "<span class='header-marking'>ICCV 2021</span><br/><span class='header-marking'>11 October 2021, afternoon</span>"
+excerpt: "<span class='header-marking'>ECCV 2022</span><!--<br/><span class='header-marking'>11 October 2021, afternoon</span>-->"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning.'
 feature_row:
@@ -14,7 +11,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Call for papers"
     excerpt: |
-      We showcase recent work on data-efficient computer vision: [OpenReview site](https://openreview.net/group?id=thecvf.com/ICCV/2021/Workshop/VIPriors).
+      We showcase recent work on data-efficient computer vision.
 
     url: "call-for-papers"
     btn_label: "Call for Papers"
@@ -23,7 +20,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Present a poster"
     excerpt: |
-      We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop. This may include works published at the main ICCV 2021 conference paper track.
+      We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop. This may include works published at the main ECCV 2022 conference paper track.
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
@@ -32,7 +29,7 @@ feature_row:
     excerpt: |
       We host five data efficieny challenges on action recognition, classification, detection, segmentation and object tracking.
     url: "challenges"
-    btn_label: "Final rankings"
+    btn_label: "More information"
     btn_class: "btn--primary"
 organizers_row:
   - image_path: assets/images/JanVanGemert.jpg
@@ -42,11 +39,11 @@ organizers_row:
     url: "https://jvgemert.github.io/"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: assets/images/MatthiasBethge.jpg
-    alt: "Matthias Bethge"
-    title: "Matthias Bethge"
-    excerpt: "Bethge Lab"
-    url: "http://bethgelab.org/people/matthias/"
+  - image_path: /assets/images/EkinCubuk.jpg
+    alt: "Ekin Dogus Cubuk"
+    title: "Ekin Dogus Cubuk"
+    excerpt: "Google Research"
+    url: "https://research.google/people/EkinDogusCubuk/"
     btn_label: "Website"
     btn_class: "btn--default"
   - image_path: assets/images/NergisTomen.jpg
@@ -74,51 +71,36 @@ organizers_row:
   - image_path: assets/images/MarcosBaptistaRios.jpg
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
-    excerpt: "Gradiant"
-speakers_row:
-  - image_path: /assets/images/AnimaAnandkumar.png
-    alt: "Anima Anandkumar"
-    title: "Anima Anandkumar"
-    excerpt: "Caltech, NVIDIA"
-    url: "http://tensorlab.cms.caltech.edu/users/anima/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/EkinCubuk.jpg
-    alt: "Ekin Dogus Cubuk"
-    title: "Ekin Dogus Cubuk"
-    excerpt: "Google Research"
-    url: "https://research.google/people/EkinDogusCubuk/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/ChelseaFinn.jpg
-    alt: "Chelsea Finn"
-    title: "Chelsea Finn"
-    excerpt: "Stanford University"
-    url: "https://ai.stanford.edu/~cbfinn/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/MaxWelling.jpg
-    alt: "Max Welling"
-    title: "Max Welling"
-    excerpt: "University of Amsterdam, Qualcomm"
-    url: "https://staff.fnwi.uva.nl/m.welling/"
-    btn_label: "Website"
-    btn_class: "btn--default"
+    excerpt: "Alice Biometrics S.L."
+# speakers_row:
+#   - image_path: /assets/images/AnimaAnandkumar.png
+#     alt: "Anima Anandkumar"
+#     title: "Anima Anandkumar"
+#     excerpt: "Caltech, NVIDIA"
+#     url: "http://tensorlab.cms.caltech.edu/users/anima/"
+#     btn_label: "Website"
+#     btn_class: "btn--default"
+#   - image_path: /assets/images/ChelseaFinn.jpg
+#     alt: "Chelsea Finn"
+#     title: "Chelsea Finn"
+#     excerpt: "Stanford University"
+#     url: "https://ai.stanford.edu/~cbfinn/"
+#     btn_label: "Website"
+#     btn_class: "btn--default"
+#   - image_path: /assets/images/MaxWelling.jpg
+#     alt: "Max Welling"
+#     title: "Max Welling"
+#     excerpt: "University of Amsterdam, Qualcomm"
+#     url: "https://staff.fnwi.uva.nl/m.welling/"
+#     btn_label: "Website"
+#     btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-## Watch the recording
-
-{% include video id="KBNjPtcVKz0" provider="youtube" %}
-
 {% include twitter_sidebar %}
-
-## Thanks to all for attending
-
-We enjoyed a very exciting workshop at ICCV 2021. We thank all presenters for their efforts and all participants for their attention. This website will keep a record of all presented materials. We hope to see you all next year (venue TBD) for the next workshop!
 
 ## About the workshop
 
@@ -128,27 +110,13 @@ Excellent recent research investigates data efficiency in deep networks by explo
 
 The great power of deep neural networks is their incredible flexibility to learn. The direct consequence of such power, is that small datasets can simply be memorized and the network will likely not generalize to unseen data. Regularization aims to prevent such over-fitting by adding constraints to the learning process. Much work is done on regularization of internal network properties and architectures. In this workshop we focus on regularization methods based on innate priors. There is strong evidence that an innate prior benefits deep nets: adding convolution to deep networks yields a convolutional deep neural network (CNN) which is hugely successful and has permeated the entire field. While convolution was initially applied on images, it is now generalized to graph networks, speech, language,  3D data, video, etc. Convolution models translation invariance in images: an object may occur anywhere in the image, and thus instead of learning parameters at each location in the image, convolution allows to only consider local relations, yet, share parameters over all image locations. This allows a strong reduction in both number of parameters and examples to learn from. This workshop aims to further the great success of convolution, exploiting innate regularizing structures yielding a significant reduction of training data.
 
-_This workshop is organized in collaboration with [**SynergySports**](https://synergysports.com/). SynergySports is co-organizing [the VIPriors 2021 challenges](challenges). Head over to the challenges page to find out more!_
-
-## Workshop program
-
-| EDT (UTC-4) | UTC | CEST (UTC+2) | CST (UTC+8) | | |
-| --    | --    | --    | --   | -- |
-| 13:00 | 17:00 | 19:00 | 01:00 | **Opening** | Challenge winners will be announced. |
-| 13:15 | 17:15 | 19:15 | 01:15 | **Invited talk: Chelsea Finn** |  |
-| 13:45 | 17:45 | 19:45 | 01:45 | **Invited talk: Max Welling** |  |
-| 14:15 | 18:15 | 20:15 | 02:15 | **Invited talks Q&A** |  |
-| 14:30 | 18:30 | 20:30 | 02:30 | **Break** | |
-| 14:40 | 18:40 | 20:40 | 02:40 | **Oral presentations** | Three 10-minute presentations. |
-| 15:10 | 19:10 | 21:10 | 03:10 | **Poster session** | [Posters](call-for-papers/#accepted-works), live discussion on Gatherly. |
-| 16:00 | 20:00 | 22:00 | 04:00 | **Invited talk: Anima Anandkumar** | [Slides are available here.](https://drive.google.com/file/d/1AXt08s4FjkgElpon6RP0s41BuqCZi91k/view?usp=sharing)  |
-| 16:30 | 20:30 | 22:30 | 04:30 | **Invited talk: Ekin Dogus Cubuk** |  |
-| 17:00 | 21:00 | 23:00 | 05:00 | **Invited talks Q&A** |  |
-| 17:15 | 21:15 | 23:15 | 05:15 (est.) | **Conclusion** | |
+<!-- _This workshop is organized in collaboration with [**SynergySports**](https://synergysports.com/). SynergySports is co-organizing [the VIPriors 2021 challenges](challenges). Head over to the challenges page to find out more!_ -->
 
 ## Invited speakers
 
-{% include feature_row id="speakers_row" %}
+_Speakers are TBA._
+
+<!-- {% include feature_row id="speakers_row" %} -->
 
 ## Organizers
 
