@@ -10,29 +10,25 @@ toc: false
 
 <!-- <img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' /> -->
 
-_Challenge information is TBA._
+We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
 
-<!-- We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer five challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
-
-1. [Image classification](https://competitions.codalab.org/competitions/33214);
-2. [Object detection](https://competitions.codalab.org/competitions/33222);
-3. [Instance segmentation](https://competitions.codalab.org/competitions/33340), in collaboration with [**Synergy Sports**](#synergy-sports);
-4. [Action recognition](https://competitions.codalab.org/competitions/33420);
-5. [Re-identification](https://competitions.codalab.org/competitions/33216), in collaboration with [**Synergy Sports**](#synergy-sports).
+1. Image classification;
+2. Object detection;
+3. Instance segmentation, in collaboration with [**Synergy Sports**](#synergy-sports);
+4. Action recognition.
+<!-- 5. [Re-identification](https://competitions.codalab.org/competitions/33216), in collaboration with [**Synergy Sports**](#synergy-sports). -->
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
 In addition to an award for the top submission by performance, this year will see the introduction of an additional jury-based prize for the most interesting submission.
 
-_Please note that the deadline for competing has passed. We will announce the winners of the challenges as well as the jury prizes on October 8th._ -->
-
-<!-- ## Synergy Sports
+## Synergy Sports
 
 [<img src='/assets/images/SynergySportsLogo.png' style='display: block; float: right; width: 30%; min-width: 150px;' />](https://synergysports.com/)
 
-This challenge is co-organized by **Synergy Sports**. The instance segmentation and re-identification tasks are powered by their data, and they are lending their support in organizing the challenges.
+This challenge is co-organized by **Synergy Sports**. The instance segmentation task is powered by their data, and they are lending their support in organizing the challenges.
 
-Synergy Sports is changing how sport is organised, played, coached, commercialized, and experienced around the world. We help federations, leagues, clubs, coaches, referees, and players increase their performance on and off the field. Synergy Sports operates in 41 countries. In the US, Synergy serves every single NBA, G League, WNBA, and NCAA Division I basketball team, as well as every MLB team and over 270 NCAA Division I baseball teams. Visit [their website](https://synergysports.com/) for more information. -->
+Synergy Sports is changing how sport is organised, played, coached, commercialized, and experienced around the world. We help federations, leagues, clubs, coaches, referees, and players increase their performance on and off the field. Synergy Sports operates in 41 countries. In the US, Synergy serves every single NBA, G League, WNBA, and NCAA Division I basketball team, as well as every MLB team and over 270 NCAA Division I baseball teams. Visit [their website](https://synergysports.com/) for more information.
 
 ## Important dates
 
@@ -56,15 +52,16 @@ For the submission on CodaLab to qualify for the competition, we require the aut
 
 ## Submission
 
-Each of the five challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
+Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
+
+_The CodaLab competitions will be launched when challenges open (date TBA)._
 
 <!-- Please find the challenges here:
 
 - [Image classification](https://competitions.codalab.org/competitions/33214)
 - [Object detection](https://competitions.codalab.org/competitions/33222)
 - [Instance segmentation](https://competitions.codalab.org/competitions/33340)
-- [Action recognition](https://competitions.codalab.org/competitions/33420)
-- [Re-identification](https://competitions.codalab.org/competitions/33216) -->
+- [Action recognition](https://competitions.codalab.org/competitions/33420) -->
 
 ## Resources
 

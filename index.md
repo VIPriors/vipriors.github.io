@@ -20,14 +20,14 @@ feature_row:
     alt: "placeholder image 2"
     title: "Present a poster"
     excerpt: |
-      We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop. This may include works published at the main ECCV 2022 conference paper track.
+      We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop.
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
   - image_path: assets/images/challenge.png
     title: "VIPriors challenges"
     excerpt: |
-      We host five data efficieny challenges on action recognition, classification, detection, segmentation and object tracking.
+      We host four data efficieny challenges on action recognition, classification, detection and segmentation.
     url: "challenges"
     btn_label: "More information"
     btn_class: "btn--primary"
