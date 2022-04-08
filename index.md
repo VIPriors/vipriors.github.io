@@ -11,8 +11,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "Call for papers"
     excerpt: |
-      We showcase recent work on data-efficient computer vision.
+      We showcase original works on data-efficient computer vision through live oral talks and a poster session.
 
+      **Submission deadline**: July 3rd, after ECCV notifications.
     url: "call-for-papers"
     btn_label: "Call for Papers"
     btn_class: "btn--primary"
@@ -21,6 +22,8 @@ feature_row:
     title: "Present a poster"
     excerpt: |
       We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop.
+
+      **Submission deadline**: August 22nd.
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
@@ -28,6 +31,8 @@ feature_row:
     title: "VIPriors challenges"
     excerpt: |
       We host four data efficieny challenges on action recognition, classification, detection and segmentation.
+
+      **Challenges open**: June 1st.
     url: "challenges"
     btn_label: "More information"
     btn_class: "btn--primary"
@@ -36,9 +41,6 @@ organizers_row:
     alt: "Jan van Gemert"
     title: "Jan van Gemert"
     excerpt: "Delft University of Technology"
-    url: "https://jvgemert.github.io/"
-    btn_label: "Website"
-    btn_class: "btn--default"
   - image_path: /assets/images/EkinCubuk.jpg
     alt: "Ekin Dogus Cubuk"
     title: "Ekin Dogus Cubuk"

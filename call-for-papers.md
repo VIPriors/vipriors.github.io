@@ -26,18 +26,20 @@ Submissions are sollicited through OpenReview. Reviewing will be double-blind. W
 
 Accepted papers will be published in ECCV 2022 Workshop proceedings. Submissions must follow [the ECCV 2022 submission format](https://eccv2022.ecva.net/submission/). Optional supplementary material can be submitted through OpenReview (single .zip file, maximum of 50MB). The deadline for supplementary material is the same as the paper submission deadline.
 
-<!-- <a class='btn btn--primary btn--large' style='background-color: #00a8d6;' href='https://openreview.net/group?id=thecvf.com/ICCV/2021/Workshop/VIPriors'>Submit your work</a> -->
+<a class='btn btn--disabled btn--large' disabled href='#'>~~Submit your work~~ OpenReview TBA</a>
+
+<!-- <a class='btn btn--light btn--large btn--disabled' disabled style='background-color: #00a8d6;' href='#'>Submit your work</a> -->
 
 **Timeline**
 
-_Timeline is TBA. See last year's timeline for an indication on this year's timeline._
+- (ECCV paper notifications: July 3rd, 2022)
+- Submission deadline: July 3rd, 2022, 23:59 GMT
+  - _After ECCV paper notifications. Exact time may be delayed. See details below._
+- Author notifications: July 10th, 2022
+- Camera-ready deadline: July 17th, 2022, 23:59 GMT
 
-- ~~(ICCV paper notifications: July 22nd, 2021)~~
-- ~~Submission deadline: July 25th, 2021, 23:59 GMT~~
-- ~~Author notifications: August 7th, 2021~~
-- ~~CMT submission deadline: August 10th, 2021, 23:59 GMT~~
-- ~~Camera-ready deadline: August 17th, 2021, 23:59 GMT~~
+Please note that this year's timeline is quite tight. This is due to workshops being required to match the camera-ready deadline of the ECCV conference, while we would still like to offer the opportunity for rejected ECCV submissions to be submitted to our workshop. As such, we will ensure that our submission deadline will be after the ECCV decisions are out. We will communicate any changes to the deadlines on this website and through [our Twitter account](https://twitter.com/VIPriorsECCV).
 
 ## Call for posters
 
-Authors of recent and relevant works (including works accepted at the main ECCV 2022 conference paper track) are invited to present a **poster** of their work at our workshop. Please apply by sending an email to [vipriors-ewi@tudelft.nl](mailto:vipriors-ewi@tudelft.nl) before **October 7th, 2022**.
+Authors of recent and relevant works (including works accepted at the main ECCV 2022 conference paper track) are invited to present a **poster** of their work at our workshop. Please apply by sending an email to [vipriors-ewi@tudelft.nl](mailto:vipriors-ewi@tudelft.nl) before **August 22nd, 2022**.

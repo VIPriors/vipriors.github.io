@@ -32,12 +32,10 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 ## Important dates
 
-_Dates are TBA. See last year's dates for an indication of this year's timeline._
-
-- ~~Challenges open: July 5, 2021~~;
-- ~~Challenges close: September 24, 2021;~~
-- ~~Technical reports due: October 1, 2021;~~
-- ~~Winners announced: October 8, 2021.~~
+- Challenges open: June 1st, 2022;
+- Challenges close: September 1st, 2022;
+- Technical reports due: September 3rd, 2022;
+- Winners announced: Live session @ ECCV, October 24th, 2022.
 
 ## Rules
 
