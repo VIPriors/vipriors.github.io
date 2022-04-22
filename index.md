@@ -74,6 +74,10 @@ organizers_row:
     alt: "Marcos Baptista Ríos"
     title: "Marcos Baptista Ríos"
     excerpt: "Alice Biometrics S.L."
+  - image_path: assets/images/LorenzoBrigato.jpeg
+    alt: "Lorenzo Brigato"
+    title: "Lorenzo Brigato"
+    excerpt: "Sapienza University of Rome"
 # speakers_row:
 #   - image_path: /assets/images/AnimaAnandkumar.png
 #     alt: "Anima Anandkumar"
