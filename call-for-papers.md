@@ -33,12 +33,9 @@ Accepted papers will be published in ECCV 2022 Workshop proceedings. Submissions
 **Timeline**
 
 - (ECCV paper notifications: July 3rd, 2022)
-- Submission deadline: July 3rd, 2022, 23:59 GMT
-  - _After ECCV paper notifications. Exact time may be delayed. See details below._
-- Author notifications: July 10th, 2022
-- Camera-ready deadline: July 17th, 2022, 23:59 GMT
-
-Please note that this year's timeline is quite tight. This is due to workshops being required to match the camera-ready deadline of the ECCV conference, while we would still like to offer the opportunity for rejected ECCV submissions to be submitted to our workshop. As such, we will ensure that our submission deadline will be after the ECCV decisions are out. We will communicate any changes to the deadlines on this website and through [our Twitter account](https://twitter.com/VIPriorsECCV).
+- Submission deadline: July 15th, 2022, 23:59 GMT
+- Author notifications: August 8th, 2022
+- Camera-ready deadline: August 22nd, 2022, 23:59 GMT
 
 ## Call for posters
 

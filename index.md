@@ -13,7 +13,7 @@ feature_row:
     excerpt: |
       We showcase original works on data-efficient computer vision through live oral talks and a poster session.
 
-      **Submission deadline**: July 3rd, after ECCV notifications.
+      **Submission deadline**: July 15th.
     url: "call-for-papers"
     btn_label: "Call for Papers"
     btn_class: "btn--primary"
