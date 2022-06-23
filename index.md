@@ -41,6 +41,7 @@ organizers_row:
     alt: "Jan van Gemert"
     title: "Jan van Gemert"
     excerpt: "Delft University of Technology"
+    url: "https://jvgemert.github.io"
   - image_path: /assets/images/EkinCubuk.jpg
     alt: "Ekin Dogus Cubuk"
     title: "Ekin Dogus Cubuk"
