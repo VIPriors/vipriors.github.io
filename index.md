@@ -32,7 +32,7 @@ feature_row:
     excerpt: |
       We host four data efficieny challenges on action recognition, classification, detection and segmentation.
 
-      **Challenges open**: June 1st.
+      **Challenges close**: September 1st.
     url: "challenges"
     btn_label: "More information"
     btn_class: "btn--primary"

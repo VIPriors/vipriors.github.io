@@ -32,7 +32,7 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 ## Important dates
 
-- Challenges open: June 1st, 2022;
+- ~~Challenges open: June 1st, 2022;~~
 - Challenges close: September 1st, 2022;
 - Technical reports due: September 3rd, 2022;
 - Winners announced: Live session @ ECCV, October 24th, 2022.
@@ -52,14 +52,12 @@ For the submission on CodaLab to qualify for the competition, we require the aut
 
 Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
 
-_The CodaLab competitions will be launched when challenges open (date TBA)._
+Please find the challenges here:
 
-<!-- Please find the challenges here:
-
-- [Image classification](https://competitions.codalab.org/competitions/33214)
-- [Object detection](https://competitions.codalab.org/competitions/33222)
-- [Instance segmentation](https://competitions.codalab.org/competitions/33340)
-- [Action recognition](https://competitions.codalab.org/competitions/33420) -->
+- [Image classification](https://codalab.lisn.upsaclay.fr/competitions/4694)
+- [Object detection](https://codalab.lisn.upsaclay.fr/competitions/4696)
+- [Instance segmentation](https://codalab.lisn.upsaclay.fr/competitions/4699)
+- [Action recognition](https://codalab.lisn.upsaclay.fr/competitions/4703)
 
 ## Resources
 
