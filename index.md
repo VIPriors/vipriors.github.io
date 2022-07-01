@@ -23,7 +23,7 @@ feature_row:
     excerpt: |
       We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop.
 
-      **Submission deadline**: August 22nd.
+      **Submission deadline**: September 23rd.
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for Posters"
     btn_class: "btn--primary"
