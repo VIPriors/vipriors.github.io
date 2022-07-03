@@ -12,10 +12,10 @@ toc: false
 
 We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch in a data-deficient setting. The five challenges are:
 
-1. Image classification;
-2. Object detection;
-3. Instance segmentation, in collaboration with [**Synergy Sports**](#synergy-sports);
-4. Action recognition.
+1. [Image classification](https://codalab.lisn.upsaclay.fr/competitions/4694);
+2. [Object detection](https://codalab.lisn.upsaclay.fr/competitions/4696);
+3. [Instance segmentation](https://codalab.lisn.upsaclay.fr/competitions/4699), in collaboration with [**Synergy Sports**](#synergy-sports);
+4. [Action recognition](https://codalab.lisn.upsaclay.fr/competitions/4703).
 <!-- 5. [Re-identification](https://competitions.codalab.org/competitions/33216), in collaboration with [**Synergy Sports**](#synergy-sports). -->
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
