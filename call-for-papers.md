@@ -37,4 +37,4 @@ Accepted papers will be published in ECCV 2022 Workshop proceedings. Submissions
 
 ## Call for posters
 
-Authors of recent and relevant works (including works accepted at the main ECCV 2022 conference paper track) are invited to present a **poster** of their work at our workshop. Please apply by sending an email to [vipriors-ewi@tudelft.nl](mailto:vipriors-ewi@tudelft.nl) before **September 23rd, 2022**. We will judge submissions as they come in, so authors can plan their attendance of the workshop early.
+Authors of recent and relevant works (including works accepted at the main ECCV 2022 conference paper track) are invited to present a **poster** of their work at our workshop. Please apply by sending an email to [vipriors-ewi@tudelft.nl](mailto:vipriors-ewi@tudelft.nl) before **September 23rd, 2022**, including your published paper as an attachment. We will judge submissions as they come in, so authors can plan their attendance of the workshop early.
