@@ -24,7 +24,7 @@ Please note that this list is not exhaustive! We strongly encourage novel approa
 
 Submissions are sollicited through OpenReview. Reviewing will be double-blind. We do not have a discussion/rebuttal period. The top accepted papers will be invited to orally present their work during the workshop.
 
-Accepted papers will be published in ECCV 2022 Workshop proceedings. Submissions must follow [the ECCV 2022 submission format](https://eccv2022.ecva.net/submission/). Optional supplementary material can be submitted through OpenReview (single .zip file, maximum of 50MB). The deadline for supplementary material is the same as the paper submission deadline.
+Accepted papers will be published in ECCV 2022 Workshop proceedings. Submissions must follow [the ECCV 2022 submission format](https://eccv2022.ecva.net/submission/), including the 14 page limit. Optional supplementary material can be submitted through OpenReview (single .zip file, maximum of 50MB). The deadline for supplementary material is the same as the paper submission deadline.
 
 <a class='btn btn--large btn--primary' href='https://openreview.net/group?id=thecvf.com/ECCV/2022/Workshop/VIPriors'>Submit on OpenReview</a>
 
