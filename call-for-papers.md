@@ -31,7 +31,7 @@ Accepted papers will be published in ECCV 2022 Workshop proceedings. Submissions
 **Timeline**
 
 - (ECCV paper notifications: July 3rd, 2022)
-- Submission deadline: July 15th, 2022, 23:59 GMT
+- Submission deadline: ~~July 15th, 2022, 23:59 GMT~~ *extended to July 18th, 2022, 23:59 GMT*
 - Author notifications: August 8th, 2022
 - Camera-ready deadline: August 22nd, 2022, 23:59 GMT
 
