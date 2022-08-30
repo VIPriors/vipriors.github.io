@@ -34,7 +34,7 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 - ~~Challenges open: June 1st, 2022;~~
 - Challenges close: September 1st, 2022;
-- Technical reports due: September 3rd, 2022;
+- Technical reports due: ~~September 3rd, 2022~~ September 9th, 2022;
 - Winners announced: Live session @ ECCV, October 24th, 2022.
 
 ## Rules
@@ -46,7 +46,7 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 ## Report
 
-For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is October 1st. Authors are to submit their report to ArXiv and submit the link to vipriors-ewi AT tudelft DOT nl. Those unable to submit to Arxiv can email their report directly to vipriors-ewi AT tudelft DOT nl. After the conference we will publish the links to the technical reports on the workshop website.
+For the submission on CodaLab to qualify for the competition, we require the authors to submit a technical report of at least three pages about the submission. The deadline for these reports is September 9th. Authors are to submit their report to ArXiv and submit the link to vipriors-ewi AT tudelft DOT nl. Those unable to submit to Arxiv can email their report directly to vipriors-ewi AT tudelft DOT nl. After the conference we will publish the links to the technical reports on the workshop website.
 
 ## Submission
 
