@@ -3,7 +3,7 @@ title: "<span class='header-marking'>3rd Visual Inductive Priors for Data-Effici
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
-excerpt: "<span class='header-marking'>ECCV 2022</span><br/><span class='header-marking'>October 24th 2022, morning session</span>"
+excerpt: "<span class='header-marking'>ECCV 2022</span><br/><span class='header-marking'>Monday October 24th 2022, 9:00 -  13:00</span><br /><span class='header-marking'>David Intercontinental Hotel, Salon J</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning.'
 feature_row:
@@ -32,7 +32,7 @@ feature_row:
     excerpt: |
       We host four data efficieny challenges on action recognition, classification, detection and segmentation.
 
-      **Tech report deadline**: September 9th.
+      **Winners will be announced at ECCV**.
     url: "challenges"
     btn_label: "More information"
     btn_class: "btn--primary"
