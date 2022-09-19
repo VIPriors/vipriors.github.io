@@ -79,28 +79,28 @@ organizers_row:
     alt: "Lorenzo Brigato"
     title: "Lorenzo Brigato"
     excerpt: "Sapienza University of Rome"
-# speakers_row:
-#   - image_path: /assets/images/AnimaAnandkumar.png
-#     alt: "Anima Anandkumar"
-#     title: "Anima Anandkumar"
-#     excerpt: "Caltech, NVIDIA"
-#     url: "http://tensorlab.cms.caltech.edu/users/anima/"
-#     btn_label: "Website"
-#     btn_class: "btn--default"
-#   - image_path: /assets/images/ChelseaFinn.jpg
-#     alt: "Chelsea Finn"
-#     title: "Chelsea Finn"
-#     excerpt: "Stanford University"
-#     url: "https://ai.stanford.edu/~cbfinn/"
-#     btn_label: "Website"
-#     btn_class: "btn--default"
-#   - image_path: /assets/images/MaxWelling.jpg
-#     alt: "Max Welling"
-#     title: "Max Welling"
-#     excerpt: "University of Amsterdam, Qualcomm"
-#     url: "https://staff.fnwi.uva.nl/m.welling/"
-#     btn_label: "Website"
-#     btn_class: "btn--default"
+speakers_row:
+  - image_path: /assets/images/StephaneMallat.jpg
+    alt: "Stephane Mallat"
+    title: "Stephane Mallat"
+    excerpt: "Collège de France"
+    url: "https://www.di.ens.fr/~mallat/"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/DeviParikh.jpg
+    alt: "Devi Parikh"
+    title: "Devi Parikh"
+    excerpt: "FAIR, Georgia Tech"
+    url: "https://faculty.cc.gatech.edu/~parikh/"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/EfstratiosGavves.jpg
+    alt: "Efstratios Gavves"
+    title: "Efstratios Gavves"
+    excerpt: "University of Amsterdam, Ellogon.AI"
+    url: "https://egavves.github.io/#about"
+    btn_label: "Website"
+    btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -119,11 +119,23 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 <!-- _This workshop is organized in collaboration with [**SynergySports**](https://synergysports.com/). SynergySports is co-organizing [the VIPriors 2021 challenges](challenges). Head over to the challenges page to find out more!_ -->
 
+## Program
+
+| GMT | IDT (GMT+3) | | |
+| -- | -- | -- | -- | -- |
+| 6:00 | 9:00 | Opening | Challenge winners will be announced. |
+| 6:15 | 9:15 | Invited talk: Stephane Mallat | |
+| 7:00 | 10:00 | Oral presentations | Three 10-minute presentations. |
+| 7:30 | 10:30 | Poster session | |
+| 8:30 | 11:30 | Invited talk: Devi Parikh | |
+| 9:15 | 12:15 | Invited talk: Efstratios Gavves | |
+| 10:00 | 13:00 | Closing | |
+
 ## Invited speakers
 
-_Speakers are TBA._
+<!-- _Speakers are TBA._ -->
 
-<!-- {% include feature_row id="speakers_row" %} -->
+{% include feature_row id="speakers_row" %}
 
 ## Organizers
 
