@@ -1,13 +1,11 @@
 ---
 layout: single
-title: "<span class='header-marking'>Call for Papers</span>"
+title: "<span class='header-marking'>Accepted papers</span>"
 classes: semiwide
 header:
   overlay_image: assets/images/header_background_centered.png
 permalink: /call-for-papers/
 ---
-
-## Accepted papers
 
 ### Orals
 
