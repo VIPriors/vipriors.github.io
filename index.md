@@ -9,23 +9,23 @@ intro:
 feature_row:
   - image_path: assets/images/callforpapers.png
     alt: "placeholder image 2"
-    title: "Call for papers"
+    title: "Accepted papers"
     excerpt: |
       We showcase original works on data-efficient computer vision through live oral talks and a poster session.
 
-      **Decisions are out**.
+      **Decisions are out.**
     url: "call-for-papers"
-    btn_label: "Call for Papers"
+    btn_label: "Accepted Papers"
     btn_class: "btn--primary"
   - image_path: assets/images/poster.png
     alt: "placeholder image 2"
-    title: "Present a poster"
+    title: "Accepted posters"
     excerpt: |
-      We invite researchers to present their recent published works on data-efficient computer vision as a poster at our workshop.
+      We invite researchers to present their recent published works on data-efficient computer vision as a poster.
 
-      **Submission deadline**: September 23rd.
+      **Decisions are out.**
     url: "call-for-papers/#call-for-posters"
-    btn_label: "Call for Posters"
+    btn_label: "Accepted posters"
     btn_class: "btn--primary"
   - image_path: assets/images/challenge.png
     title: "VIPriors challenges"
@@ -125,8 +125,8 @@ The great power of deep neural networks is their incredible flexibility to learn
 | -- | -- | -- | -- | -- |
 | 6:00 | 9:00 | Opening | Challenge winners will be announced. |
 | 6:15 | 9:15 | Invited talk: Stephane Mallat | |
-| 7:00 | 10:00 | Oral presentations | Three 10-minute presentations. |
-| 7:30 | 10:30 | Poster session | |
+| 7:00 | 10:00 | Oral presentations | [Accepted orals](call-for-papers/#orals) |
+| 7:30 | 10:30 | Poster session | [Accepted posters](call-for-papers/#posters) |
 | 8:30 | 11:30 | Invited talk: Devi Parikh | |
 | 9:15 | 12:15 | Invited talk: Efstratios Gavves | |
 | 10:00 | 13:00 | Closing | |
