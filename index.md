@@ -124,7 +124,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 | GMT | IDT (GMT+3) | | |
 | -- | -- | -- | -- | -- |
 | 6:00 | 9:00 | Opening | Challenge winners will be announced. |
-| 6:15 | 9:15 | Invited talk: Stéphane Mallat | |
+| 6:15 | 9:15 | Invited talk: Stéphane Mallat | "Priors versus Learning for Synthesis and Classification with Deep Networks" |
 | 7:00 | 10:00 | Oral presentations | [Accepted orals](call-for-papers/#orals) |
 | 7:30 | 10:30 | Poster session | [Accepted posters](call-for-papers/#posters) |
 | 8:30 | 11:30 | Invited talk: Devi Parikh | |
