@@ -55,6 +55,9 @@ permalink: /call-for-papers/
 <span>B8. 3D Equivariant Graph Implicit Functions</span>
 <br /><i>Yunlu Chen, Basura Fernando, Hakan Bilen, Matthias Nießner, and Efstratios Gavves</i>
 
+<span>B9. Solving Reasoning Tasks with a Slot Transformer</span>
+<br /><i>Ryan Faulkner, Daniel Zoran</i>
+
 ## Call for papers
 
 We solicit submissions that in the broad sense focus on achieving data efficiency through incorporating prior knowledge of the visual domain into network design. This includes the following topics:
