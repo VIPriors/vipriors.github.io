@@ -37,7 +37,7 @@ The final results of the challenge are listed below. Only challenge entries acco
 
 ### Image Classification
 
-1. <span class='list-marking'>Tianzhi Ma, Zihan Gao, Wenxin He, Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*</span>
+1. <span class='list-marking'>Tianzhi Ma, Zihan Gao, Wenxin He, Licheng Jiao.</span> *School of Artificial Intelligence, Xidian University, Xi'an, China*
 2. Xiaoqiang Lu, Chao Li, Chenghui Li, Xiao Tan, Zhongjian Huang, Yuting Yang. *School of Artificial Intelligence, Xidian University, Xi'an, China*
 3. Yi Zuo, Zitao Wang, Xiaowen Zhang, Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*
 4. Jiahao Wang, Hao Wang, Hua Yang, Fang liu, Lichang Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*
@@ -48,7 +48,7 @@ The final results of the challenge are listed below. Only challenge entries acco
 
 ### Object Detection
 
-1. <span class='list-marking'>Xiaoqiang Lu, Xiao Tan, Chenghui Li, Chao Li, Zhongjian Huang, Yuting Yang. *School of Artificial Intelligence, Xidian University, Xi'an, China*</span>
+1. <span class='list-marking'>Xiaoqiang Lu, Xiao Tan, Chenghui Li, Chao Li, Zhongjian Huang, Yuting Yang.</span> *School of Artificial Intelligence, Xidian University, Xi'an, China*
 2. Bocheng Xu , Rui Zhang, and Yanyi Feng. *Department of AI R&D, Terminus Technologies, China*
 3. Jiawei Zhao, Zhaolin Cui, Xuede Li, Xingyue Chen, Junfeng Luo, Xiaolin Wei. *Vision Intelligence Department (VID), Meituan*
 4. Ping Zhao, Xinyan Zhang, Weijian Sun, and Xin Zhang. *Huawei Technologies Co., Ltd., China* & *Tongji University, Shanghai, China*
@@ -61,7 +61,7 @@ The final results of the challenge are listed below. Only challenge entries acco
 
 ### Instance Segmentation
 
-1. <span class='list-marking'>Bo Yan, Xingran Zhao, Yadong Li, Hongbin Wang. *Ant Group, China*</span>
+1. <span class='list-marking'>Bo Yan, Xingran Zhao, Yadong Li, Hongbin Wang.</span> *Ant Group, China*
 2. Fuxing Leng, Jinghua Yan, Peibin Chen, Chenglong Yi. *ByteDance, Huazhong University of Science and Technology*
 3. Xiaoqiang Lu, Chenghui Li, Chao Li, Xiao Tan, Zhongjian Huang, Yuting Yang. *School of Artificial Intelligence, Xidian University, Xi'an, China*
 4. Junpei Zhang, Kexin Zhang, Rui Peng, Yanbiao Ma, Licheng Jiao Fang Liu. *Team Yanbiao_Ma*
@@ -73,7 +73,7 @@ The final results of the challenge are listed below. Only challenge entries acco
 
 ### Action recognition
 
-1. <span class='list-marking'>Xinran Song, Chengyuan Yang, Chang Liu, Yang Liu, Fang Liu, Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*</span>
+1. <span class='list-marking'>Xinran Song, Chengyuan Yang, Chang Liu, Yang Liu, Fang Liu, Licheng Jiao.</span> *School of Artificial Intelligence, Xidian University, Xi'an, China*
 2. Wenxin He, Zihan Gao, Tianzhi Ma , Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*
 3. Bo Tan, Yang Xiao, Wenzheng Zeng, Xingyu Tong, Zhiguo Cao, Joey Tianyi Zhou. *Huazhong University of Science and Technology (China) and CFAR (Singapore)*
 
