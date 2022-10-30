@@ -30,12 +30,62 @@ Our VIPriors challenges are co-organized by **Synergy Sports**. The instance seg
 
 Synergy Sports is changing how sport is organised, played, coached, commercialized, and experienced around the world. We help federations, leagues, clubs, coaches, referees, and players increase their performance on and off the field. Synergy Sports operates in 41 countries. In the US, Synergy serves every single NBA, G League, WNBA, and NCAA Division I basketball team, as well as every MLB team and over 270 NCAA Division I baseball teams. Visit [their website](https://synergysports.com/) for more information.
 
+
+## Final results
+
+The final results of the challenge are listed below. Only challenge entries accompanied by a technical report qualified for the final rankings. All first through third placed competitors, as well as the winners of the jury prize, will receive a digital signed certificate. Congratulations to all winners!
+
+### Image Classification
+
+1. <span class='list-marking'>Tianzhi Ma, Zihan Gao, Wenxin He, Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*</span>
+2. Xiaoqiang Lu, Chao Li, Chenghui Li, Xiao Tan, Zhongjian Huang, Yuting Yang. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+3. Yi Zuo, Zitao Wang, Xiaowen Zhang, Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+4. Jiahao Wang, Hao Wang, Hua Yang, Fang liu, Lichang Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+5. Wenxuan She, Mengjia Wang, Zixiao Zhang, Fang Liu, Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+
+**Jury prize:** Xiaoqiang Lu, Chao Li, Chenghui Li, Xiao Tan, Zhongjian Huang, Yuting Yang. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+
+
+### Object Detection
+
+1. <span class='list-marking'>Xiaoqiang Lu, Xiao Tan, Chenghui Li, Chao Li, Zhongjian Huang, Yuting Yang. *School of Artificial Intelligence, Xidian University, Xi'an, China*</span>
+2. Bocheng Xu , Rui Zhang, and Yanyi Feng. *Department of AI R&D, Terminus Technologies, China*
+3. Jiawei Zhao, Zhaolin Cui, Xuede Li, Xingyue Chen, Junfeng Luo, Xiaolin Wei. *Vision Intelligence Department (VID), Meituan*
+4. Ping Zhao, Xinyan Zhang, Weijian Sun, and Xin Zhang. *Huawei Technologies Co., Ltd., China* & *Tongji University, Shanghai, China*
+5. WenShijie Xiao, Wenyuan Qiu, Zhongyang Huang. *OmniVision*
+6. Jiwoo Lee, Seungbum Hong, Jihyun Lee, Hyeongyu Chi, and SeulGi Hong. *VisionAI, hutom, Seoul, Republic of Korea*
+7. Yiqing Xu, Yu Liu, Min Gao
+
+**Jury prize:** Ping Zhao, Xinyan Zhang, Weijian Sun, Xin Zhang. *Huawei Technologies Co., Ltd., China* & *Tongji University, Shanghai, China*
+
+
+### Instance Segmentation
+
+1. <span class='list-marking'>Bo Yan, Xingran Zhao, Yadong Li, Hongbin Wang. *Ant Group, China*</span>
+2. Fuxing Leng, Jinghua Yan, Peibin Chen, Chenglong Yi. *ByteDance, Huazhong University of Science and Technology*
+3. Xiaoqiang Lu, Chenghui Li, Chao Li, Xiao Tan, Zhongjian Huang, Yuting Yang. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+4. Junpei Zhang, Kexin Zhang, Rui Peng, Yanbiao Ma, Licheng Jiao Fang Liu. *Team Yanbiao_Ma*
+5. Yi Cheng, ShuHan Wang, Yifei Chen, Zhongjian Huang. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+6. Tianheng Cheng, Xinggang Wang, Shaoyu Chen, Qian Zhang, Chang Huang, Zhaoxiang Zhang, Wenqiang Zhang, Wenyu Liu. *School of EIC, Huazhong University of Science & Technology* & *Horizon Robotics* & *Institute of Automation, Chinese Academy of Sciences (CASIA)*
+
+**Jury prize:** Tianheng Cheng, Xinggang Wang, Shaoyu Chen, Qian Zhang, Chang Huang, Zhaoxiang Zhang, Wenqiang Zhang, Wenyu Liu. *School of EIC, Huazhong University of Science & Technology* & *Horizon Robotics* & *Institute of Automation, Chinese Academy of Sciences (CASIA)*
+
+
+### Action recognition
+
+1. <span class='list-marking'>Xinran Song, Chengyuan Yang, Chang Liu, Yang Liu, Fang Liu, Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*</span>
+2. Wenxin He, Zihan Gao, Tianzhi Ma , Licheng Jiao. *School of Artificial Intelligence, Xidian University, Xi'an, China*
+3. Bo Tan, Yang Xiao, Wenzheng Zeng, Xingyu Tong, Zhiguo Cao, Joey Tianyi Zhou. *Huazhong University of Science and Technology (China) and CFAR (Singapore)*
+
+**Jury prize:** Bo Tan, Yang Xiao, Wenzheng Zeng, Xingyu Tong, Zhiguo Cao, Joey Tianyi Zhou. *Huazhong University of Science and Technology (China) and CFAR (Singapore)*
+
+
 ## Important dates
 
 - ~~Challenges open: June 1st, 2022;~~
 - ~~Challenges close: September 1st, 2022;~~
 - ~~Technical reports due: September 9th, 2022;~~
-- Winners announced: Live session @ ECCV, October 24th, 2022.
+- ~~Winners announced: Live session @ ECCV, October 24th, 2022.~~
 
 ## Rules
 
