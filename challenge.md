@@ -52,7 +52,7 @@ The final results of the challenge are listed below. Only challenge entries acco
 2. Bocheng Xu , Rui Zhang, and Yanyi Feng. *Department of AI R&D, Terminus Technologies, China*
 3. Jiawei Zhao, Zhaolin Cui, Xuede Li, Xingyue Chen, Junfeng Luo, Xiaolin Wei. *Vision Intelligence Department (VID), Meituan*
 4. Ping Zhao, Xinyan Zhang, Weijian Sun, and Xin Zhang. *Huawei Technologies Co., Ltd., China* & *Tongji University, Shanghai, China*
-5. WenShijie Xiao, Wenyuan Qiu, Zhongyang Huang. *OmniVision*
+5. Shijie Xiao, Wenyuan Qiu, Zhongyang Huang. *OmniVision Technologies Singapore Pte Ltd*
 6. Jiwoo Lee, Seungbum Hong, Jihyun Lee, Hyeongyu Chi, and SeulGi Hong. *VisionAI, hutom, Seoul, Republic of Korea*
 7. Yiqing Xu, Yu Liu, Min Gao
 
