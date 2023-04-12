@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<span class='header-marking'>Accepted papers</span>"
+title: "<span class='header-marking'>Call for papers</span>"
 classes: semiwide
 header:
   overlay_image: assets/images/header_background_centered.png
