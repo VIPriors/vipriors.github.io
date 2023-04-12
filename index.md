@@ -36,21 +36,29 @@ organizers_row:
     title: "Jan van Gemert"
     excerpt: "Delft University of Technology"
     url: "https://jvgemert.github.io"
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: assets/images/EfstratiosGavves.jpg
     alt: "Efstratios Gavves"
     title: "Efstratios Gavves"
     excerpt: "University of Amsterdam"
     url: "https://www.egavves.com/"
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: assets/images/NergisTomen.jpg
     alt: "Nergis Tömen"
     title: "Nergis Tömen"
     excerpt: "Delft University of Technology"
     url: "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/nergis-toemen"
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: assets/images/HadiJamaliRad.png
     alt: "Hadi Jamali-Rad"
     title: "Hadi Jamali-Rad"
     excerpt: "Shell, Delft University of Technology"
     url: "https://sites.google.com/view/jamalirad/home"
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
@@ -68,11 +76,17 @@ organizers_row:
   - image_path: assets/images/OsmanKayhan.png
     alt: "Osman Semih Kayhan"
     title: "Osman Semih Kayhan"
+    url: "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/osman-semih-kayhan"
     excerpt: "Bosch Security Systems B.V."
+    btn_label: "Website"
+    btn_class: "btn--default"
   - image_path: assets/images/LorenzoBrigato.jpeg
     alt: "Lorenzo Brigato"
     title: "Lorenzo Brigato"
     excerpt: "ARTORG"
+    url: "https://sites.google.com/diag.uniroma1.it/lorenzobrigato"
+    btn_label: "Website"
+    btn_class: "btn--default"
 # speakers_row:
 #   - image_path: /assets/images/StephaneMallat.jpg
 #     alt: "Stéphane Mallat"
