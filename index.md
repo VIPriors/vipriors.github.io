@@ -1,38 +1,32 @@
 ---
-title: "<span class='header-marking'>3rd Visual Inductive Priors for Data-Efficient Deep Learning Workshop</span>"
+title: "<span class='header-marking'>4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop</span>"
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
-excerpt: "<span class='header-marking'>ECCV 2022</span><br/><span class='header-marking'>Monday October 24th 2022, 9:00 -  13:00</span><br /><span class='header-marking'>David Intercontinental Hotel, Grand Ballroom D</span>"
+excerpt: "<span class='header-marking'>ICCV 2023</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning.'
 feature_row:
   - image_path: assets/images/callforpapers.png
     alt: "placeholder image 2"
-    title: "Accepted papers"
+    title: "Call for papers"
     excerpt: |
       We showcase original works on data-efficient computer vision through live oral talks and a poster session.
-
-      **Decisions are out.**
     url: "call-for-papers"
-    btn_label: "Accepted Papers"
+    btn_label: "Call for papers"
     btn_class: "btn--primary"
   - image_path: assets/images/poster.png
     alt: "placeholder image 2"
-    title: "Accepted posters"
+    title: "Call for posters"
     excerpt: |
       We invite researchers to present their recent published works on data-efficient computer vision as a poster.
-
-      **Decisions are out.**
     url: "call-for-papers/#call-for-posters"
-    btn_label: "Accepted posters"
+    btn_label: "Call for posters"
     btn_class: "btn--primary"
   - image_path: assets/images/challenge.png
     title: "VIPriors challenges"
     excerpt: |
       We host four data efficieny challenges on action recognition, classification, detection and segmentation.
-
-      **Winners will be announced at ECCV**.
     url: "challenges"
     btn_label: "More information"
     btn_class: "btn--primary"
@@ -42,17 +36,18 @@ organizers_row:
     title: "Jan van Gemert"
     excerpt: "Delft University of Technology"
     url: "https://jvgemert.github.io"
-  - image_path: /assets/images/EkinCubuk.jpg
-    alt: "Ekin Dogus Cubuk"
-    title: "Ekin Dogus Cubuk"
-    excerpt: "Google Research"
-    url: "https://research.google/people/EkinDogusCubuk/"
-    btn_label: "Website"
-    btn_class: "btn--default"
+  - image_path: assets/images/EfstratiosGavves.jpg
+    alt: "Efstratios Gavves"
+    title: "Efstratios Gavves"
+    excerpt: "University of Amsterdam"
   - image_path: assets/images/NergisTomen.jpg
     alt: "Nergis Tömen"
     title: "Nergis Tömen"
     excerpt: "Delft University of Technology"
+  - image_path: assets/images/HadiJamaliRad.png
+    alt: "Hadi Jamali-Rad"
+    title: "Hadi Jamali-Rad"
+    excerpt: "Shell, Delft University of Technology"
   - image_path: assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
@@ -71,36 +66,32 @@ organizers_row:
     alt: "Osman Semih Kayhan"
     title: "Osman Semih Kayhan"
     excerpt: "Bosch Security Systems B.V."
-  - image_path: assets/images/MarcosBaptistaRios.jpg
-    alt: "Marcos Baptista Ríos"
-    title: "Marcos Baptista Ríos"
-    excerpt: "Alice Biometrics S.L."
   - image_path: assets/images/LorenzoBrigato.jpeg
     alt: "Lorenzo Brigato"
     title: "Lorenzo Brigato"
-    excerpt: "Sapienza University of Rome"
-speakers_row:
-  - image_path: /assets/images/StephaneMallat.jpg
-    alt: "Stéphane Mallat"
-    title: "Stéphane Mallat"
-    excerpt: "Collège de France"
-    url: "https://www.di.ens.fr/~mallat/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/DeviParikh.jpg
-    alt: "Devi Parikh"
-    title: "Devi Parikh"
-    excerpt: "FAIR, Georgia Tech"
-    url: "https://faculty.cc.gatech.edu/~parikh/"
-    btn_label: "Website"
-    btn_class: "btn--default"
-  - image_path: /assets/images/EfstratiosGavves.jpg
-    alt: "Efstratios Gavves"
-    title: "Efstratios Gavves"
-    excerpt: "University of Amsterdam, Ellogon.AI"
-    url: "https://egavves.github.io/#about"
-    btn_label: "Website"
-    btn_class: "btn--default"
+    excerpt: "ARTORG"
+# speakers_row:
+#   - image_path: /assets/images/StephaneMallat.jpg
+#     alt: "Stéphane Mallat"
+#     title: "Stéphane Mallat"
+#     excerpt: "Collège de France"
+#     url: "https://www.di.ens.fr/~mallat/"
+#     btn_label: "Website"
+#     btn_class: "btn--default"
+#   - image_path: /assets/images/DeviParikh.jpg
+#     alt: "Devi Parikh"
+#     title: "Devi Parikh"
+#     excerpt: "FAIR, Georgia Tech"
+#     url: "https://faculty.cc.gatech.edu/~parikh/"
+#     btn_label: "Website"
+#     btn_class: "btn--default"
+#   - image_path: /assets/images/EfstratiosGavves.jpg
+#     alt: "Efstratios Gavves"
+#     title: "Efstratios Gavves"
+#     excerpt: "University of Amsterdam, Ellogon.AI"
+#     url: "https://egavves.github.io/#about"
+#     btn_label: "Website"
+#     btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -119,23 +110,11 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 <!-- _This workshop is organized in collaboration with [**SynergySports**](https://synergysports.com/). SynergySports is co-organizing [the VIPriors 2021 challenges](challenges). Head over to the challenges page to find out more!_ -->
 
-## Program
-
-| GMT | IDT (GMT+3) | | |
-| -- | -- | -- | -- | -- |
-| 6:00 | 9:00 | Opening | Challenge winners will be announced. |
-| 6:15 | 9:15 | Invited talk: Stéphane Mallat | "Priors versus Learning for Synthesis and Classification with Deep Networks" |
-| 7:00 | 10:00 | Oral presentations | [Accepted orals](call-for-papers/#orals) |
-| 7:30 | 10:30 | Poster session | [Accepted posters](call-for-papers/#posters) |
-| 8:30 | 11:30 | Invited talk: Devi Parikh | |
-| 9:15 | 12:15 | Invited talk: Efstratios Gavves | |
-| 10:00 | 13:00 | Closing | |
-
 ## Invited speakers
 
-<!-- _Speakers are TBA._ -->
+_Speakers are TBA._
 
-{% include feature_row id="speakers_row" %}
+<!-- {% include feature_row id="speakers_row" %} -->
 
 ## Organizers
 
