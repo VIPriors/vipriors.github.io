@@ -1,12 +1,12 @@
 main:
   - title: "About"
     url: /#about-the-workshop
-  - title: "Program"
-    url: /#program
-  - title: "Speakers"
-    url: /#invited-speakers
-  # - title: "Organizers"
-  #   url: /#organizers
+  # - title: "Program"
+  #   url: /#program
+  # - title: "Speakers"
+  #   url: /#invited-speakers
+  - title: "Organizers"
+    url: /#organizers
   - title: "Papers"
     url: /call-for-papers
   # - title: "Program"
