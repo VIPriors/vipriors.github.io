@@ -40,14 +40,17 @@ organizers_row:
     alt: "Efstratios Gavves"
     title: "Efstratios Gavves"
     excerpt: "University of Amsterdam"
+    url: "https://www.egavves.com/"
   - image_path: assets/images/NergisTomen.jpg
     alt: "Nergis Tömen"
     title: "Nergis Tömen"
     excerpt: "Delft University of Technology"
+    url: "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/nergis-toemen"
   - image_path: assets/images/HadiJamaliRad.png
     alt: "Hadi Jamali-Rad"
     title: "Hadi Jamali-Rad"
     excerpt: "Shell, Delft University of Technology"
+    url: "https://sites.google.com/view/jamalirad/home"
   - image_path: assets/images/AttilaLengyel.jpg
     alt: "Attila Lengyel"
     title: "Attila Lengyel"
