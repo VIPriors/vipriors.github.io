@@ -34,10 +34,10 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 *Timeline TBA*
 
-<!-- - ~~Challenges open: June 1st, 2022;~~
-- ~~Challenges close: September 1st, 2022;~~
-- ~~Technical reports due: September 9th, 2022;~~
-- ~~Winners announced: Live session @ ECCV, October 24th, 2022.~~ -->
+- Challenges open: June 1st, 2023;
+- Challenges close: September 1st, 2023;
+- Technical reports due: September 11th, 2023;
+- Winners announced: Live session @ ICCV.
 
 ## Rules
 
