@@ -52,10 +52,10 @@ organizers_row:
     url: "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/nergis-toemen"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: assets/images/HadiJamaliRad.png
+  - image_path: assets/images/HadiJamaliRad.jpeg
     alt: "Hadi Jamali-Rad"
     title: "Hadi Jamali-Rad"
-    excerpt: "Shell, Delft University of Technology"
+    excerpt: "Delft University of Technology, Shell"
     url: "https://sites.google.com/view/jamalirad/home"
     btn_label: "Website"
     btn_class: "btn--default"
