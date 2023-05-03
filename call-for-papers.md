@@ -41,7 +41,7 @@ Accepted papers will be published in ICCV 2023 Workshop proceedings. Submissions
 
 ## Call for posters
 
-Authors of recent and relevant works (including works accepted at the main ICCV 2024 conference paper track) are invited to present a **poster** of their work at our workshop.
+Authors of recent and relevant works (including works accepted at the main ICCV 2023 conference paper track) are invited to present a **poster** of their work at our workshop.
 
 *Submission instructions are TBA.*
 
