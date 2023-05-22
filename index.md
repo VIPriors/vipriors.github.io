@@ -12,6 +12,8 @@ feature_row:
     title: "Call for papers"
     excerpt: |
       We showcase original works on data-efficient computer vision through live oral talks and a poster session.
+
+      **Submission deadline**: July 14th, 2023
     url: "call-for-papers"
     btn_label: "Call for papers"
     btn_class: "btn--primary"
@@ -20,6 +22,8 @@ feature_row:
     title: "Call for posters"
     excerpt: |
       We invite researchers to present their recent published works on data-efficient computer vision as a poster.
+
+      **Submission deadline**: September 23rd, 2023
     url: "call-for-papers/#call-for-posters"
     btn_label: "Call for posters"
     btn_class: "btn--primary"
@@ -27,6 +31,8 @@ feature_row:
     title: "VIPriors challenges"
     excerpt: |
       We host four data efficieny challenges on action recognition, classification, detection and segmentation.
+
+      **Challenges open**: TBA
     url: "challenges"
     btn_label: "More information"
     btn_class: "btn--primary"

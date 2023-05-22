@@ -32,8 +32,6 @@ Accepted papers will be published in ICCV 2023 Workshop proceedings. Submissions
 
 <!-- <a class='btn btn--large btn--primary' href='https://openreview.net/group?id=thecvf.com/ECCV/2022/Workshop/VIPriors'>See accepted papers on OpenReview</a> -->
 
-*Timeline TBA*
-
 - (ICCV paper notifications: July 13th, 2023)
 - Submission deadline: July 14th, 2023, 23:59 GMT
 - Author notifications: July 28th, 2023
@@ -43,6 +41,4 @@ Accepted papers will be published in ICCV 2023 Workshop proceedings. Submissions
 
 Authors of recent and relevant works (including works accepted at the main ICCV 2023 conference paper track) are invited to present a **poster** of their work at our workshop.
 
-*Submission instructions are TBA.*
-
-<!-- Please apply by sending an email to [vipriors-ewi@tudelft.nl](mailto:vipriors-ewi@tudelft.nl) before **September 23rd, 2023**, including your published paper as an attachment. We will judge submissions as they come in, so authors can plan their attendance of the workshop early. -->
+Please apply by sending an email to [vipriors-ewi@tudelft.nl](mailto:vipriors-ewi@tudelft.nl) before **September 23rd, 2023**, including your published paper as an attachment. We will judge submissions as they come in, so authors can plan their attendance of the workshop early.
