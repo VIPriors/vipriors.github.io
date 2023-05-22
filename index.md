@@ -3,7 +3,7 @@ title: "<span class='header-marking'>4th Visual Inductive Priors for Data-Effici
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
-excerpt: "<span class='header-marking'>ICCV 2023</span>"
+excerpt: "<span class='header-marking'>ICCV 2023</span><br/><span class='header-marking'>Monday October 2nd 2023, 9:00 -  13:00</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning.'
 feature_row:
