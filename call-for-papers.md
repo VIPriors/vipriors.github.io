@@ -34,7 +34,7 @@ Accepted papers will be published in ICCV 2023 Workshop proceedings. Submissions
 
 - (ICCV paper notifications: July 13th, 2023)
 - Submission deadline: July 14th, 2023, 23:59 GMT
-- Author notifications: July 28th, 2023
+- Author notifications: August 4th, 2023
 - Camera-ready deadline: August 11th, 2023, 23:59 GMT
 
 ## Call for posters
