@@ -30,8 +30,6 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 ## Important dates
 
-*Timeline TBA*
-
 - Challenges open: June 1st, 2023;
 - Challenges close: September 1st, 2023;
 - Technical reports due: September 11th, 2023;
