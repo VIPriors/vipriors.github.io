@@ -10,12 +10,10 @@ toc: false
 
 <!-- <img src='/assets/images/logo_challenge.png' style='display: block; margin: 0 auto; width: 40%; min-width: 200px;' /> -->
 
-We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer four challenges, where models are to be trained from scratch in a data-deficient setting. The four challenges are:
+We present the **"Visual Inductive Priors for Data-Efficient Computer Vision"** challenges. We offer two challenges, where models are to be trained from scratch in a data-deficient setting:
 
-1. Image classification
 2. Object detection
 3. Instance segmentation
-4. Action recognition
 
 These tasks were chosen to encourage researchers of arbitrary background to participate: no giant GPU clusters are needed, nor will training for a long time yield much improvement over the baseline results.
 
@@ -52,16 +50,12 @@ For the submission on CodaLab to qualify for the competition, we require the aut
 
 ## Submission
 
-Each of the four challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
+Both challenges are hosted on CodaLab, a public platform for AI challenges. Submissions must be made by uploading files containing predictions according to the format defined in the toolkit (see *Resources* for details) to the challenge pages listed below.
 
-*Challenge pages TBA.*
+Please find the challenges here:
 
-<!-- Please find the challenges here:
-
-- [Image classification](https://codalab.lisn.upsaclay.fr/competitions/4694)
-- [Object detection](https://codalab.lisn.upsaclay.fr/competitions/4696)
-- [Instance segmentation](https://codalab.lisn.upsaclay.fr/competitions/4699)
-- [Action recognition](https://codalab.lisn.upsaclay.fr/competitions/4703) -->
+- [Object detection](https://codalab.lisn.upsaclay.fr/competitions/13493)
+- [Instance segmentation](https://codalab.lisn.upsaclay.fr/competitions/13494)
 
 ## Resources
 

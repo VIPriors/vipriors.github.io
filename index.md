@@ -32,9 +32,9 @@ feature_row:
     excerpt: |
       We host four data efficieny challenges on action recognition, classification, detection and segmentation.
 
-      **Challenges open**: TBA
+      **Challenges open**: June 1st, 2023
     url: "challenges"
-    btn_label: "More information"
+    btn_label: "Participate!"
     btn_class: "btn--primary"
 organizers_row:
   - image_path: assets/images/JanVanGemert.jpg
