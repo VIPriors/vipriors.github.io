@@ -28,9 +28,9 @@ Submissions are sollicited through OpenReview. Reviewing will be double-blind. W
 
 Accepted papers will be published in ICCV 2023 Workshop proceedings. Submissions must follow [the ICCV 2023 submission format](https://iccv2023.thecvf.com/submission.guidelines-361600-2-20-16.php), including the 8 page limit. Optional supplementary material can be submitted through OpenReview (single .zip file, maximum of 50MB). The deadline for supplementary material is the same as the paper submission deadline.
 
-<a class='btn btn--large btn--disabled' href=''>OpenReview TBA</a>
+<!-- <a class='btn btn--large btn--disabled' href=''>OpenReview TBA</a> -->
 
-<!-- <a class='btn btn--large btn--primary' href='https://openreview.net/group?id=thecvf.com/ECCV/2022/Workshop/VIPriors'>See accepted papers on OpenReview</a> -->
+<a class='btn btn--large btn--primary' href='https://openreview.net/group?id=thecvf.com/ICCV/2023/Workshop/VIPriors'>Submit on OpenReview</a>
 
 - (ICCV paper notifications: July 13th, 2023)
 - Submission deadline: July 14th, 2023, 23:59 GMT
