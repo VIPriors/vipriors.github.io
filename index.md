@@ -121,7 +121,7 @@ organizers_row:
 
 {% include feature_row %}
 
-{% include twitter_sidebar %}
+<!-- {% include twitter_sidebar %} -->
 
 ## About the workshop
 
