@@ -15,7 +15,7 @@ feature_row:
 
       **Decisions** on OpenReview.
     url: "https://openreview.net/group?id=thecvf.com/ICCV/2023/Workshop/VIPriors"
-    btn_label: "Call for papers"
+    btn_label: "OpenReview"
     btn_class: "btn--primary"
   - image_path: assets/images/poster.png
     alt: "placeholder image 2"
