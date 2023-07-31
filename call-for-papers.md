@@ -30,13 +30,13 @@ Accepted papers will be published in ICCV 2023 Workshop proceedings. Submissions
 
 <!-- <a class='btn btn--large btn--disabled' href=''>OpenReview TBA</a> -->
 
-<a class='btn btn--large btn--primary' href='https://openreview.net/group?id=thecvf.com/ICCV/2023/Workshop/VIPriors'>Submit on OpenReview</a>
+<a class='btn btn--large btn--primary' href='https://openreview.net/group?id=thecvf.com/ICCV/2023/Workshop/VIPriors'>Decisions out now on OpenReview</a>
 
 ## Timeline
 
-- (ICCV paper notifications: July 13th, 2023)
-- Submission deadline: ~~July 14th~~ July 19th, 2023, 23:59 GMT
-- Author notifications: August 4th, 2023
+- ~~(ICCV paper notifications: July 13th, 2023)~~
+- ~~Submission deadline: July 19th, 2023, 23:59 GMT~~
+- ~~Author notifications: August 4th, 2023~~
 - Camera-ready deadline: ~~August 11th~~ August 21st, 2023, 23:59 GMT
 - Workshop: October 2nd 2023, 9:00-13:00 GMT+2
 

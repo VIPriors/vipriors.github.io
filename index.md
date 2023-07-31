@@ -13,8 +13,8 @@ feature_row:
     excerpt: |
       We showcase original works on data-efficient computer vision through live oral talks and a poster session.
 
-      **Submission deadline**: July ~~14th~~ ~~16th~~ 19th, 2023
-    url: "call-for-papers"
+      **Decisions** on OpenReview.
+    url: "https://openreview.net/group?id=thecvf.com/ICCV/2023/Workshop/VIPriors"
     btn_label: "Call for papers"
     btn_class: "btn--primary"
   - image_path: assets/images/poster.png
