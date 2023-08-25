@@ -13,7 +13,7 @@ feature_row:
     excerpt: |
       We showcase original works on data-efficient computer vision through live oral talks and a poster session.
 
-      **Decisions** on OpenReview.
+      **Papers available** on OpenReview.
     url: "https://openreview.net/group?id=thecvf.com/ICCV/2023/Workshop/VIPriors"
     btn_label: "OpenReview"
     btn_class: "btn--primary"
@@ -30,9 +30,9 @@ feature_row:
   - image_path: assets/images/challenge.png
     title: "VIPriors challenges"
     excerpt: |
-      We host four data efficieny challenges on action recognition, classification, detection and segmentation.
+      We host two data efficieny challenges on detection and segmentation.
 
-      **Challenges open**: June 1st, 2023
+      **Challenges close**: September 1st, 2023
     url: "challenges"
     btn_label: "Participate!"
     btn_class: "btn--primary"
@@ -121,8 +121,6 @@ organizers_row:
 
 {% include feature_row %}
 
-<!-- {% include twitter_sidebar %} -->
-
 ## About the workshop
 
 Data is fueling deep learning, yet it is costly to gather and to annotate. Training on massive datasets has a huge energy consumption adding to our carbon footprint. In addition, there are only a select few deep learning behemoths which have billions of data points and thousands of expensive deep learning hardware GPUs at their disposal. This workshop focuses on how to pre-wire deep networks with generic visual inductive innate knowledge structures, which allows to incorporate hard won existing generic knowledge. Visual inductive priors are data efficient: what is built-in no longer has to be learned, saving valuable training data.
@@ -132,6 +130,10 @@ Excellent recent research investigates data efficiency in deep networks by explo
 The great power of deep neural networks is their incredible flexibility to learn. The direct consequence of such power, is that small datasets can simply be memorized and the network will likely not generalize to unseen data. Regularization aims to prevent such over-fitting by adding constraints to the learning process. Much work is done on regularization of internal network properties and architectures. In this workshop we focus on regularization methods based on innate priors. There is strong evidence that an innate prior benefits deep nets: adding convolution to deep networks yields a convolutional deep neural network (CNN) which is hugely successful and has permeated the entire field. While convolution was initially applied on images, it is now generalized to graph networks, speech, language,  3D data, video, etc. Convolution models translation invariance in images: an object may occur anywhere in the image, and thus instead of learning parameters at each location in the image, convolution allows to only consider local relations, yet, share parameters over all image locations. This allows a strong reduction in both number of parameters and examples to learn from. This workshop aims to further the great success of convolution, exploiting innate regularizing structures yielding a significant reduction of training data.
 
 <!-- _This workshop is organized in collaboration with [**SynergySports**](https://synergysports.com/). SynergySports is co-organizing [the VIPriors 2021 challenges](challenges). Head over to the challenges page to find out more!_ -->
+
+## Program
+
+_Program will be announced soon._
 
 ## Invited speakers
 
