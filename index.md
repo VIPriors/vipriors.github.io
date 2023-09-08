@@ -108,7 +108,7 @@ speakers_row:
     url: "https://people.cs.umass.edu/~smaji/"
     btn_label: "Website"
     btn_class: "btn--default"
-  - image_path: /assets/images/EfstratiosGavves.jpg
+  - image_path: /assets/images/ErikBekkers.jpg
     alt: "Erik Bekkers"
     title: "Erik Bekkers"
     excerpt: "University of Amsterdam"
