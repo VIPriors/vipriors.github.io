@@ -3,7 +3,7 @@ title: "<span class='header-marking'>4th Visual Inductive Priors for Data-Effici
 layout: splash
 header:
   overlay_image: assets/images/header_background_centered.png
-excerpt: "<span class='header-marking'>ICCV 2023</span><br/><span class='header-marking'>Monday October 2nd 2023, 9:00 -  13:00</span>"
+excerpt: "<span class='header-marking'>ICCV 2023</span><br/><span class='header-marking'>Monday October 2nd 2023, 8:45 - 13:00</span>"
 intro:
   - excerpt: 'Saving data by adding visual knowledge priors to Deep Learning.'
 feature_row:
@@ -32,7 +32,7 @@ feature_row:
     excerpt: |
       We host two data efficieny challenges on detection and segmentation.
 
-      **Challenges close**: September 1st, 2023
+      **Technical reports due**: September 11th, 2023
     url: "challenges"
     btn_label: "Participate!"
     btn_class: "btn--primary"
@@ -93,28 +93,28 @@ organizers_row:
     url: "https://sites.google.com/diag.uniroma1.it/lorenzobrigato"
     btn_label: "Website"
     btn_class: "btn--default"
-# speakers_row:
-#   - image_path: /assets/images/StephaneMallat.jpg
-#     alt: "Stéphane Mallat"
-#     title: "Stéphane Mallat"
-#     excerpt: "Collège de France"
-#     url: "https://www.di.ens.fr/~mallat/"
-#     btn_label: "Website"
-#     btn_class: "btn--default"
-#   - image_path: /assets/images/DeviParikh.jpg
-#     alt: "Devi Parikh"
-#     title: "Devi Parikh"
-#     excerpt: "FAIR, Georgia Tech"
-#     url: "https://faculty.cc.gatech.edu/~parikh/"
-#     btn_label: "Website"
-#     btn_class: "btn--default"
-#   - image_path: /assets/images/EfstratiosGavves.jpg
-#     alt: "Efstratios Gavves"
-#     title: "Efstratios Gavves"
-#     excerpt: "University of Amsterdam, Ellogon.AI"
-#     url: "https://egavves.github.io/#about"
-#     btn_label: "Website"
-#     btn_class: "btn--default"
+speakers_row:
+  - image_path: /assets/images/ZeynepAkata.jpg
+    alt: "Zeynep Akata"
+    title: "Zeynep Akata"
+    excerpt: "University of Tübingen"
+    url: "https://www.eml-unitue.de/people/zeynep-akata"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/SubhransuMaji.jpg
+    alt: "Subhransu Maji"
+    title: "Subhransu Maji"
+    excerpt: "University of Massachusetts"
+    url: "https://people.cs.umass.edu/~smaji/"
+    btn_label: "Website"
+    btn_class: "btn--default"
+  - image_path: /assets/images/EfstratiosGavves.jpg
+    alt: "Erik Bekkers"
+    title: "Erik Bekkers"
+    excerpt: "University of Amsterdam"
+    url: "https://ebekkers.github.io"
+    btn_label: "Website"
+    btn_class: "btn--default"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -133,13 +133,23 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 ## Program
 
-_Program will be announced soon._
+| CEST | |
+| -- | -- | -- | -- | -- |
+| 8:45 | Opening | Challenge winners will be announced. |
+| 9:00 | Invited talk: Zeynep Akata | |
+| 9:45 | Oral presentation #1: Jayaraman J. Thiagarajan | [InterAug: A Tuning-Free Augmentation Policy for Data-Efficient and Robust Object Detection](https://openreview.net/forum?id=Ole2LywcNw) |
+| 9:55 | Oral presentation #2: Yeskendir Koishekenov | [Geometric Contrastive Learning](https://openreview.net/forum?id=cE4BY5XrzR) |
+| 10:05 | Oral presentation #3: Ombretta Strafforello | [Video BagNet: Short Temporal Receptive Fields Increase Robustness in Long-Term Action Recognition](https://openreview.net/forum?id=pnMwklZdcM) |
+| 10:15 | Oral presentation #4: Pranjay Shyam | [Adversarial Auto-Augmentation for Data-Efficient Single Image Dehazing](https://openreview.net/forum?id=Ll3ZTe0DNX) |
+| 10:25 | Coffee break | |
+| 10:35 | Poster session | [Accepted posters](call-for-papers/#posters) |
+| 11:30 | Invited talk: Subhransu Maji | |
+| 12:15 | Invited talk: Erik Bekkers | |
+| 13:00 | Closing remarks | |
 
 ## Invited speakers
 
-_Speakers are TBA._
-
-<!-- {% include feature_row id="speakers_row" %} -->
+{% include feature_row id="speakers_row" %}
 
 ## Organizers
 
