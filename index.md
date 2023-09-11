@@ -144,7 +144,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 | 10:25 | Coffee break | |
 | 10:35 | Poster session | [Accepted posters](call-for-papers/#posters) |
 | 11:30 | Invited talk: Subhransu Maji | |
-| 12:15 | Invited talk: Erik Bekkers | |
+| 12:15 | Invited talk: Erik Bekkers | Grounded representation learning through equivariant deep learning |
 | 13:00 | Closing remarks | |
 
 ## Invited speakers
