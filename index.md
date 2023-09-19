@@ -136,7 +136,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 | CEST | |
 | -- | -- | -- | -- | -- |
 | 8:45 | Opening | Challenge winners will be announced. |
-| 9:00 | Invited talk: Zeynep Akata | |
+| 9:00 | Invited talk: Erik Bekkers | Grounded representation learning through equivariant deep learning |
 | 9:45 | Oral presentation #1: Jayaraman J. Thiagarajan | [InterAug: A Tuning-Free Augmentation Policy for Data-Efficient and Robust Object Detection](https://openreview.net/forum?id=Ole2LywcNw) |
 | 9:55 | Oral presentation #2: Yeskendir Koishekenov | [Geometric Contrastive Learning](https://openreview.net/forum?id=cE4BY5XrzR) |
 | 10:05 | Oral presentation #3: Ombretta Strafforello | [Video BagNet: Short Temporal Receptive Fields Increase Robustness in Long-Term Action Recognition](https://openreview.net/forum?id=pnMwklZdcM) |
@@ -144,7 +144,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 | 10:25 | Coffee break | |
 | 10:35 | Poster session | [Accepted posters](call-for-papers/#posters) |
 | 11:30 | Invited talk: Subhransu Maji | |
-| 12:15 | Invited talk: Erik Bekkers | Grounded representation learning through equivariant deep learning |
+| 12:15 | Invited talk: Zeynep Akata | |
 | 13:00 | Closing remarks | |
 
 ## Invited speakers
