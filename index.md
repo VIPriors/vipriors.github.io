@@ -94,11 +94,11 @@ organizers_row:
     btn_label: "Website"
     btn_class: "btn--default"
 speakers_row:
-  - image_path: /assets/images/ZeynepAkata.jpg
-    alt: "Zeynep Akata"
-    title: "Zeynep Akata"
+  - image_path: /assets/images/StephanAlaniz.jpg
+    alt: "Stephan Alaniz"
+    title: "Stephan Alaniz"
     excerpt: "University of Tübingen"
-    url: "https://www.eml-unitue.de/people/zeynep-akata"
+    url: "https://www.eml-unitue.de/people/stephan-alaniz"
     btn_label: "Website"
     btn_class: "btn--default"
   - image_path: /assets/images/SubhransuMaji.jpg
@@ -135,7 +135,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 
 | CEST | |
 | -- | -- | -- | -- | -- |
-| 8:45 | Opening | Challenge winners will be announced. |
+| 8:45 | Opening | Announcing challenge winners. |
 | 9:00 | Invited talk: Erik Bekkers | Grounded representation learning through equivariant deep learning |
 | 9:45 | Oral presentation #1: Jayaraman J. Thiagarajan | [InterAug: A Tuning-Free Augmentation Policy for Data-Efficient and Robust Object Detection](https://openreview.net/forum?id=Ole2LywcNw) |
 | 9:55 | Oral presentation #2: Yeskendir Koishekenov | [Geometric Contrastive Learning](https://openreview.net/forum?id=cE4BY5XrzR) |
@@ -143,8 +143,8 @@ The great power of deep neural networks is their incredible flexibility to learn
 | 10:15 | Oral presentation #4: Pranjay Shyam | [Adversarial Auto-Augmentation for Data-Efficient Single Image Dehazing](https://openreview.net/forum?id=Ll3ZTe0DNX) |
 | 10:25 | Coffee break | |
 | 10:35 | Poster session | [Accepted posters](call-for-papers/#posters) |
-| 11:30 | Invited talk: Subhransu Maji | |
-| 12:15 | Invited talk: Zeynep Akata | |
+| 11:30 | Invited talk: Subhransu Maji | Learning representations by convex decompositions |
+| 12:15 | Invited talk: Stephan Alaniz | |
 | 13:00 | Closing remarks | |
 
 ## Invited speakers
