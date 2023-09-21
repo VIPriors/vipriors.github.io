@@ -94,7 +94,7 @@ organizers_row:
     btn_label: "Website"
     btn_class: "btn--default"
 speakers_row:
-  - image_path: /assets/images/StephanAlaniz.jpg
+  - image_path: /assets/images/StephanAlaniz.png
     alt: "Stephan Alaniz"
     title: "Stephan Alaniz"
     excerpt: "University of Tübingen"
