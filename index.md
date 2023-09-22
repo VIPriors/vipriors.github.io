@@ -144,7 +144,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 | 10:25 | Coffee break | |
 | 10:35 | Poster session | [Accepted posters](call-for-papers/#posters) |
 | 11:30 | Invited talk: Subhransu Maji | Learning representations by convex decompositions |
-| 12:15 | Invited talk: Stephan Alaniz | |
+| 12:15 | Invited talk: Stephan Alaniz | Seeking simple explanations through shape priors |
 | 13:00 | Closing remarks | |
 
 ## Invited speakers
