@@ -144,7 +144,7 @@ The great power of deep neural networks is their incredible flexibility to learn
 | 10:05 | Oral presentation #3: Ombretta Strafforello | *[Video BagNet: Short Temporal Receptive Fields Increase Robustness in Long-Term Action Recognition](https://openreview.net/forum?id=pnMwklZdcM)* |
 | 10:15 | Oral presentation #4: Pranjay Shyam | *[Adversarial Auto-Augmentation for Data-Efficient Single Image Dehazing](https://openreview.net/forum?id=Ll3ZTe0DNX)* |
 | 10:25 | Coffee break | |
-| 10:35 | Poster session | [Accepted posters](call-for-papers/#posters) |
+| 10:35 | Poster session | [Accepted posters](https://openreview.net/group?id=thecvf.com/ICCV/2023/Workshop/VIPriors) |
 | 11:30 | Invited talk: Subhransu Maji | *Learning representations by convex decompositions* |
 | 12:15 | Invited talk: Stephan Alaniz | *Seeking simple explanations through shape priors* |
 | 13:00 | Closing remarks | |
