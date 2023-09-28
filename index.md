@@ -32,9 +32,9 @@ feature_row:
     excerpt: |
       We host two data efficieny challenges on detection and segmentation.
 
-      **Technical reports due**: September 11th, 2023
+      **Winners announced**: Live session @ ICCV.
     url: "challenges"
-    btn_label: "Participate!"
+    btn_label: "See details"
     btn_class: "btn--primary"
 organizers_row:
   - image_path: assets/images/JanVanGemert.jpg
